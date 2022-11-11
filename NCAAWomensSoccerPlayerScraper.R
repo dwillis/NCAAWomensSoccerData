@@ -28,7 +28,7 @@ for (i in urls){
   tryCatch(playerstatstibble <- bind_rows(playerstatstibble, playerstats),
            error = function(e){NA})
   
-  Sys.sleep(2)
+  Sys.sleep(1)
 }
 
 playerstatstibble <- playerstatstibble %>% remove_empty(which="rows")
