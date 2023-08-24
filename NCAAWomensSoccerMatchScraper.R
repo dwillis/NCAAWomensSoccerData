@@ -3,9 +3,9 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_womens_soccer_teamurls_2022.csv") %>% pull(3)
+urls <- read_csv("url_csvs/ncaa_womens_soccer_teamurls_2023.csv") %>% pull(3)
 
-season = "2022"
+season = "2023"
 
 root_url <- "https://stats.ncaa.org"
 
@@ -47,8 +47,9 @@ for (i in urls){
   
   joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "outcome", "team_score", "opponent_score", "overtime", "games"))
   
-  # grab opponent IDs - the one issue here is that if a team plays an opponent that isn't linked, this won't work and the team's matches will not be included.
-  # thus, if you want to ensure that you have all matches you should comment out the next two lines.
+  joinedmatches <- joinedmatches %>% add_column(team_id = team_id)
+  
+  # grab opponent IDs - the one issue here is that if a team plays an opponent that isn't linked, this won't work and the team's matches will not have any opponent_id values
   opponent_ids <- schoolpage %>% html_nodes("a") %>% html_attr("href") %>% as_tibble() %>% filter(str_detect(value, "/team/")) %>% filter(!str_detect(value, paste0("/", team_id, "/"))) %>% separate(value, into=c('blank', 'team', 'opponent_id', 'season_id'), sep = '/') %>% select(opponent_id)
   
   tryCatch(joinedmatches <- bind_cols(joinedmatches, opponent_ids),
