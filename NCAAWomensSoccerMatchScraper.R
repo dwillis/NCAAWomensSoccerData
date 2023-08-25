@@ -65,4 +65,4 @@ for (i in urls){
   Sys.sleep(1)
 }
 
-write_csv(matchstatstibble, matchstatsfilename)
+write_csv(matchstatstibble %>% distinct(), matchstatsfilename)
