@@ -3749,28 +3749,28 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Montana Grizzlies,26, Taija Anderson,"Anderson, Taija", Taija,Anderson,Fr,F,1,0,1,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Montana Grizzlies,9, Emma Pascoe,"Pascoe, Emma", Emma,Pascoe,So,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Montana Grizzlies,25, Perrin Pennington,"Pennington, Perrin", Perrin,Pennington,Fr,M,1,0,1,NA,NA,0,2,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,3, Erin Fite,"Fite, Erin", Erin,Fite,Jr,F,3,3,3,NA,NA,0,4,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,33, Avery Redmon,"Redmon, Avery", Avery,Redmon,Jr,M,3,3,3,NA,NA,0,NA,NA,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,11, Hedda Ornberg,"Ornberg, Hedda", Hedda,Ornberg,Fr,F,3,1,3,1,NA,2,7,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,12, Hannah Burke,"Burke, Hannah", Hannah,Burke,Fr,D,3,2,3,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,26, Michelle Hochstadt,"Hochstadt, Michelle", Michelle,Hochstadt,Fr,M,3,1,3,NA,1,1,5,4,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,2, Nicole Fiantaco,"Fiantaco, Nicole", Nicole,Fiantaco,Sr,F,3,3,3,1,1,3,1,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,Morehead St. Eagles,10, Kate Larbes,"Larbes, Kate", Kate,Larbes,Sr,F,3,3,3,2,NA,4,6,4,4,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,6, Gracen Houck,"Houck, Gracen", Gracen,Houck,So,D,3,3,3,NA,NA,0,NA,NA,2,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,22, Sarah Faloon,"Faloon, Sarah", Sarah,Faloon,Sr,D,3,3,3,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,30, Hadley Cytron,"Cytron, Hadley", Hadley,Cytron,Jr,F,3,2,3,NA,1,1,4,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,4, Natalie Ledin,"Ledin, Natalie", Natalie,Ledin,Sr,D,3,0,3,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,5, Anna Lohrer,"Lohrer, Anna", Anna,Lohrer,Jr,D,3,3,3,NA,NA,0,1,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,23, Sejla Podzic,"Podzic, Sejla", Sejla,Podzic,So,F,4,0,4,NA,1,1,2,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,0, Erin Gibbs,"Gibbs, Erin", Erin,Gibbs,So,GK,4,4,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,4,360:00,8,2,18,0.692,1,NA,1,2,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,11, Hedda Ornberg,"Ornberg, Hedda", Hedda,Ornberg,Fr,F,4,2,4,1,NA,2,9,5,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,33, Avery Redmon,"Redmon, Avery", Avery,Redmon,Jr,M,4,4,4,NA,NA,0,NA,NA,4,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,3, Erin Fite,"Fite, Erin", Erin,Fite,Jr,F,4,4,4,NA,NA,0,7,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,26, Michelle Hochstadt,"Hochstadt, Michelle", Michelle,Hochstadt,Fr,M,4,1,4,NA,1,1,5,4,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,2, Nicole Fiantaco,"Fiantaco, Nicole", Nicole,Fiantaco,Sr,F,4,4,4,1,1,3,2,2,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2023,Morehead St. Eagles,10, Kate Larbes,"Larbes, Kate", Kate,Larbes,Sr,F,4,4,4,2,NA,4,7,4,6,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,12, Hannah Burke,"Burke, Hannah", Hannah,Burke,Fr,D,4,3,4,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,22, Sarah Faloon,"Faloon, Sarah", Sarah,Faloon,Sr,D,4,4,4,NA,NA,0,2,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,30, Hadley Cytron,"Cytron, Hadley", Hadley,Cytron,Jr,F,4,2,4,NA,1,1,5,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,4, Natalie Ledin,"Ledin, Natalie", Natalie,Ledin,Sr,D,4,0,4,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,5, Anna Lohrer,"Lohrer, Anna", Anna,Lohrer,Jr,D,4,4,4,NA,NA,0,1,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,6, Gracen Houck,"Houck, Gracen", Gracen,Houck,So,D,4,4,4,NA,NA,0,NA,NA,2,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Morehead St. Eagles,8, Sidney Palla,"Palla, Sidney", Sidney,Palla,Jr,M,3,0,3,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,23, Sejla Podzic,"Podzic, Sejla", Sejla,Podzic,So,F,3,0,3,NA,1,1,2,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,0, Erin Gibbs,"Gibbs, Erin", Erin,Gibbs,So,GK,3,3,3,NA,NA,0,NA,NA,NA,NA,NA,NA,3,3,270:00,8,2.667,16,0.667,NA,NA,1,2,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,19, Colleen Swift,"Swift, Colleen", Colleen,Swift,Sr,F,2,2,2,1,NA,2,3,2,1,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,14, Eli Soderberg,"Soderberg, Eli", Eli,Soderberg,So,F,3,0,3,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,19, Colleen Swift,"Swift, Colleen", Colleen,Swift,Sr,F,3,3,3,1,NA,2,3,2,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,15, Natasha Tanner,"Tanner, Natasha", Natasha,Tanner,Fr,D,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,21, Madison Feldhaus,"Feldhaus, Madison", Madison,Feldhaus,Jr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Morehead St. Eagles,18, Madelyn Mozeleski,"Mozeleski, Madelyn", Madelyn,Mozeleski,Jr,D,2,1,2,NA,NA,0,2,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,15, Natasha Tanner,"Tanner, Natasha", Natasha,Tanner,Fr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,14, Eli Soderberg,"Soderberg, Eli", Eli,Soderberg,So,F,2,0,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,21, Madison Feldhaus,"Feldhaus, Madison", Madison,Feldhaus,Jr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Morehead St. Eagles,16, Mary Trudeau,"Trudeau, Mary", Mary,Trudeau,Fr,M,2,0,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Morehead St. Eagles,27, Gwen Ladd,"Ladd, Gwen", Gwen,Ladd,Fr,M,1,0,1,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Morehead St. Eagles,16, Mary Trudeau,"Trudeau, Mary", Mary,Trudeau,Fr,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Mount St. Mary's Mountaineers,23, Erin Antone,"Antone, Erin", Erin,Antone,Fr,M,4,0,4,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Mount St. Mary's Mountaineers,15, Payton Meara,"Meara, Payton", Payton,Meara,Fr,D,4,4,4,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Mount St. Mary's Mountaineers,13, Anika Berger,"Berger, Anika", Anika,Berger,Fr,F,4,2,4,NA,NA,0,1,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5975,7 +5975,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Stony Brook Seawolves,11, Hannah Maracina,"Maracina, Hannah", Hannah,Maracina,So,F,4,0,4,NA,NA,0,3,2,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Stony Brook Seawolves,10, Linn Beck,"Beck, Linn", Linn,Beck,So,M,4,4,4,1,1,3,9,4,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
 2023,Stony Brook Seawolves,29, Gabby Daniels,"Daniels, Gabby", Gabby,Daniels,Jr,M,4,4,4,NA,NA,0,1,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Stony Brook Seawolves,6, Aneta Sovakova,"Sovakova, Aneta", Aneta,Sovakova,Jr,F,4,4,4,NA,NA,0,1,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Stony Brook Seawolves,6, Aneta Sovakova,"Sovakova, Aneta", Aneta,Sovakova,Jr,D,4,4,4,NA,1,1,1,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Stony Brook Seawolves,2, Grace Cagnina,"Cagnina, Grace", Grace,Cagnina,Sr,D,4,0,4,NA,NA,0,NA,NA,NA,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Stony Brook Seawolves,5, Catharina von Drigalski,"von Drigalski, Catharina", Catharina,von Drigalski,Sr,D,4,4,4,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Stony Brook Seawolves,15, Emma Beattie,"Beattie, Emma", Emma,Beattie,Sr,D,4,0,4,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7518,27 +7518,27 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Wofford Terriers,28, Jordan Rountree,"Rountree, Jordan", Jordan,Rountree,Jr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Wofford Terriers,19, Hayden Fredericks,"Fredericks, Hayden", Hayden,Fredericks,Jr,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Wofford Terriers,9, Ryleigh Holcomb,"Holcomb, Ryleigh", Ryleigh,Holcomb,Fr,F,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,25, Makenzie Chinn,"Chinn, Makenzie", Makenzie,Chinn,Fr,FM,4,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,10, Sophia Kuerze,"Kuerze, Sophia", Sophia,Kuerze,Fr,FM,4,0,4,NA,NA,0,2,2,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,7, Addy Canter,"Canter, Addy", Addy,Canter,Fr,M,4,2,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,17, Kaitlyn Eyink,"Eyink, Kaitlyn", Kaitlyn,Eyink,Fr,D,4,2,4,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,11, Amber Branum,"Branum, Amber", Amber,Branum,So,D,4,4,4,NA,NA,0,1,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,15, Ashley Vaughn,"Vaughn, Ashley", Ashley,Vaughn,So,M,4,2,4,NA,NA,0,NA,NA,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,8, Tamara Smith,"Smith, Tamara", Tamara,Smith,So,D,4,1,4,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,6, Marina Ruthsatz,"Ruthsatz, Marina", Marina,Ruthsatz,So,F,4,0,4,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,13, Elise Canter,"Canter, Elise", Elise,Canter,So,M,4,4,4,NA,NA,0,1,NA,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,18, Marcella Sizer,"Sizer, Marcella", Marcella,Sizer,Sr,F,4,3,4,1,NA,2,2,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,12, Ainsley Terada,"Terada, Ainsley", Ainsley,Terada,Jr,F,4,1,4,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,27, Olivia Mace,"Mace, Olivia", Olivia,Mace,Jr,M,4,4,4,NA,2,2,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,33, Caitlin Burger,"Burger, Caitlin", Caitlin,Burger,Fr,M,4,4,4,NA,NA,0,2,1,5,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,22, Kaylin Helinski,"Helinski, Kaylin", Kaylin,Helinski,Sr,F,4,4,4,NA,NA,0,4,1,4,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,0, Kiera Sarka,"Sarka, Kiera", Kiera,Sarka,Sr,GK,4,4,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,4,270:00,6,2,20,0.769,1,NA,NA,2,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,16, Lauren Borchert,"Borchert, Lauren", Lauren,Borchert,Sr,M,4,4,4,1,NA,2,9,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,Wright St. Raiders,19, Megan Gregory,"Gregory, Megan", Megan,Gregory,Fr,M,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,23, Zara Graff,"Graff, Zara", Zara,Graff,Fr,D,3,3,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,9, Heidi Orloff,"Orloff, Heidi", Heidi,Orloff,Sr,M,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,25, Makenzie Chinn,"Chinn, Makenzie", Makenzie,Chinn,Fr,FM,5,0,5,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,10, Sophia Kuerze,"Kuerze, Sophia", Sophia,Kuerze,Fr,FM,5,0,5,NA,NA,0,3,2,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,7, Addy Canter,"Canter, Addy", Addy,Canter,Fr,M,5,2,5,NA,NA,0,2,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,17, Kaitlyn Eyink,"Eyink, Kaitlyn", Kaitlyn,Eyink,Fr,D,5,3,5,NA,NA,0,2,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,11, Amber Branum,"Branum, Amber", Amber,Branum,So,D,5,5,5,NA,NA,0,2,2,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,15, Ashley Vaughn,"Vaughn, Ashley", Ashley,Vaughn,So,M,5,3,5,NA,NA,0,2,NA,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,8, Tamara Smith,"Smith, Tamara", Tamara,Smith,So,D,5,2,5,NA,NA,0,1,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,6, Marina Ruthsatz,"Ruthsatz, Marina", Marina,Ruthsatz,So,F,5,0,5,NA,NA,0,2,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,13, Elise Canter,"Canter, Elise", Elise,Canter,So,M,5,5,5,NA,NA,0,1,NA,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,18, Marcella Sizer,"Sizer, Marcella", Marcella,Sizer,Sr,F,5,4,5,1,NA,2,4,1,5,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,12, Ainsley Terada,"Terada, Ainsley", Ainsley,Terada,Jr,F,5,1,5,NA,NA,0,1,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,27, Olivia Mace,"Mace, Olivia", Olivia,Mace,Jr,M,5,5,5,NA,2,2,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,33, Caitlin Burger,"Burger, Caitlin", Caitlin,Burger,Fr,M,5,5,5,NA,NA,0,2,1,5,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,22, Kaylin Helinski,"Helinski, Kaylin", Kaylin,Helinski,Sr,F,5,5,5,NA,NA,0,5,2,5,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,0, Kiera Sarka,"Sarka, Kiera", Kiera,Sarka,Sr,GK,5,4,5,NA,NA,0,NA,NA,NA,NA,NA,NA,5,4,315:00,6,1.714,20,0.769,1,1,NA,2,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,16, Lauren Borchert,"Borchert, Lauren", Lauren,Borchert,Sr,M,5,5,5,1,NA,2,10,3,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2023,Wright St. Raiders,19, Megan Gregory,"Gregory, Megan", Megan,Gregory,Fr,M,4,0,4,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,9, Heidi Orloff,"Orloff, Heidi", Heidi,Orloff,Sr,M,4,0,4,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,23, Zara Graff,"Graff, Zara", Zara,Graff,Fr,D,4,3,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Wright St. Raiders,1, Erin Baker,"Baker, Erin", Erin,Baker,Jr,GK,3,1,3,NA,NA,0,NA,NA,NA,NA,NA,NA,3,1,135:00,3,2,11,0.786,NA,1,1,NA,NA,NA,NA,NA,NA
 2023,Wright St. Raiders,3, Brandi Greenlee,"Greenlee, Brandi", Brandi,Greenlee,Sr,D,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Wright St. Raiders,1, Erin Baker,"Baker, Erin", Erin,Baker,Jr,GK,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,2,NA,90:00,3,3,8,0.727,NA,NA,1,NA,NA,NA,NA,NA,NA
 2023,Wright St. Raiders,30, Macey Moore,"Moore, Macey", Macey,Moore,Fr,FM,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Wright St. Raiders,14, Kaylee Pham,"Pham, Kaylee", Kaylee,Pham,So,D,2,2,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Wright St. Raiders,28, Elise Kukuck,"Kukuck, Elise", Elise,Kukuck,Fr,MD,2,0,2,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
