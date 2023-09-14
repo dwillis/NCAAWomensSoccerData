@@ -982,19 +982,11 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Central Ark.  Sugar Bears,18, Ashlanne Fuentes,"Fuentes, Ashlanne", Ashlanne,Fuentes,So,M,4,0,4,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Ark.  Sugar Bears,23, Maria Vanegas,"Vanegas, Maria", Maria,Vanegas,So,M,4,3,4,1,NA,2,3,2,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Ark.  Sugar Bears,27, Adley Barham,"Barham, Adley", Adley,Barham,Jr,D,2,0,2,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-<<<<<<< Updated upstream
 2023,Central Conn. St. Blue Devils,8, Daniela De Souza,"De Souza, Daniela", Daniela,De Souza,Jr,M,7,5,7,1,NA,2,4,3,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,16, Emma Radoncic,"Radoncic, Emma", Emma,Radoncic,Fr,M,7,2,7,NA,NA,0,6,4,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,3, Katarzyna Zawadzki,"Zawadzki, Katarzyna", Katarzyna,Zawadzki,Sr,D,7,6,7,NA,NA,0,1,1,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,12, Giavanna Inzerillo,"Inzerillo, Giavanna", Giavanna,Inzerillo,Sr,F,7,7,7,8,2,18,13,12,8,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2
 2023,Central Conn. St. Blue Devils,18, Rachel Wygant,"Wygant, Rachel", Rachel,Wygant,Fr,F,7,0,7,NA,NA,0,5,1,6,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-=======
-2023,Central Conn. St. Blue Devils,18, Rachel Wygant,"Wygant, Rachel", Rachel,Wygant,Fr,F,7,0,7,NA,NA,0,5,1,6,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Central Conn. St. Blue Devils,16, Emma Radoncic,"Radoncic, Emma", Emma,Radoncic,Fr,M,7,2,7,NA,NA,0,6,4,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Central Conn. St. Blue Devils,3, Katarzyna Zawadzki,"Zawadzki, Katarzyna", Katarzyna,Zawadzki,Sr,D,7,6,7,NA,NA,0,1,1,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Central Conn. St. Blue Devils,12, Giavanna Inzerillo,"Inzerillo, Giavanna", Giavanna,Inzerillo,Sr,F,7,7,7,8,2,18,13,12,8,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2
-2023,Central Conn. St. Blue Devils,8, Daniela De Souza,"De Souza, Daniela", Daniela,De Souza,Jr,M,7,5,7,1,NA,2,4,3,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
->>>>>>> Stashed changes
 2023,Central Conn. St. Blue Devils,22, Victoria Violette,"Violette, Victoria", Victoria,Violette,Jr,D,7,7,7,NA,NA,0,2,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,5, Charlotte Simmons,"Simmons, Charlotte", Charlotte,Simmons,Jr,D,7,7,7,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,11, Lindsay Stevenson,"Stevenson, Lindsay", Lindsay,Stevenson,Jr,F,7,7,7,NA,NA,0,1,NA,10,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -1010,13 +1002,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Central Conn. St. Blue Devils,1, Caitlin Murphy,"Murphy, Caitlin", Caitlin,Murphy,Sr,GK,4,4,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,4,315:00,6,1.714,16,0.727,1,NA,1,2,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,27, Sarah Kent,"Kent, Sarah", Sarah,Kent,So,M,4,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,30, Melina Ford,"Ford, Melina", Melina,Ford,Fr,GK,3,2,3,NA,NA,0,NA,NA,NA,NA,NA,NA,3,2,225:00,4,1.6,8,0.667,NA,NA,1,1,1,NA,NA,NA,NA,NA
-<<<<<<< Updated upstream
 2023,Central Conn. St. Blue Devils,28, Gabby Niman,"Niman, Gabby", Gabby,Niman,Fr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Conn. St. Blue Devils,32, Allison Jeter,"Jeter, Allison", Allison,Jeter,So,GK,2,1,2,NA,NA,0,NA,NA,NA,NA,NA,NA,2,1,90:00,2,2,2,0.5,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
-=======
-2023,Central Conn. St. Blue Devils,32, Allison Jeter,"Jeter, Allison", Allison,Jeter,So,GK,2,1,2,NA,NA,0,NA,NA,NA,NA,NA,NA,2,1,90:00,2,2,2,0.5,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
-2023,Central Conn. St. Blue Devils,28, Gabby Niman,"Niman, Gabby", Gabby,Niman,Fr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
->>>>>>> Stashed changes
 2023,Central Conn. St. Blue Devils,24, Alyssa Crews,"Crews, Alyssa", Alyssa,Crews,So,D,2,1,2,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Central Mich. Chippewas,7, Jenna Little,"Little, Jenna", Jenna,Little,Jr,F,5,5,5,2,NA,4,12,4,3,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Central Mich. Chippewas,5, Lily Wilson,"Wilson, Lily", Lily,Wilson,So,D,5,4,5,NA,NA,0,NA,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4246,17 +4233,13 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Nebraska Huskers,22, Abby Vacek,"Vacek, Abby", Abby,Vacek,So,F,5,0,5,NA,NA,0,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nebraska Huskers,19, Samantha Corrie,"Corrie, Samantha", Samantha,Corrie,Fr,D,4,0,4,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nebraska Huskers,00, Cece Villa,"Villa, Cece", Cece,Villa,So,GK,3,0,3,NA,NA,0,NA,NA,1,NA,NA,NA,3,NA,38:16,0,0,1,1,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
-<<<<<<< Updated upstream
 2023,Nevada Wolf Pack,31, Olivia Loomis,"Loomis, Olivia", Olivia,Loomis,Fr,F,7,4,7,NA,NA,0,6,3,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-=======
->>>>>>> Stashed changes
 2023,Nevada Wolf Pack,26, Abigail Souza,"Souza, Abigail", Abigail,Souza,So,D,7,7,7,NA,2,2,3,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,3, Emily Rich,"Rich, Emily", Emily,Rich,Jr,F,7,7,7,1,NA,2,13,7,6,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,21, Penny Murphy,"Murphy, Penny", Penny,Murphy,Jr,M,7,7,7,1,1,3,6,1,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,14, Caly Ah Soon,"Ah Soon, Caly", Caly,Ah Soon,Jr,M,7,7,7,NA,NA,0,5,2,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,8, Lauren Muff,"Muff, Lauren", Lauren,Muff,Sr,D,7,7,7,NA,1,1,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,7, Luz Arreaga,"Arreaga, Luz", Luz,Arreaga,Sr,M,7,7,7,3,NA,6,15,5,2,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
-<<<<<<< Updated upstream
 2023,Nevada Wolf Pack,11, Ally Little,"Little, Ally", Ally,Little,Jr,F,6,3,6,NA,NA,0,3,1,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,24, Maddie Benson,"Benson, Maddie", Maddie,Benson,So,M,6,6,6,NA,NA,0,3,2,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,4, Serene Gronauer,"Gronauer, Serene", Serene,Gronauer,So,F,6,3,6,NA,1,1,1,NA,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -4270,22 +4253,6 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Nevada Wolf Pack,12, Trinity Sandridge,"Sandridge, Trinity", Trinity,Sandridge,Jr,F,3,1,3,NA,NA,0,2,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,2, Natalie Borba ,"Borba , Natalie", Natalie,Borba ,So,D,2,1,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,5, Brooklyn Blake,"Blake, Brooklyn", Brooklyn,Blake,Sr,M,2,1,2,NA,NA,0,2,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-=======
-2023,Nevada Wolf Pack,31, Olivia Loomis,"Loomis, Olivia", Olivia,Loomis,Fr,F,7,4,7,NA,NA,0,6,3,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,24, Maddie Benson,"Benson, Maddie", Maddie,Benson,So,M,6,6,6,NA,NA,0,3,2,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,11, Ally Little,"Little, Ally", Ally,Little,Jr,F,6,3,6,NA,NA,0,3,1,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,4, Serene Gronauer,"Gronauer, Serene", Serene,Gronauer,So,F,6,3,6,NA,1,1,1,NA,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,19, Gabby Brown,"Brown, Gabby", Gabby,Brown,Sr,D,5,0,5,2,NA,4,5,3,2,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,32, Alexis Friesen,"Friesen, Alexis", Alexis,Friesen,Sr,D,5,4,5,NA,NA,0,NA,NA,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,30, Sydnie Fong,"Fong, Sydnie", Sydnie,Fong,So,D,4,3,4,NA,1,1,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,33, Emily McCue,"McCue, Emily", Emily,McCue,Sr,GK,4,4,4,NA,NA,0,NA,NA,NA,1,NA,NA,4,4,351:42,9,2.303,20,0.69,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,17, Eva Wees,"Wees, Eva", Eva,Wees,So,F,4,0,4,NA,NA,0,NA,NA,1,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,23, Ally Larkin,"Larkin, Ally", Ally,Larkin,Fr,GK,4,3,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,3,278:18,6,1.94,14,0.7,1,NA,NA,2,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,12, Trinity Sandridge,"Sandridge, Trinity", Trinity,Sandridge,Jr,F,3,1,3,NA,NA,0,2,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,6, Regan Rubin,"Rubin, Regan", Regan,Rubin,Fr,FM,3,2,3,NA,NA,0,2,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,5, Brooklyn Blake,"Blake, Brooklyn", Brooklyn,Blake,Sr,M,2,1,2,NA,NA,0,2,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Nevada Wolf Pack,2, Natalie Borba ,"Borba , Natalie", Natalie,Borba ,So,D,2,1,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
->>>>>>> Stashed changes
 2023,Nevada Wolf Pack,25, Charlotte Bonney,"Bonney, Charlotte", Charlotte,Bonney,Fr,F,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,10, Zona Kinnaman,"Kinnaman, Zona", Zona,Kinnaman,Sr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Nevada Wolf Pack,18, Bailey Rozier,"Rozier, Bailey", Bailey,Rozier,So,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5823,32 +5790,18 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,San Francisco Dons,3, Gabby Rizzo,"Rizzo, Gabby", Gabby,Rizzo,Jr,F,7,7,7,NA,NA,0,9,3,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,25, Jamesen Ward,"Ward, Jamesen", Jamesen,Ward,Sr,MD,7,7,7,1,1,3,3,2,5,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
 2023,San Francisco Dons,6, Jackie Koerwitz,"Koerwitz, Jackie", Jackie,Koerwitz,Sr,F,7,5,7,1,NA,2,6,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-<<<<<<< Updated upstream
 2023,San Francisco Dons,5, Natalie Drotzmann,"Drotzmann, Natalie", Natalie,Drotzmann,Fr,D,6,4,6,NA,1,1,NA,NA,4,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,14, Ellie Weissenberg,"Weissenberg, Ellie", Ellie,Weissenberg,So,F,6,0,6,NA,1,1,2,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,31, Kenna Roth,"Roth, Kenna", Kenna,Roth,Jr,D,6,3,6,NA,NA,0,3,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,32, Kira Ybarra,"Ybarra, Kira", Kira,Ybarra,Jr,GK,6,6,6,NA,NA,0,NA,NA,NA,NA,NA,NA,6,6,540:00,13,2.167,28,0.683,1,NA,1,3,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,20, Ana Gorlach,"Gorlach, Ana", Ana,Gorlach,Jr,MD,4,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,34, Olivia Lukrofka,"Lukrofka, Olivia", Olivia,Lukrofka,Fr,F,4,0,4,2,NA,4,5,3,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
-=======
-2023,San Francisco Dons,14, Ellie Weissenberg,"Weissenberg, Ellie", Ellie,Weissenberg,So,F,6,0,6,NA,1,1,2,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,San Francisco Dons,32, Kira Ybarra,"Ybarra, Kira", Kira,Ybarra,Jr,GK,6,6,6,NA,NA,0,NA,NA,NA,NA,NA,NA,6,6,540:00,13,2.167,28,0.683,1,NA,1,3,NA,NA,NA,NA,NA,NA
-2023,San Francisco Dons,31, Kenna Roth,"Roth, Kenna", Kenna,Roth,Jr,D,6,3,6,NA,NA,0,3,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,San Francisco Dons,5, Natalie Drotzmann,"Drotzmann, Natalie", Natalie,Drotzmann,Fr,D,6,4,6,NA,1,1,NA,NA,4,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,San Francisco Dons,34, Olivia Lukrofka,"Lukrofka, Olivia", Olivia,Lukrofka,Fr,F,4,0,4,2,NA,4,5,3,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
-2023,San Francisco Dons,20, Ana Gorlach,"Gorlach, Ana", Ana,Gorlach,Jr,MD,4,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
->>>>>>> Stashed changes
 2023,San Francisco Dons,19, Sydni Yoshida,"Yoshida, Sydni", Sydni,Yoshida,Fr,FM,4,0,4,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,33, Hannah Burns,"Burns, Hannah", Hannah,Burns,So,F,4,0,4,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,15, Lily Loughney,"Loughney, Lily", Lily,Loughney,So,M,3,0,3,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,18, Nina Konidaris,"Konidaris, Nina", Nina,Konidaris,So,F,2,0,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-<<<<<<< Updated upstream
 2023,San Francisco Dons,24, Alexia Estrada,"Estrada, Alexia", Alexia,Estrada,Sr,GK,1,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,1,90:00,3,3,1,0.25,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
 2023,San Francisco Dons,22, Samantha Reyes,"Reyes, Samantha", Samantha,Reyes,Jr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-=======
-2023,San Francisco Dons,22, Samantha Reyes,"Reyes, Samantha", Samantha,Reyes,Jr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,San Francisco Dons,24, Alexia Estrada,"Estrada, Alexia", Alexia,Estrada,Sr,GK,1,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,1,90:00,3,3,1,0.25,NA,NA,NA,1,NA,NA,NA,NA,NA,NA
->>>>>>> Stashed changes
 2023,San Jose St. Spartans,8, Karissa Ruble,"Ruble, Karissa", Karissa,Ruble,Sr,M,7,1,7,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Jose St. Spartans,5, Tatiana Cunningham,"Cunningham, Tatiana", Tatiana,Cunningham,So,M,7,7,7,NA,NA,0,3,1,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,San Jose St. Spartans,9, Kennedy Mayo,"Mayo, Kennedy", Kennedy,Mayo,So,F,7,7,7,1,1,3,12,4,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6275,9 +6228,9 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Southern U. Lady Jaguars,21, Alayla Jackson,"Jackson, Alayla", Alayla,Jackson,Sr,D,2,2,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern U. Lady Jaguars,12, J'Lea Berry,"Berry, J'Lea", J'Lea,Berry,Fr,D,1,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,18, Chiaki Takase,"Takase, Chiaki", Chiaki,Takase,Jr,M,8,8,8,1,NA,2,6,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Southern Utah Thunderbirds,31, Mayu Yamamoto,"Yamamoto, Mayu", Mayu,Yamamoto,Jr,M,8,7,8,NA,1,1,4,1,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,13, Steph Roper,"Roper, Steph", Steph,Roper,Fr,F,8,2,8,NA,NA,0,1,1,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,21, Liz Orubor,"Orubor, Liz", Liz,Orubor,Fr,D,8,0,8,NA,NA,0,2,1,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Southern Utah Thunderbirds,31, Mayu Yamamoto,"Yamamoto, Mayu", Mayu,Yamamoto,Jr,M,8,7,8,NA,1,1,4,1,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,24, Addison Larsen,"Larsen, Addison", Addison,Larsen,So,M,8,6,8,NA,NA,0,2,NA,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,15, Sammie Sofonia,"Sofonia, Sammie", Sammie,Sofonia,So,F,8,7,8,3,1,7,22,10,8,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,00, Julia Ortega,"Ortega, Julia", Julia,Ortega,So,GK,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,8,8,709:31,18,2.283,54,0.75,1,NA,NA,4,4,NA,NA,NA,NA,NA
@@ -6288,17 +6241,17 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Southern Utah Thunderbirds,17, Ashley Rivera,"Rivera, Ashley", Ashley,Rivera,Sr,F,8,1,8,1,NA,2,8,1,2,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,23, Adelayo Oguntade,"Oguntade, Adelayo", Adelayo,Oguntade,Jr,D,8,8,8,NA,NA,0,1,NA,4,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,9, Aubrey Murray,"Murray, Aubrey", Aubrey,Murray,So,D,8,8,8,NA,NA,0,1,NA,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Southern Utah Thunderbirds,10, Hailey Hamataka,"Hamataka, Hailey", Hailey,Hamataka,Jr,M,7,1,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,20, Angie Knies,"Knies, Angie", Angie,Knies,Jr,D,7,0,7,NA,NA,0,3,2,6,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Southern Utah Thunderbirds,10, Hailey Hamataka,"Hamataka, Hailey", Hailey,Hamataka,Jr,M,7,1,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,25, Jenna Grider,"Grider, Jenna", Jenna,Grider,Fr,D,7,3,7,NA,NA,0,1,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,29, Skylar Cano,"Cano, Skylar", Skylar,Cano,Fr,F,6,1,6,2,NA,4,8,4,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Southern Utah Thunderbirds,14, Kiersi Fietkau,"Fietkau, Kiersi", Kiersi,Fietkau,Fr,FM,4,0,4,NA,NA,0,NA,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,16, Teya Snowder,"Snowder, Teya", Teya,Snowder,Fr,FM,4,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Southern Utah Thunderbirds,14, Kiersi Fietkau,"Fietkau, Kiersi", Kiersi,Fietkau,Fr,FM,4,0,4,NA,NA,0,NA,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,29, Libby Anderson,"Anderson, Libby", Libby,Anderson,So,F,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,3, Kaila Tone,"Tone, Kaila", Kaila,Tone,Fr,M,2,0,2,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Southern Utah Thunderbirds,33, Brooklyn Northcutt,"Northcutt, Brooklyn", Brooklyn,Northcutt,So,GK,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,NA,10:29,1,8.585,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,1, Emilie Rupprecht,"Rupprecht, Emilie", Emilie,Rupprecht,Fr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Southern Utah Thunderbirds,19, Sydney Davis,"Davis, Sydney", Sydney,Davis,Fr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Southern Utah Thunderbirds,33, Brooklyn Northcutt,"Northcutt, Brooklyn", Brooklyn,Northcutt,So,GK,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,NA,10:29,1,8.585,1,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,St. Bonaventure Bonnies,21, Olivia Allen,"Allen, Olivia", Olivia,Allen,So,,7,7,7,3,2,8,13,7,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,NA,NA
 2023,St. Bonaventure Bonnies,20, Hannah Walker,"Walker, Hannah", Hannah,Walker,So,,7,7,7,NA,2,2,2,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,St. Bonaventure Bonnies,14, Ava Myers,"Myers, Ava", Ava,Myers,So,,7,0,7,NA,NA,0,2,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
