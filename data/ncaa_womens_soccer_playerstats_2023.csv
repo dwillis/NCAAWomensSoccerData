@@ -2102,7 +2102,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Fresno St. Bulldogs,6, Averee Campos,"Campos, Averee", Averee,Campos,Jr,D,20,20,20,NA,NA,0,4,2,25,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Fresno St. Bulldogs,10, Laura Mas Serra,"Mas Serra, Laura", Laura,Mas Serra,So,M,20,11,20,1,2,4,13,8,20,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
 2023,Fresno St. Bulldogs,5, Jordan Lau,"Lau, Jordan", Jordan,Lau,Jr,D,20,20,20,NA,NA,0,5,3,16,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Fresno St. Bulldogs,9, Julia Hardwick,"Hardwick, Julia", Julia,Hardwick,Sr,D,20,20,20,NA,NA,0,NA,NA,4,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Fresno St. Bulldogs,9, Julia Hardwick,"Hardwick, Julia", Julia,Hardwick,Sr,D,20,20,20,NA,1,1,NA,NA,4,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Fresno St. Bulldogs,1, Valentina Vivas,"Vivas, Valentina", Valentina,Vivas,Sr,GK,20,20,20,NA,NA,0,NA,NA,NA,NA,1,NA,20,20,1473:18,20,1.222,65,0.765,4,2,5,9,4,NA,NA,NA,NA,NA
 2023,Fresno St. Bulldogs,11, Katie Morris,"Morris, Katie", Katie,Morris,Fr,D,20,16,20,NA,1,1,5,3,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Fresno St. Bulldogs,77, Adriana Maldonado,"Maldonado, Adriana", Adriana,Maldonado,Sr,M,20,20,20,2,3,7,20,12,19,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3014,8 +3014,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,James Madison Dukes,88, Jordan Yang,"Yang, Jordan", Jordan,Yang,So,D,21,20,21,NA,1,1,5,3,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,James Madison Dukes,66, Brittany Munson,"Munson, Brittany", Brittany,Munson,Sr,D,20,18,20,NA,3,3,8,5,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,James Madison Dukes,26, Ellie Johnson,"Johnson, Ellie", Ellie,Johnson,Sr,M,20,20,20,2,4,8,16,9,4,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,James Madison Dukes,15, Amanda Attanasi,"Attanasi, Amanda", Amanda,Attanasi,Jr,F,20,17,20,6,3,15,35,22,10,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
 2023,James Madison Dukes,10, Lexi Vanderlinden,"Vanderlinden, Lexi", Lexi,Vanderlinden,Jr,M,20,19,20,1,2,4,18,6,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2023,James Madison Dukes,15, Amanda Attanasi,"Attanasi, Amanda", Amanda,Attanasi,Jr,F,20,17,20,6,3,15,35,22,10,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
 2023,James Madison Dukes,7, Jeanette Fieldsend,"Fieldsend, Jeanette", Jeanette,Fieldsend,Fr,FM,19,13,19,3,2,8,13,6,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,James Madison Dukes,5, Jamie Swartz,"Swartz, Jamie", Jamie,Swartz,So,M,18,1,18,NA,NA,0,2,NA,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,James Madison Dukes,24, Ella Stanley,"Stanley, Ella", Ella,Stanley,Fr,MD,17,3,17,NA,NA,0,NA,NA,1,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3029,8 +3029,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,James Madison Dukes,38, Kylie Rock,"Rock, Kylie", Kylie,Rock,So,F,9,0,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,James Madison Dukes,11, Y-Van Nguyen,"Nguyen, Y-Van", Y-Van,Nguyen,So,M,6,0,6,NA,NA,0,1,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,James Madison Dukes,0, Haley Stoup,"Stoup, Haley", Haley,Stoup,Sr,GK,3,1,3,NA,NA,0,NA,NA,NA,NA,NA,NA,3,1,110:50,1,0.812,2,0.667,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
-2023,James Madison Dukes,12, Alexa Aranias,"Aranias, Alexa", Alexa,Aranias,Fr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,James Madison Dukes,43, Riley Goss,"Goss, Riley", Riley,Goss,Fr,M,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,James Madison Dukes,12, Alexa Aranias,"Aranias, Alexa", Alexa,Aranias,Fr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Kansas Jayhawks,15, Caroline Castans,"Castans, Caroline", Caroline,Castans,Fr,MD,18,18,18,1,NA,2,7,4,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Kansas Jayhawks,2, Olivia Page,"Page, Olivia", Olivia,Page,Fr,D,18,8,18,1,1,3,7,2,14,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Kansas Jayhawks,18, Lexi Watts,"Watts, Lexi", Lexi,Watts,So,F,18,17,18,2,3,7,46,12,16,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
@@ -3298,19 +3298,19 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Lafayette Leopards,31, Maddie Miniutti,"Miniutti, Maddie", Maddie,Miniutti,So,GK,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,NA,45:00,0,0,1,1,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
 2023,Lafayette Leopards,11, Sofia Ruggiero,"Ruggiero, Sofia", Sofia,Ruggiero,So,M,1,0,1,NA,NA,0,2,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lafayette Leopards,18, Catherine Apker,"Apker, Catherine", Catherine,Apker,Fr,GK,1,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,1,45:00,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Lamar University Cardinals,32, Caragan Childs,"Childs, Caragan", Caragan,Childs,Jr,F,20,20,20,NA,1,1,3,3,5,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Lamar University Cardinals,11, Kauany Sousa,"Sousa, Kauany", Kauany,Sousa,Sr,F,20,1,20,NA,NA,0,22,6,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,14, Cariel Ellis,"Ellis, Cariel", Cariel,Ellis,Sr,F,20,20,20,8,6,22,69,38,27,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,5
-2023,Lamar University Cardinals,7, Alana Clark,"Clark, Alana", Alana,Clark,Sr,M,20,20,20,2,1,5,17,4,13,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,12, Trinity Clark,"Clark, Trinity", Trinity,Clark,Sr,M,20,20,20,2,3,7,15,11,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2023,Lamar University Cardinals,32, Caragan Childs,"Childs, Caragan", Caragan,Childs,Jr,F,20,20,20,NA,1,1,3,3,5,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Lamar University Cardinals,44, Maddie Janolo,"Janolo, Maddie", Maddie,Janolo,Sr,D,20,20,20,3,1,7,13,10,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Lamar University Cardinals,7, Alana Clark,"Clark, Alana", Alana,Clark,Sr,M,20,20,20,2,1,5,17,4,13,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Lamar University Cardinals,11, Kauany Sousa,"Sousa, Kauany", Kauany,Sousa,Sr,F,20,1,20,NA,NA,0,22,6,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,1, Nicole Panis,"Panis, Nicole", Nicole,Panis,Sr,GK,20,20,20,NA,NA,0,NA,NA,NA,NA,NA,NA,20,20,1790:07,11,0.553,66,0.857,10,1,15,2,3,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,18, Arely Alaniz,"Alaniz, Arely", Arely,Alaniz,Sr,D,20,20,20,2,3,7,46,27,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,Lamar University Cardinals,44, Maddie Janolo,"Janolo, Maddie", Maddie,Janolo,Sr,D,20,20,20,3,1,7,13,10,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,99, Kamryn Harvey,"Harvey, Kamryn", Kamryn,Harvey,Fr,F,19,1,19,1,1,3,12,6,15,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Lamar University Cardinals,28, Riley Wilson,"Wilson, Riley", Riley,Wilson,Fr,D,18,10,18,NA,NA,0,6,1,20,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Lamar University Cardinals,30, Hollie Massey,"Massey, Hollie", Hollie,Massey,Sr,M,18,18,18,6,11,23,63,33,29,1,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,3
-2023,Lamar University Cardinals,9, Isela Ramirez,"Ramirez, Isela", Isela,Ramirez,Jr,F,18,18,18,6,2,14,21,13,21,1,4,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
 2023,Lamar University Cardinals,8, Kaya Williams,"Williams, Kaya", Kaya,Williams,Jr,D,18,0,18,NA,NA,0,1,1,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Lamar University Cardinals,30, Hollie Massey,"Massey, Hollie", Hollie,Massey,Sr,M,18,18,18,6,11,23,63,33,29,1,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,3
+2023,Lamar University Cardinals,28, Riley Wilson,"Wilson, Riley", Riley,Wilson,Fr,D,18,10,18,NA,NA,0,6,1,20,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Lamar University Cardinals,9, Isela Ramirez,"Ramirez, Isela", Isela,Ramirez,Jr,F,18,18,18,6,2,14,21,13,21,1,4,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
 2023,Lamar University Cardinals,19, Rafiatu Alhassan,"Alhassan, Rafiatu", Rafiatu,Alhassan,Sr,F,17,2,17,1,2,4,20,11,9,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Lamar University Cardinals,22, Kaisa Juvonen,"Juvonen, Kaisa", Kaisa,Juvonen,Sr,M,17,16,17,1,2,4,8,4,7,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,15, Payton Joost,"Joost, Payton", Payton,Joost,So,D,15,8,15,1,NA,2,1,1,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -3322,10 +3322,10 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Lamar University Cardinals,21, Taylor Conway,"Conway, Taylor", Taylor,Conway,So,F,5,0,5,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,25, Kolbi Coleman,"Coleman, Kolbi", Kolbi,Coleman,Jr,F,4,1,4,1,NA,2,4,2,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
 2023,Lamar University Cardinals,13, Viviana Duarte,"Duarte, Viviana", Viviana,Duarte,Fr,M,3,0,3,NA,NA,0,NA,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Lamar University Cardinals,0, Maddie Rich,"Rich, Maddie", Maddie,Rich,Fr,GK,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,2,NA,29:53,1,3.012,1,0.5,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,27, Madison Rabideau,"Rabideau, Madison", Madison,Rabideau,Jr,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Lamar University Cardinals,26, Ayvah Angala,"Angala, Ayvah", Ayvah,Angala,Fr,D,1,0,1,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Lamar University Cardinals,0, Maddie Rich,"Rich, Maddie", Maddie,Rich,Fr,GK,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,2,NA,29:53,1,3.012,1,0.5,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,5, Emmi Sullivan,"Sullivan, Emmi", Emmi,Sullivan,Fr,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Lamar University Cardinals,26, Ayvah Angala,"Angala, Ayvah", Ayvah,Angala,Fr,D,1,0,1,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Lamar University Cardinals,24, Grace Richard,"Richard, Grace", Grace,Richard,Jr,M,1,0,1,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Le Moyne Dolphins,7, Sierra Edwards,"Edwards, Sierra", Sierra,Edwards,Jr,F,18,11,18,3,NA,6,16,8,12,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Le Moyne Dolphins,26, Autumn Edwards,"Edwards, Autumn", Autumn,Edwards,Jr,F,18,4,18,1,1,3,18,5,13,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5834,21 +5834,21 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Saint Francis (PA) The Red Flash,17, Paige Theobald,"Theobald, Paige", Paige,Theobald,Sr,M,17,17,17,NA,NA,0,6,2,12,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,14, Claire Miko,"Miko, Claire", Claire,Miko,Sr,M,17,17,17,1,3,5,10,5,10,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,20, Savannah Schoonmaker,"Schoonmaker, Savannah", Savannah,Schoonmaker,Jr,D,16,15,16,NA,1,1,1,NA,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Francis (PA) The Red Flash,26, Mercedez Paino,"Paino, Mercedez", Mercedez,Paino,Fr,F,15,7,15,2,NA,4,7,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,10, Aixa Helbringer-Escobar,"Helbringer-Escobar, Aixa", Aixa,Helbringer-Escobar,So,M,15,6,15,2,NA,4,9,5,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,11, Colletta Ozbey,"Ozbey, Colletta", Colletta,Ozbey,Sr,M,15,1,15,NA,NA,0,3,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Saint Francis (PA) The Red Flash,26, Mercedez Paino,"Paino, Mercedez", Mercedez,Paino,Fr,F,15,7,15,2,NA,4,7,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,8, Caterina Schiavo,"Schiavo, Caterina", Caterina,Schiavo,Fr,D,13,8,13,1,NA,2,4,2,2,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,3, Riley Cerqua,"Cerqua, Riley", Riley,Cerqua,Fr,D,12,1,12,NA,NA,0,3,1,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,9, Cameron Collins,"Collins, Cameron", Cameron,Collins,Fr,M,10,0,10,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Francis (PA) The Red Flash,22, Raine Korpics,"Korpics, Raine", Raine,Korpics,So,M,10,10,10,3,NA,6,15,9,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
 2023,Saint Francis (PA) The Red Flash,28, Rory Schaeffer,"Schaeffer, Rory", Rory,Schaeffer,Sr,D,10,9,10,NA,1,1,NA,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Saint Francis (PA) The Red Flash,22, Raine Korpics,"Korpics, Raine", Raine,Korpics,So,M,10,10,10,3,NA,6,15,9,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
 2023,Saint Francis (PA) The Red Flash,99, Sarah McConnon,"McConnon, Sarah", Sarah,McConnon,Sr,GK,10,10,10,NA,NA,0,NA,NA,NA,NA,1,NA,10,10,888:09,14,1.419,52,0.788,3,1,3,5,2,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,4, Bella Pesce,"Pesce, Bella", Bella,Pesce,Jr,D,9,7,9,NA,NA,0,NA,NA,7,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,13, Layla Flores,"Flores, Layla", Layla,Flores,Fr,F,7,0,7,1,NA,2,1,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Francis (PA) The Red Flash,00, Emma Sawich,"Sawich, Emma", Emma,Sawich,Jr,GK,4,4,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,4,360:00,18,4.5,29,0.617,NA,NA,NA,4,NA,NA,NA,NA,NA,NA
-2023,Saint Francis (PA) The Red Flash,29, Casey Breier,"Breier, Casey", Casey,Breier,So,F,4,0,4,NA,NA,0,2,2,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,1, Julianna Marshall,"Marshall, Julianna", Julianna,Marshall,Sr,GK,4,3,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,3,281:51,9,2.874,13,0.591,NA,1,NA,3,NA,NA,NA,NA,NA,NA
+2023,Saint Francis (PA) The Red Flash,29, Casey Breier,"Breier, Casey", Casey,Breier,So,F,4,0,4,NA,NA,0,2,2,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Francis (PA) The Red Flash,31, Averey Black,"Black, Averey", Averey,Black,So,M,4,0,4,NA,NA,0,NA,NA,NA,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Saint Francis (PA) The Red Flash,00, Emma Sawich,"Sawich, Emma", Emma,Sawich,Jr,GK,4,4,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,4,360:00,18,4.5,29,0.617,NA,NA,NA,4,NA,NA,NA,NA,NA,NA
 2023,Saint Joseph's Hawks,8, Nicole Everard,"Everard, Nicole", Nicole,Everard,Fr,M,19,12,19,1,4,6,18,9,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Joseph's Hawks,9, Juliette Muro,"Muro, Juliette", Juliette,Muro,Fr,M,19,6,19,1,1,3,7,4,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Joseph's Hawks,0, Katie Cappelletti,"Cappelletti, Katie", Katie,Cappelletti,Sr,GK,19,19,19,NA,NA,0,NA,NA,NA,NA,NA,NA,19,19,1708:00,25,1.317,100,0.8,5,NA,4,9,6,NA,NA,NA,NA,NA
@@ -5920,29 +5920,29 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Saint Mary's (CA) Gaels,22, Alison Heckman,"Heckman, Alison", Alison,Heckman,Sr,M,2,1,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Mary's (CA) Gaels,25, Emily Johnson,"Johnson, Emily", Emily,Johnson,Jr,F,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Mary's (CA) Gaels,10, Priscilla Ward,"Ward, Priscilla", Priscilla,Ward,So,F,1,1,1,NA,NA,0,1,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Peter's Peacocks,6, Felicia Wallin,"Wallin, Felicia", Felicia,Wallin,So,D,15,14,15,NA,2,2,12,4,14,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,23, Gianna Grassifulli,"Grassifulli, Gianna", Gianna,Grassifulli,So,F,15,15,15,3,1,7,31,18,30,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Saint Peter's Peacocks,13, Stella Accettola,"Accettola, Stella", Stella,Accettola,So,M,15,8,15,1,1,3,10,7,8,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Saint Peter's Peacocks,20, Olof Hildur Tomasdottir,"Hildur Tomasdottir, Olof", Olof,Hildur Tomasdottir,Fr,M,15,15,15,1,NA,2,5,3,15,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Peter's Peacocks,14, Lucia Mansilla Medina,"Mansilla Medina, Lucia", Lucia,Mansilla Medina,Jr,M,14,12,14,NA,1,1,16,7,15,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Peter's Peacocks,9, Allyssia Merisier ,"Merisier , Allyssia", Allyssia,Merisier ,Fr,M,14,14,14,NA,1,1,2,1,18,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Saint Peter's Peacocks,6, Felicia Wallin,"Wallin, Felicia", Felicia,Wallin,So,D,15,14,15,NA,2,2,12,4,14,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,11, Taylor Moyer,"Moyer, Taylor", Taylor,Moyer,So,F,14,10,14,3,NA,6,14,8,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2023,Saint Peter's Peacocks,9, Allyssia Merisier ,"Merisier , Allyssia", Allyssia,Merisier ,Fr,M,14,14,14,NA,1,1,2,1,18,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Saint Peter's Peacocks,14, Lucia Mansilla Medina,"Mansilla Medina, Lucia", Lucia,Mansilla Medina,Jr,M,14,12,14,NA,1,1,16,7,15,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,10, Joana Dias ,"Dias , Joana", Joana,Dias ,So,M,13,12,13,4,1,9,10,9,15,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,1
 2023,Saint Peter's Peacocks,2, Alyssa Hackett,"Hackett, Alyssa", Alyssa,Hackett,So,M,13,12,13,4,3,11,23,9,15,NA,5,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,1, Annabelle Adams,"Adams, Annabelle", Annabelle,Adams,Jr,GK,12,11,12,NA,NA,0,NA,NA,1,NA,NA,NA,12,11,1035:00,36,3.13,92,0.719,1,NA,3,9,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,3, Leslie Pineda,"Pineda, Leslie", Leslie,Pineda,Sr,D,12,12,12,NA,NA,0,3,1,5,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Peter's Peacocks,7, Jacqui Weber,"Weber, Jacqui", Jacqui,Weber,Fr,D,11,4,11,NA,NA,0,3,NA,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,5, Carlota Pastor Romero,"Pastor Romero, Carlota", Carlota,Pastor Romero,Jr,D,11,0,11,NA,NA,0,3,1,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Saint Peter's Peacocks,7, Jacqui Weber,"Weber, Jacqui", Jacqui,Weber,Fr,D,11,4,11,NA,NA,0,3,NA,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,15, Amanda Andreus,"Andreus, Amanda", Amanda,Andreus,Fr,FM,10,8,10,NA,NA,0,6,4,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,12, Gabrielle Saint-Jacques,"Saint-Jacques, Gabrielle", Gabrielle,Saint-Jacques,So,F,10,3,10,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,16, Wilma Thodhlana,"Thodhlana, Wilma", Wilma,Thodhlana,Fr,MD,9,5,9,NA,NA,0,NA,NA,2,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,22, Sydney Ragland,"Ragland, Sydney", Sydney,Ragland,Fr,FM,9,0,9,NA,NA,0,2,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,8, Keely Donovan,"Donovan, Keely", Keely,Donovan,So,F,8,6,8,NA,1,1,NA,NA,7,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Peter's Peacocks,21, Alexa Ceci,"Ceci, Alexa", Alexa,Ceci,So,D,4,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,00, Emma Lopes,"Lopes, Emma", Emma,Lopes,So,GK,4,4,4,NA,NA,0,NA,NA,NA,NA,1,NA,4,4,315:00,12,3.429,16,0.571,NA,NA,1,2,NA,NA,NA,NA,NA,NA
+2023,Saint Peter's Peacocks,21, Alexa Ceci,"Ceci, Alexa", Alexa,Ceci,So,D,4,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,4, Iva Trifunovic,"Trifunovic, Iva", Iva,Trifunovic,Sr,D,2,0,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Saint Peter's Peacocks,25, Caragan Kleinke,"Kleinke, Caragan", Caragan,Kleinke,Fr,D,1,0,1,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Saint Peter's Peacocks,24, Josetiarainnah Olaco,"Olaco, Josetiarainnah", Josetiarainnah,Olaco,So,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Saint Peter's Peacocks,25, Caragan Kleinke,"Kleinke, Caragan", Caragan,Kleinke,Fr,D,1,0,1,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Sam Houston Bearkats,20, Solae Young,"Young, Solae", Solae,Young,Fr,F,17,1,17,3,NA,6,12,7,10,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Sam Houston Bearkats,25, Jasmine Dybala,"Dybala, Jasmine", Jasmine,Dybala,Fr,D,17,8,17,NA,NA,0,3,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Sam Houston Bearkats,22, Ariana Carrington,"Carrington, Ariana", Ariana,Carrington,Fr,M,17,2,17,2,3,7,11,8,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
@@ -7322,17 +7322,17 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,UCLA Bruins,19, Quincy McMahon,"McMahon, Quincy", Quincy,McMahon,Jr,D,18,18,18,1,7,9,12,6,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,UCLA Bruins,66, Reilyn Turner,"Turner, Reilyn", Reilyn,Turner,Sr,F,18,18,18,10,6,26,62,28,6,NA,4,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,3
 2023,UCLA Bruins,33, Ally Cook,"Cook, Ally", Ally,Cook,Sr,F,18,18,18,9,1,19,43,19,15,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2023,UCLA Bruins,14, Val Vargas,"Vargas, Val", Val,Vargas,Fr,F,17,3,17,2,2,6,23,8,21,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,17, Lexi Wright,"Wright, Lexi", Lexi,Wright,Jr,F,17,15,17,6,3,15,46,22,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2023,UCLA Bruins,14, Val Vargas,"Vargas, Val", Val,Vargas,Fr,F,17,3,17,2,2,6,23,8,21,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UCLA Bruins,26, Bridgette Marin-Valencia,"Marin-Valencia, Bridgette", Bridgette,Marin-Valencia,So,F,16,3,16,2,NA,4,13,4,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
 2023,UCLA Bruins,11, America Frias,"Frias, America", America,Frias,So,F,16,0,16,1,4,6,6,3,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
 2023,UCLA Bruins,4, Lilly Reale,"Reale, Lilly", Lilly,Reale,Jr,D,16,16,16,NA,NA,0,8,4,13,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UCLA Bruins,26, Bridgette Marin-Valencia,"Marin-Valencia, Bridgette", Bridgette,Marin-Valencia,So,F,16,3,16,2,NA,4,13,4,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
 2023,UCLA Bruins,16, Taylor Cheatham,"Cheatham, Taylor", Taylor,Cheatham,Fr,F,15,0,15,1,2,4,12,5,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UCLA Bruins,18, Emily Pringle,"Pringle, Emily", Emily,Pringle,Sr,D,14,0,14,NA,NA,0,4,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,12, Michaela Rosenbaum,"Rosenbaum, Michaela", Michaela,Rosenbaum,Sr,M,14,1,14,2,NA,4,6,3,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UCLA Bruins,23, Janae DeFazio,"DeFazio, Janae", Janae,DeFazio,Sr,F,14,1,14,NA,1,1,3,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UCLA Bruins,9, Sofia Cook,"Cook, Sofia", Sofia,Cook,So,M,14,9,14,1,2,4,30,8,11,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,13, Emma Egizii,"Egizii, Emma", Emma,Egizii,So,M,14,12,14,2,1,5,21,9,16,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
+2023,UCLA Bruins,9, Sofia Cook,"Cook, Sofia", Sofia,Cook,So,M,14,9,14,1,2,4,30,8,11,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UCLA Bruins,18, Emily Pringle,"Pringle, Emily", Emily,Pringle,Sr,D,14,0,14,NA,NA,0,4,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UCLA Bruins,23, Janae DeFazio,"DeFazio, Janae", Janae,DeFazio,Sr,F,14,1,14,NA,1,1,3,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,30, Megan Edelman,"Edelman, Megan", Megan,Edelman,Sr,M,10,0,10,1,NA,2,6,1,3,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,3, Maya Evans,"Evans, Maya", Maya,Evans,Sr,D,10,1,10,NA,NA,0,4,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,50, Sunshine Fontes,"Fontes, Sunshine", Sunshine,Fontes,Sr,F,9,9,9,5,1,11,26,11,3,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,2
@@ -7343,8 +7343,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,UCLA Bruins,5, Milla Shafie,"Shafie, Milla", Milla,Shafie,Fr,D,3,0,3,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,8, Peyton Marcisz,"Marcisz, Peyton", Peyton,Marcisz,So,M,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,36, Maya Leoni,"Leoni, Maya", Maya,Leoni,Fr,M,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UCLA Bruins,7, Jordyn Gather,"Gather, Jordyn", Jordyn,Gather,Sr,D,1,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UCLA Bruins,0, Kelly McManus,"McManus, Kelly", Kelly,McManus,Sr,GK,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,NA,17:31,0,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UCLA Bruins,7, Jordyn Gather,"Gather, Jordyn", Jordyn,Gather,Sr,D,1,1,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UConn Huskies,10, Chioma Okafor,"Okafor, Chioma", Chioma,Okafor,So,F,19,19,19,6,3,15,71,30,19,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
 2023,UConn Huskies,9, Sophie McCarthy,"McCarthy, Sophie", Sophie,McCarthy,Jr,M,19,19,19,1,1,3,18,6,13,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,UConn Huskies,18, Laci Lewis,"Lewis, Laci", Laci,Lewis,Jr,D,19,19,19,NA,2,2,5,3,9,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -8003,7 +8003,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Villanova Wildcats,5, Caroline Graham,"Graham, Caroline", Caroline,Graham,So,F,5,0,5,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Villanova Wildcats,22, Olivia Packer,"Packer, Olivia", Olivia,Packer,Sr,D,4,4,4,1,1,3,6,2,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Villanova Wildcats,9, Becca Miller,"Miller, Becca", Becca,Miller,Fr,F,4,0,4,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Villanova Wildcats,8, Gabi Andres,"Andres, Gabi", Gabi,Andres,So,D,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Villanova Wildcats,8, Gabi Andres,"Andres, Gabi", Gabi,Andres,So,D,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Villanova Wildcats,1, Ela Kopec,"Kopec, Ela", Ela,Kopec,Jr,GK,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,NA,0:30,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Villanova Wildcats,15, Emma Weaver,"Weaver, Emma", Emma,Weaver,Sr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Virginia Cavaliers,8, Allie Ross,"Ross, Allie", Allie,Ross,Fr,F,17,12,17,6,3,15,35,15,9,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
@@ -8394,7 +8394,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Wisconsin Badgers,11, Riley Philbin,"Philbin, Riley", Riley,Philbin,Jr,FM,20,0,20,1,NA,2,7,2,10,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Wisconsin Badgers,32, Hailey Baumann,"Baumann, Hailey", Hailey,Baumann,Fr,D,20,20,20,NA,NA,0,14,3,5,NA,5,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Wisconsin Badgers,13, Taylor Gordon,"Gordon, Taylor", Taylor,Gordon,Fr,F,20,0,20,1,NA,2,8,2,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,Wisconsin Badgers,2, Emma Jaskaniec,"Jaskaniec, Emma", Emma,Jaskaniec,Sr,FM,19,17,19,11,4,26,55,30,16,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,4
+2023,Wisconsin Badgers,2, Emma Jaskaniec,"Jaskaniec, Emma", Emma,Jaskaniec,Sr,FM,19,17,19,11,5,27,55,30,16,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,4
 2023,Wisconsin Badgers,22, Sarah Rosenbaum,"Rosenbaum, Sarah", Sarah,Rosenbaum,Fr,F,17,0,17,1,NA,2,2,1,1,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Wisconsin Badgers,5, Dara Andringa,"Andringa, Dara", Dara,Andringa,Sr,M,17,1,17,NA,NA,0,1,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Wisconsin Badgers,33, Adee Boer,"Boer, Adee", Adee,Boer,Jr,FM,16,0,16,1,NA,2,6,3,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
