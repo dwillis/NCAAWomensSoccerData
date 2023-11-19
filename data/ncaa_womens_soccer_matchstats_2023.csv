@@ -93,6 +93,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-26,Alabama Crimson Tide,Missouri,Away,Win,2,1,NA,1,2,2,11,5,11,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,7,0,0,1,1,1,6,3,5,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
 2023-10-31,Alabama Crimson Tide,"Mississippi St. Pensacola, FL",Away,Draw,1,1,3,1,1,0,20,9,14,0,2,0,0,0,110:00,1,1,0,0,0,0,0,0,7,0,0,NA,1,0,8,2,7,0,1,0,0,0,110:00,1,8,0,0,0,0,0,0,2,1,1,NA,game_sport_year_ctl_id=16462
 2023-11-10,Alabama Crimson Tide,Western Caro.,Home,Win,2,0,NA,1,2,1,16,9,5,0,0,0,0,0,90:00,0,4,0,1,0,0,0,0,6,0,0,1,0,0,8,4,12,0,1,0,0,0,90:00,2,7,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Alabama Crimson Tide,"North Carolina Lubbock, TX",Away,Loss,0,1,NA,1,0,0,4,0,11,0,0,0,0,0,90:00,1,8,0,0,0,0,0,0,2,0,0,NA,1,1,15,9,6,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Alabama A&M Bulldogs,Jacksonville St.,Away,Loss,0,5,NA,1,0,0,6,4,8,0,1,0,0,0,90:00,5,5,0,0,0,0,0,0,3,0,0,NA,5,4,26,10,9,0,1,0,0,0,90:00,0,4,0,1,0,0,0,0,7,0,0,1,game_sport_year_ctl_id=16462
 2023-08-24,Alabama A&M Bulldogs,South Fla.,Away,Loss,1,5,NA,1,1,0,3,3,6,0,1,0,0,0,90:00,5,9,0,0,0,0,0,0,1,0,0,NA,5,4,26,14,6,0,1,0,0,0,90:00,1,2,0,0,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-08-31,Alabama A&M Bulldogs,Troy,Away,Loss,0,2,NA,1,0,0,4,2,5,0,1,0,0,0,90:00,2,4,0,0,0,0,0,0,2,0,0,NA,2,1,14,6,6,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,7,0,0,1,game_sport_year_ctl_id=16462
@@ -261,6 +262,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Arkansas Razorbacks,"Mississippi St. Pensacola, FL",Away,Win,2,0,NA,1,2,4,17,5,12,0,1,0,0,0,90:00,0,3,0,1,0,0,0,0,8,0,0,1,0,0,7,3,13,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Arkansas Razorbacks,"Georgia Pensacola, FL",Away,Loss,0,1,NA,1,0,0,18,7,10,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,NA,1,0,7,3,9,0,0,0,0,0,90:00,0,7,0,1,0,0,0,0,1,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,Arkansas Razorbacks,Grambling,Home,Win,5,0,NA,1,5,4,33,14,9,0,1,0,0,0,90:00,0,1,1,1,0,0,0,0,13,0,0,1,0,0,7,1,14,0,0,0,0,0,90:00,5,9,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Arkansas Razorbacks,Pittsburgh,Home,Loss,3,4,NA,1,3,2,16,6,10,0,1,0,0,0,90:00,4,9,0,0,0,0,0,0,7,0,0,NA,4,4,23,13,8,0,3,0,0,0,90:00,3,3,0,0,0,0,0,0,5,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Arkansas St. Red Wolves,Arkansas,Away,Loss,0,6,NA,1,0,0,7,3,8,0,2,0,0,0,90:00,6,11,0,0,0,0,0,0,0,0,0,NA,6,3,34,16,10,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,8,1,1,1,game_sport_year_ctl_id=16462
 2023-08-20,Arkansas St. Red Wolves,Southern U.,Home,Win,4,1,NA,1,4,5,21,10,9,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,1,1,1,9,4,9,0,3,0,0,0,90:00,4,6,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-27,Arkansas St. Red Wolves,Central Ark.,Away,Draw,2,2,NA,1,2,0,11,6,13,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,2,0,0,NA,2,3,9,5,12,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
@@ -360,6 +362,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-01,BYU Cougars,"UCF Austin, TX",Away,Win,4,1,NA,1,4,5,29,8,7,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,11,0,0,1,1,0,14,7,11,0,1,0,0,0,90:00,4,4,0,0,0,0,0,0,5,1,1,NA,game_sport_year_ctl_id=16462
 2023-11-04,BYU Cougars,"Texas Round Rock, TX",Away,Loss,1,3,NA,1,1,1,12,7,9,0,0,0,0,0,90:00,3,2,0,0,0,0,0,0,6,0,0,NA,3,2,14,5,4,0,1,0,0,0,90:00,1,6,0,0,0,0,0,0,8,1,1,1,game_sport_year_ctl_id=16462
 2023-11-10,BYU Cougars,Utah St.,Home,Win,2,0,NA,1,2,3,28,9,6,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,12,0,0,1,0,0,7,3,9,0,0,0,0,0,90:00,2,7,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-16,BYU Cougars,Southern California,Home,Win,1,0,NA,1,1,2,15,7,4,0,1,0,0,0,90:00,0,6,0,1,0,0,0,0,6,0,0,1,0,0,16,6,5,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Ball St. Cardinals,Mercyhurst,Home,Win,5,1,NA,1,5,5,23,12,16,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,4,0,0,1,1,0,6,3,13,0,0,0,0,0,90:00,5,7,0,0,0,0,0,0,1,1,1,NA,game_sport_year_ctl_id=16462
 2023-08-20,Ball St. Cardinals,Notre Dame,Away,Loss,0,3,NA,1,0,0,4,1,8,0,0,0,0,0,90:00,3,9,0,0,0,0,0,0,1,0,0,NA,3,4,32,12,8,0,0,0,0,0,90:00,0,1,0,1,0,0,0,0,7,0,0,1,game_sport_year_ctl_id=16462
 2023-08-24,Ball St. Cardinals,Texas Tech,Away,Loss,1,4,NA,1,1,0,7,4,9,0,1,0,0,0,90:00,4,7,0,0,0,0,0,0,4,0,0,NA,4,7,25,11,10,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
@@ -923,6 +926,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Clemson Tigers,"Notre Dame Cary, NC",Away,Win,3,2,NA,1,3,2,9,8,10,0,2,0,0,0,90:00,2,4,0,0,0,0,0,0,0,1,1,1,2,1,18,6,9,0,4,0,0,0,90:00,3,5,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Clemson Tigers,"Florida St. Cary, NC",Away,Loss,1,2,NA,1,1,1,8,4,14,0,3,0,0,0,90:00,2,4,0,0,0,0,0,0,4,0,0,NA,2,2,11,6,5,0,2,0,0,0,90:00,1,3,0,0,0,0,0,0,2,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,Clemson Tigers,Radford,Home,Win,2,0,NA,1,2,3,26,13,4,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,8,0,0,1,0,0,0,0,9,0,1,0,0,0,90:00,2,11,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Clemson Tigers,Columbia,Home,Win,2,1,NA,1,2,3,12,6,5,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,4,0,0,1,1,1,4,2,8,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-18,Cleveland St. Vikings,Akron,Home,Loss,1,3,NA,1,1,1,10,3,10,0,3,0,0,0,90:00,3,2,0,0,0,0,0,0,4,0,0,NA,3,2,11,5,13,0,1,0,0,0,90:00,1,2,0,0,0,0,0,0,1,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Cleveland St. Vikings,St. Bonaventure,Away,Win,3,1,NA,1,3,2,16,11,10,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,6,0,0,1,1,1,5,2,4,0,0,0,0,0,90:00,3,8,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Cleveland St. Vikings,Ohio,Away,Loss,0,1,NA,1,0,0,9,4,12,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,3,0,0,NA,1,0,18,4,7,0,1,0,0,0,90:00,0,4,0,1,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
@@ -1550,6 +1554,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Florida St. Seminoles,"Pittsburgh Cary, NC",Away,Win,2,0,NA,1,2,3,19,7,11,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,2,0,0,1,0,0,8,3,8,0,2,0,0,0,90:00,2,5,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Florida St. Seminoles,"Clemson Cary, NC",Away,Win,2,1,NA,1,2,2,11,6,5,0,2,0,0,0,90:00,1,3,0,0,0,0,0,0,2,0,0,1,1,1,8,4,14,0,3,0,0,0,90:00,2,4,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-10,Florida St. Seminoles,Morehead St.,Home,Win,5,0,NA,1,5,7,31,16,5,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,7,0,0,1,0,0,2,0,2,0,1,0,0,0,90:00,5,11,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Florida St. Seminoles,Texas A&M,Home,Win,1,0,NA,1,1,1,12,4,9,0,1,0,0,0,90:00,0,5,0,1,0,0,0,0,10,0,0,1,0,0,9,5,6,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Fordham Rams,Drexel,Away,Loss,0,3,NA,1,0,0,9,5,11,0,0,0,0,0,90:00,3,5,0,0,0,0,0,0,4,0,0,NA,3,4,13,8,15,0,0,0,0,0,45:00,0,5,1,1,0,0,0,0,3,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Fordham Rams,Wagner,Home,Win,4,0,NA,1,4,3,20,10,16,0,1,0,0,0,90:00,0,2,0,1,0,0,0,0,4,0,0,1,0,0,8,2,8,0,2,0,0,0,90:00,4,6,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Fordham Rams,Stonehill,Home,Win,2,0,NA,1,2,1,34,15,13,0,0,0,0,0,90:00,0,1,0,1,0,0,0,0,3,0,0,1,0,0,5,1,5,0,0,0,0,0,90:00,2,13,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
@@ -1701,6 +1706,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Georgetown Hoyas,"UConn Boyds, MD",Away,Win,1,0,NA,1,1,1,15,7,13,0,0,0,0,0,90:00,0,6,0,1,0,0,0,0,8,0,0,1,0,0,13,6,10,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Georgetown Hoyas,"Xavier Boyds, MD",Away,Win,2,0,NA,1,2,4,5,3,10,0,1,0,0,0,90:00,0,7,0,1,0,0,0,0,3,0,0,1,0,0,14,7,8,0,0,0,0,0,90:00,2,1,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-11,Georgetown Hoyas,Old Dominion,Home,Win,2,1,2,1,2,2,21,9,12,0,3,0,0,0,110:00,1,1,0,0,0,0,0,0,13,0,0,1,1,1,12,2,13,0,2,0,0,0,110:00,2,7,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Georgetown Hoyas,"Saint Louis University Park, PA",Away,Loss,1,2,NA,1,1,2,9,3,5,0,0,0,0,0,90:00,2,6,0,0,0,0,0,0,6,0,0,NA,2,2,11,8,8,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,2,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Georgia Bulldogs,UCLA,Away,Loss,0,2,NA,1,0,0,3,2,4,0,0,0,0,0,90:00,2,7,0,0,0,0,0,0,2,0,0,NA,2,0,11,9,11,0,2,0,0,0,90:00,0,2,0,1,0,0,0,0,1,1,1,1,game_sport_year_ctl_id=16462
 2023-08-24,Georgia Bulldogs,UCF,Home,Win,2,1,NA,1,2,1,15,5,7,0,0,0,0,0,90:00,1,0,0,0,0,0,0,0,3,0,0,1,1,1,3,1,10,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-31,Georgia Bulldogs,Minnesota,Home,Draw,0,0,NA,1,0,0,20,8,10,0,0,0,0,0,90:00,0,1,0,1,0,0,0,0,2,0,0,NA,0,0,4,1,6,0,1,0,0,0,90:00,0,8,0,1,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
@@ -1722,6 +1728,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Georgia Bulldogs,"Texas A&M Pensacola, FL",Away,Win,3,2,2,1,3,4,16,11,9,0,1,0,0,0,110:00,2,11,0,0,0,0,0,0,1,1,1,1,2,3,27,13,9,0,2,0,0,0,110:00,3,8,0,0,0,0,0,0,4,0,1,NA,game_sport_year_ctl_id=16462
 2023-11-05,Georgia Bulldogs,"Arkansas Pensacola, FL",Away,Win,1,0,NA,1,1,0,7,3,9,0,0,0,0,0,90:00,0,7,0,1,0,0,0,0,1,0,0,1,0,0,18,7,10,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-10,Georgia Bulldogs,Liberty,Home,Win,2,1,NA,1,2,2,29,11,7,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,9,0,0,1,1,0,4,4,5,0,0,0,0,0,90:00,2,9,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Georgia Bulldogs,"Iowa Clemson, SC",Away,Win,3,2,NA,1,3,3,11,6,12,0,1,0,0,0,90:00,2,5,0,0,0,0,0,0,4,0,0,1,2,2,10,7,6,0,0,0,0,0,90:00,3,3,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Georgia St. Panthers,South Carolina St.,Home,Win,12,0,NA,1,12,10,32,18,2,0,0,0,0,0,90:00,0,1,1,1,0,0,0,0,5,0,0,1,0,0,1,1,4,0,0,0,0,0,90:00,12,6,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,Georgia St. Panthers,Murray St.,Home,Win,3,0,NA,1,3,1,19,8,6,0,0,0,0,0,90:00,0,2,1,1,0,0,0,0,9,0,0,1,0,0,3,2,5,0,0,0,0,0,90:00,3,5,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Georgia St. Panthers,Mercer,Home,Draw,1,1,NA,1,1,1,14,5,6,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,7,0,0,NA,1,1,9,3,5,0,0,0,0,0,90:00,1,4,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
@@ -1761,6 +1768,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-01,Gonzaga Bulldogs,LMU (CA),Home,Draw,1,1,NA,1,1,1,30,8,9,0,0,0,0,0,90:00,1,0,0,0,0,0,0,0,9,0,0,NA,1,2,3,1,3,0,0,0,0,0,90:00,1,7,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-04,Gonzaga Bulldogs,Pepperdine,Away,Win,3,1,NA,1,3,2,10,8,5,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,3,0,0,1,1,2,16,7,2,0,0,0,0,0,90:00,3,5,0,0,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-11,Gonzaga Bulldogs,Idaho,Home,Win,1,0,NA,1,1,0,16,6,9,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,6,0,0,1,0,0,5,2,9,0,1,0,0,0,90:00,1,5,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Gonzaga Bulldogs,"UC Irvine Lincoln, NE",Away,Loss,1,2,NA,1,1,0,17,8,14,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,3,0,0,NA,2,3,12,6,12,0,0,0,0,0,90:00,1,7,0,0,0,0,0,0,1,0,0,1,game_sport_year_ctl_id=16462
 2023-08-18,Grambling Lady Tigers,Murray St.,Away,Win,2,0,NA,1,2,1,9,6,17,0,2,0,0,0,90:00,0,4,1,1,0,0,0,0,3,0,0,1,0,0,7,4,8,0,2,0,0,0,90:00,2,4,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,Grambling Lady Tigers,Southeast Mo. St.,Away,Loss,1,4,NA,1,1,1,5,2,6,0,0,0,0,0,90:00,4,1,0,0,0,0,0,0,2,0,0,NA,4,2,8,5,11,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,5,1,1,1,game_sport_year_ctl_id=16462
 2023-08-22,Grambling Lady Tigers,East Tex. Baptist,Away,Win,1,0,NA,1,1,2,17,9,3,0,0,0,0,0,90:00,0,2,1,1,0,0,0,0,10,0,1,1,0,0,2,2,1,0,1,0,0,0,90:00,1,8,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
@@ -2135,6 +2143,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Iowa Hawkeyes,"Penn St. Columbus, OH",Away,Win,1,0,2,1,1,1,14,5,15,0,1,0,0,0,110:00,0,4,0,1,0,0,0,0,2,0,0,1,0,0,11,4,12,0,1,0,0,0,110:00,1,4,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Iowa Hawkeyes,"Wisconsin Columbus, OH",Away,Win,1,0,NA,1,1,0,1,1,16,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,3,1,1,1,0,0,8,2,10,0,1,0,0,0,90:00,1,0,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-10,Iowa Hawkeyes,Bucknell,Home,Win,2,0,2,1,2,2,31,11,13,0,0,0,0,0,110:00,0,1,0,1,0,0,0,0,5,0,0,1,0,0,5,1,11,0,1,0,0,0,110:00,2,9,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Iowa Hawkeyes,"Georgia Clemson, SC",Away,Loss,2,3,NA,1,2,2,10,7,6,0,0,0,0,0,90:00,3,3,0,0,0,0,0,0,3,0,0,NA,3,3,11,6,12,0,1,0,0,0,90:00,2,5,0,0,0,0,0,0,4,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Iowa St. Cyclones,Arizona,Home,Win,2,1,NA,1,2,2,8,6,8,0,1,0,0,0,90:00,1,2,0,0,0,0,0,0,5,0,1,1,1,0,7,3,11,0,1,0,0,0,90:00,2,4,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,Iowa St. Cyclones,Northern Colo.,Away,Win,1,0,NA,1,1,0,12,7,13,0,0,0,0,0,90:00,0,1,0,1,0,0,0,0,9,1,1,1,0,0,9,1,8,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Iowa St. Cyclones,Iowa,Away,Loss,1,2,NA,1,1,1,9,5,6,0,2,0,0,0,90:00,2,3,0,0,0,0,0,0,1,0,0,NA,2,1,17,5,15,0,2,0,0,0,90:00,1,4,0,0,0,0,0,0,5,0,0,1,game_sport_year_ctl_id=16462
@@ -2845,6 +2854,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Memphis Tigers,"Charlotte Lakewood Ranch, FL",Away,Win,2,0,NA,1,2,2,20,14,11,0,3,0,0,0,90:00,0,5,0,1,0,0,0,0,7,1,1,1,0,0,6,5,10,0,2,0,0,0,90:00,2,12,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Memphis Tigers,"SMU Lakewood Ranch, FL",Away,Win,2,1,NA,1,2,1,6,2,6,0,2,0,0,0,90:00,1,5,0,0,0,0,0,0,8,0,0,1,1,0,12,6,8,0,0,0,0,0,90:00,2,0,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-11,Memphis Tigers,LSU,Home,Win,2,1,NA,1,2,2,13,6,9,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,7,0,0,1,1,1,2,2,15,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Memphis Tigers,"Notre Dame Fayetteville, AR",Away,Win,3,2,NA,1,3,0,16,8,11,0,1,0,0,0,90:00,2,7,0,0,0,0,0,0,5,0,0,1,2,1,21,9,10,0,2,0,0,0,90:00,3,5,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Mercer Bears,Evansville,Home,Draw,0,0,NA,1,0,0,24,10,10,0,1,0,0,0,90:00,0,2,0,1,0,0,0,0,11,0,0,NA,0,0,7,2,5,0,2,0,0,0,90:00,0,10,0,1,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,Mercer Bears,Mississippi Val.,Home,Win,4,0,NA,1,4,4,27,17,9,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,12,0,0,1,0,0,4,2,6,0,0,0,0,0,90:00,4,13,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Mercer Bears,Georgia St.,Away,Draw,1,1,NA,1,1,1,9,3,5,0,0,0,0,0,90:00,1,4,0,0,0,0,0,0,2,0,0,NA,1,1,14,5,6,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
@@ -2958,6 +2968,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-22,Michigan St. Spartans,Iowa,Home,Win,3,0,NA,1,3,4,5,5,16,0,2,0,0,0,90:00,0,4,0,1,0,0,0,0,2,1,1,1,0,0,9,4,22,0,3,0,0,0,90:00,3,2,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-10-29,Michigan St. Spartans,Iowa,Home,Loss,1,2,NA,1,1,1,9,2,15,0,0,0,0,0,90:00,2,6,0,0,0,0,0,0,5,0,0,NA,2,3,11,8,14,0,3,0,0,0,90:00,1,1,0,0,0,0,0,0,3,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,Michigan St. Spartans,Ohio,Home,Win,3,0,NA,1,3,3,25,13,16,0,1,0,0,0,90:00,0,4,0,1,0,0,0,0,7,1,1,1,0,0,4,4,19,0,2,0,0,0,90:00,3,10,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-16,Michigan St. Spartans,"Harvard Provo, UT",Away,Win,1,0,NA,1,1,0,11,2,9,0,2,0,0,0,90:00,0,5,0,1,0,0,0,0,6,1,1,1,0,0,21,5,12,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Middle Tenn. Blue Raiders,Louisiana,Home,Draw,1,1,NA,1,1,1,13,4,5,0,0,0,0,0,90:00,1,0,0,0,0,0,0,0,5,0,0,NA,1,0,5,1,4,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,Middle Tenn. Blue Raiders,Belmont,Home,Win,3,1,NA,1,3,3,21,9,12,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,7,0,0,1,1,1,7,4,5,0,0,0,0,0,90:00,3,6,0,0,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Middle Tenn. Blue Raiders,Loyola Maryland,Away,Loss,0,3,NA,1,0,0,3,2,9,0,3,0,0,0,90:00,3,5,0,0,0,0,0,0,1,0,1,NA,3,2,13,8,9,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,5,1,1,1,game_sport_year_ctl_id=16462
@@ -3034,6 +3045,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-31,Mississippi St. Bulldogs,"Alabama Pensacola, FL",Away,Draw,1,1,3,1,1,0,8,2,7,0,1,0,0,0,110:00,1,8,0,0,0,0,0,0,2,1,1,NA,1,0,20,9,14,0,2,0,0,0,110:00,1,1,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-02,Mississippi St. Bulldogs,"Arkansas Pensacola, FL",Away,Loss,0,2,NA,1,0,0,7,3,13,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,1,0,0,NA,2,4,17,5,12,0,1,0,0,0,90:00,0,3,0,1,0,0,0,0,8,0,0,1,game_sport_year_ctl_id=16462
 2023-11-11,Mississippi St. Bulldogs,Providence,Home,Win,1,0,2,1,1,0,15,7,8,0,0,0,0,0,110:00,0,3,0,1,0,0,0,0,6,0,0,1,0,0,9,3,15,0,1,0,0,0,110:00,1,6,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Mississippi St. Bulldogs,"Brown Stanford, CA",Away,Win,2,1,NA,1,2,2,8,5,6,0,2,0,0,0,90:00,1,2,0,0,0,0,0,0,8,0,0,1,1,1,12,3,19,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-18,Mississippi Val. Devilettes,"The Citadel Macon, GA",Away,Loss,1,2,NA,1,1,0,8,4,7,0,0,0,0,0,90:00,2,6,0,0,0,0,0,0,3,0,0,NA,2,1,17,8,7,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,11,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Mississippi Val. Devilettes,Mercer,Away,Loss,0,4,NA,1,0,0,4,2,6,0,0,0,0,0,90:00,4,13,0,0,0,0,0,0,0,0,0,NA,4,4,27,17,9,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,12,0,0,1,game_sport_year_ctl_id=16462
 2023-08-26,Mississippi Val. Devilettes,Southern Miss.,Away,Loss,1,2,NA,1,1,0,7,6,5,0,1,0,0,0,90:00,2,9,0,0,0,0,0,0,1,0,0,NA,2,1,24,11,5,0,1,0,0,0,90:00,1,5,0,0,0,0,0,0,8,0,0,1,game_sport_year_ctl_id=16462
@@ -3277,6 +3289,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-29,Nebraska Huskers,Ohio St.,Home,Win,3,2,NA,1,3,5,19,11,11,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,4,0,0,1,2,2,12,5,9,0,0,0,0,0,90:00,3,8,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-02,Nebraska Huskers,"Wisconsin Columbus, OH",Away,Loss,1,3,NA,1,1,1,15,4,9,0,0,0,0,0,90:00,3,2,0,0,0,0,0,0,5,0,0,NA,3,4,10,5,8,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,Nebraska Huskers,South Dakota St.,Home,Win,5,2,NA,1,5,5,15,9,11,0,2,0,0,0,90:00,2,4,0,0,0,0,0,0,2,0,0,1,2,1,12,6,6,0,0,0,0,0,90:00,5,4,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Nebraska Huskers,Tennessee,Home,Win,2,1,NA,1,2,1,12,5,6,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,8,0,0,1,1,0,8,2,9,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Nevada Wolf Pack,Virginia,Away,Loss,0,5,NA,1,0,0,2,1,2,0,1,0,0,0,90:00,5,12,0,0,0,0,0,0,2,0,0,NA,5,3,25,17,3,0,0,0,0,0,90:00,0,1,0,1,0,0,0,0,14,1,1,1,game_sport_year_ctl_id=16462
 2023-08-20,Nevada Wolf Pack,Richmond,Away,Draw,0,0,NA,1,0,0,11,5,10,0,2,0,0,0,90:00,0,2,0,1,0,0,0,0,7,0,0,NA,0,0,9,2,10,0,1,0,0,0,90:00,0,5,0,1,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-25,Nevada Wolf Pack,Southern Utah,Away,Draw,3,3,NA,1,3,2,14,8,12,1,2,0,0,0,90:00,3,4,0,0,0,0,0,0,7,0,0,NA,3,2,12,7,8,0,3,0,0,0,90:00,3,5,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
@@ -3429,6 +3442,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-26,North Carolina Tar Heels,Boston College,Away,Draw,1,1,NA,1,1,0,21,12,8,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,8,0,0,NA,1,0,3,2,15,0,0,0,0,0,90:00,1,11,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-10-29,North Carolina Tar Heels,Pittsburgh,Home,Loss,1,2,2,1,1,1,14,6,8,0,0,0,0,0,110:00,2,6,0,0,0,0,0,0,5,0,0,NA,2,3,19,8,10,0,0,0,0,0,110:00,1,5,0,0,0,0,0,0,9,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,North Carolina Tar Heels,Towson,Home,Win,3,1,NA,1,3,3,21,12,8,0,1,0,0,0,90:00,1,2,0,0,0,0,0,0,6,0,0,1,1,0,9,3,10,0,1,0,0,0,90:00,3,9,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,North Carolina Tar Heels,"Alabama Lubbock, TX",Away,Win,1,0,NA,1,1,1,15,9,6,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,6,0,0,1,0,0,4,0,11,0,0,0,0,0,90:00,1,8,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,North Dakota Fighting Hawks,Montana,Home,Loss,0,1,NA,1,0,0,7,4,14,0,1,0,0,0,90:00,1,8,0,0,0,0,0,0,4,0,0,NA,1,2,17,9,11,0,0,0,0,0,90:00,0,4,0,1,0,0,0,0,0,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,North Dakota Fighting Hawks,Boise St.,Home,Loss,2,3,NA,1,2,3,12,6,10,0,0,0,0,0,90:00,3,5,0,0,0,0,0,0,5,0,0,NA,3,3,18,8,10,0,1,0,0,0,90:00,2,4,0,0,0,0,0,0,2,0,0,1,game_sport_year_ctl_id=16462
 2023-08-24,North Dakota Fighting Hawks,MSU Moorhead,Home,Win,2,0,NA,1,2,2,27,8,6,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,6,0,0,1,0,0,1,0,3,0,0,0,0,0,90:00,2,6,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
@@ -3630,6 +3644,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-26,Notre Dame Fighting Irish,Clemson,Home,Win,2,0,NA,1,2,2,13,6,7,0,1,0,0,0,90:00,0,2,0,1,0,0,0,0,5,0,1,1,0,0,8,2,7,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-02,Notre Dame Fighting Irish,"Clemson Cary, NC",Away,Loss,2,3,NA,1,2,1,18,6,9,0,4,0,0,0,90:00,3,5,0,0,0,0,0,0,7,0,0,NA,3,2,9,8,10,0,2,0,0,0,90:00,2,4,0,0,0,0,0,0,0,1,1,1,game_sport_year_ctl_id=16462
 2023-11-11,Notre Dame Fighting Irish,Valparaiso,Home,Win,2,0,NA,1,2,3,33,11,12,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,14,0,0,1,0,0,1,0,13,0,2,0,0,0,90:00,2,9,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Notre Dame Fighting Irish,"Memphis Fayetteville, AR",Away,Loss,2,3,NA,1,2,1,21,9,10,0,2,0,0,0,90:00,3,5,0,0,0,0,0,0,4,0,0,NA,3,0,16,8,11,0,1,0,0,0,90:00,2,7,0,0,0,0,0,0,5,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Oakland Golden Grizzlies,Kent St.,Home,Loss,1,2,NA,1,1,0,8,4,11,0,1,0,0,0,90:00,2,7,0,0,0,0,0,0,2,1,1,NA,2,1,14,9,10,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,5,0,1,1,game_sport_year_ctl_id=16462
 2023-08-20,Oakland Golden Grizzlies,Eastern Mich.,Home,Win,1,0,NA,1,1,1,4,1,8,1,0,0,0,0,90:00,0,4,0,1,0,0,0,0,1,0,0,1,0,0,15,4,11,0,1,0,0,0,90:00,1,0,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Oakland Golden Grizzlies,Northwestern,Away,Loss,0,7,NA,1,0,0,1,0,8,0,0,0,0,0,90:00,7,5,0,0,0,0,0,0,0,0,0,NA,7,9,21,12,12,0,0,0,0,0,90:00,0,0,1,1,0,0,0,0,2,0,0,1,game_sport_year_ctl_id=16462
@@ -3882,6 +3897,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-29,Penn St. Nittany Lions,Indiana,Home,Win,3,0,NA,1,3,4,11,8,9,0,0,0,0,0,90:00,0,4,0,1,0,0,0,0,0,0,0,1,0,0,11,4,14,0,2,0,0,0,90:00,3,5,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-02,Penn St. Nittany Lions,"Iowa Columbus, OH",Away,Loss,0,1,2,1,0,0,11,4,12,0,1,0,0,0,110:00,1,4,0,0,0,0,0,0,4,0,0,NA,1,1,14,5,15,0,1,0,0,0,110:00,0,4,0,1,0,0,0,0,2,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,Penn St. Nittany Lions,Central Conn. St.,Home,Win,7,0,NA,1,7,8,29,18,2,0,0,0,0,0,90:00,0,1,1,1,0,0,0,0,6,1,2,1,0,0,2,1,13,0,0,0,0,0,90:00,7,11,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Penn St. Nittany Lions,Santa Clara,Home,Win,2,0,NA,1,2,3,5,5,11,0,0,0,0,0,90:00,0,4,0,1,0,0,0,0,0,0,0,1,0,0,13,4,4,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,8,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Pepperdine Waves,Georgetown,Home,Draw,1,1,NA,1,1,1,7,5,11,0,1,0,0,0,90:00,1,5,0,0,0,0,0,0,2,0,0,NA,1,0,11,6,7,0,2,0,0,0,90:00,1,4,0,0,0,0,0,0,11,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-19,Pepperdine Waves,Michigan,Home,Draw,2,2,NA,1,2,2,15,5,15,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,4,1,1,NA,2,1,10,5,8,0,1,0,0,0,90:00,2,3,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Pepperdine Waves,San Diego St.,Away,Draw,1,1,NA,1,1,0,20,10,6,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,3,0,0,NA,1,1,16,7,6,0,0,0,0,0,90:00,1,9,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
@@ -3922,6 +3938,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-29,Pittsburgh Panthers,North Carolina,Away,Win,2,1,2,1,2,3,19,8,10,0,0,0,0,0,110:00,1,5,0,0,0,0,0,0,9,0,0,1,1,1,14,6,8,0,0,0,0,0,110:00,2,6,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-02,Pittsburgh Panthers,"Florida St. Cary, NC",Away,Loss,0,2,NA,1,0,0,8,3,8,0,2,0,0,0,90:00,2,5,0,0,0,0,0,0,5,0,0,NA,2,3,19,7,11,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,2,0,0,1,game_sport_year_ctl_id=16462
 2023-11-11,Pittsburgh Panthers,Ohio St.,Home,Win,6,0,NA,1,6,5,15,10,5,0,0,0,0,0,90:00,0,3,1,1,0,0,0,0,4,1,1,1,0,0,11,3,5,0,0,0,0,0,90:00,6,4,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Pittsburgh Panthers,Arkansas,Away,Win,4,3,NA,1,4,4,23,13,8,0,3,0,0,0,90:00,3,3,0,0,0,0,0,0,5,0,0,1,3,2,16,6,10,0,1,0,0,0,90:00,4,9,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Portland Pilots,CSUN,Away,Win,1,0,NA,1,1,0,6,3,9,0,1,0,0,0,90:00,0,0,0,1,0,0,0,0,5,0,0,1,0,0,2,0,9,0,1,0,0,0,90:00,1,2,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Portland Pilots,Washington St.,Home,Loss,0,1,NA,1,0,0,19,9,10,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,12,0,0,NA,1,1,9,4,8,0,2,0,0,0,90:00,0,9,0,1,0,0,0,0,3,0,0,1,game_sport_year_ctl_id=16462
 2023-08-31,Portland Pilots,UC Davis,Home,Win,1,0,NA,1,1,1,9,6,5,0,0,0,0,0,90:00,0,1,0,1,0,0,0,0,8,0,0,1,0,0,10,1,10,0,0,0,0,0,90:00,1,5,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
@@ -4363,6 +4380,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-01,Saint Louis Billikens,Duquesne,Home,Win,5,0,NA,1,5,3,26,10,12,0,2,0,0,0,90:00,0,6,0,1,0,0,0,0,12,0,0,1,0,0,7,6,11,0,2,0,0,0,90:00,5,6,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Saint Louis Billikens,La Salle,Home,Win,3,0,NA,1,3,4,21,11,22,0,1,0,0,0,90:00,0,6,0,1,0,0,0,0,8,0,1,1,0,0,14,6,17,0,6,0,0,0,90:00,3,8,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-10,Saint Louis Billikens,Indiana,Home,Win,2,0,NA,1,2,1,12,7,11,0,0,0,0,0,90:00,0,4,0,1,0,0,0,0,4,1,1,1,0,0,17,4,10,0,2,0,0,0,90:00,2,5,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Saint Louis Billikens,"Georgetown University Park, PA",Away,Win,2,1,NA,1,2,2,11,8,8,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,2,0,0,1,1,2,9,3,5,0,0,0,0,0,90:00,2,6,0,0,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Saint Mary's (CA) Gaels,UC Irvine,Away,Loss,1,2,NA,1,1,0,8,3,11,0,0,0,0,0,90:00,2,2,0,0,0,0,0,0,4,0,0,NA,2,3,6,4,10,0,1,0,0,0,90:00,1,2,0,0,0,0,0,0,9,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Saint Mary's (CA) Gaels,Idaho St.,Home,Win,2,1,NA,1,2,3,13,7,9,0,2,0,0,0,90:00,1,2,0,0,0,0,0,0,3,0,0,1,1,1,7,3,12,0,2,0,0,0,90:00,2,5,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,Saint Mary's (CA) Gaels,UC Davis,Away,Win,1,0,NA,1,1,1,7,1,6,0,2,0,0,0,90:00,0,6,0,1,0,0,0,0,2,0,0,1,0,0,11,6,15,0,2,0,0,0,90:00,1,0,0,0,0,0,0,0,8,0,0,NA,game_sport_year_ctl_id=16462
@@ -4529,6 +4547,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-01,Santa Clara Broncos,San Diego,Home,Win,2,0,NA,1,2,1,18,7,9,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,5,1,1,1,0,0,7,3,10,0,0,0,0,0,90:00,2,5,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-04,Santa Clara Broncos,Portland,Away,Win,1,0,NA,1,1,1,8,6,2,0,2,0,0,0,90:00,0,9,0,1,0,0,0,0,5,0,0,1,0,0,16,9,8,0,1,0,0,0,90:00,1,5,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-11,Santa Clara Broncos,Arizona St.,Home,Win,3,0,NA,1,3,4,13,5,8,0,2,0,0,0,90:00,0,3,0,1,0,0,0,0,5,0,0,1,0,0,8,3,8,0,2,0,0,0,90:00,3,2,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Santa Clara Broncos,Penn St.,Away,Loss,0,2,NA,1,0,0,13,4,4,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,8,0,0,NA,2,3,5,5,11,0,0,0,0,0,90:00,0,4,0,1,0,0,0,0,0,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Seattle U Redhawks,Idaho,Away,Loss,1,3,NA,1,1,0,11,7,7,0,0,0,0,0,90:00,3,4,0,0,0,0,0,0,4,1,1,NA,3,4,12,7,9,0,1,0,0,0,90:00,1,6,0,0,0,0,0,0,3,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Seattle U Redhawks,Portland St.,Away,Win,5,0,NA,1,5,2,21,7,5,0,1,0,0,0,90:00,0,6,1,1,0,0,0,0,5,1,1,1,0,0,12,6,11,0,2,0,0,0,90:00,5,2,0,0,0,0,0,0,3,0,1,NA,game_sport_year_ctl_id=16462
 2023-08-24,Seattle U Redhawks,San Diego,Home,Loss,0,1,NA,1,0,0,13,2,9,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,4,0,0,NA,1,1,6,3,11,0,1,0,0,0,90:00,0,2,0,1,0,0,0,0,4,0,0,1,game_sport_year_ctl_id=16462
@@ -4625,6 +4644,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-26,South Carolina Gamecocks,Florida,Away,Draw,0,0,NA,1,0,0,7,3,5,0,1,0,0,0,90:00,0,3,0,1,0,0,0,0,4,0,0,NA,0,0,8,3,6,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-10-31,South Carolina Gamecocks,"Texas A&M Pensacola, FL",Away,Loss,0,1,NA,1,0,0,9,3,7,0,1,0,0,0,90:00,1,4,0,0,0,0,0,0,2,0,0,NA,1,0,16,5,10,0,1,0,0,0,90:00,0,3,0,1,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,South Carolina Gamecocks,James Madison,Home,Win,2,0,NA,1,2,2,19,11,3,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,4,0,0,1,0,0,7,2,3,0,0,0,0,0,90:00,2,9,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,South Carolina Gamecocks,Stanford,Away,Loss,0,3,NA,1,0,0,3,0,4,0,1,0,0,0,90:00,3,9,0,0,0,0,0,0,0,0,0,NA,3,4,23,12,4,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,11,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,South Carolina St. Lady Bulldogs,Georgia St.,Away,Loss,0,12,NA,1,0,0,1,1,4,0,0,0,0,0,90:00,12,6,0,0,0,0,0,0,0,0,0,NA,12,10,32,18,2,0,0,0,0,0,90:00,0,1,1,1,0,0,0,0,5,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,South Carolina St. Lady Bulldogs,Jacksonville St.,Away,Loss,0,13,NA,1,0,0,3,2,5,0,2,0,0,0,90:00,13,9,0,0,0,0,0,0,0,0,0,NA,13,13,34,22,7,0,1,0,0,0,90:00,0,2,1,1,0,0,0,0,7,0,0,1,game_sport_year_ctl_id=16462
 2023-09-02,South Carolina St. Lady Bulldogs,Winthrop,Away,Loss,2,7,NA,1,2,0,12,6,6,0,2,0,0,0,90:00,7,12,0,0,0,0,0,0,0,1,1,NA,7,4,26,19,9,0,1,0,0,0,90:00,2,4,0,0,0,0,0,0,11,0,0,1,game_sport_year_ctl_id=16462
@@ -4749,6 +4769,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-29,Southern California Trojans,California,Home,Win,2,0,NA,1,2,4,16,6,13,0,1,0,0,0,90:00,0,1,0,1,0,0,0,0,7,0,0,1,0,0,5,1,6,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-03,Southern California Trojans,UCLA,Away,Loss,2,4,NA,1,2,3,11,4,7,0,2,0,0,0,90:00,4,1,0,0,0,0,0,0,5,0,0,NA,4,1,9,4,4,0,1,0,0,0,90:00,2,2,0,0,0,0,0,0,2,1,1,1,game_sport_year_ctl_id=16462
 2023-11-10,Southern California Trojans,Grand Canyon,Home,Win,1,0,NA,1,1,0,14,6,7,0,4,0,0,0,90:00,0,1,0,1,0,0,0,0,7,1,1,1,0,0,4,1,8,0,0,0,0,0,90:00,1,5,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-16,Southern California Trojans,BYU,Away,Loss,0,1,NA,1,0,0,16,6,5,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,6,0,0,NA,1,2,15,7,4,0,1,0,0,0,90:00,0,6,0,1,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Southern Ill. Salukis,Jackson St.,Home,Win,2,1,NA,1,2,1,11,3,8,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,4,1,1,1,1,1,9,3,10,0,0,0,0,0,90:00,2,1,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,Southern Ill. Salukis,IUPUI,Away,Loss,0,2,NA,1,0,0,9,2,5,0,1,0,0,0,90:00,2,8,0,0,0,0,0,0,4,0,0,NA,2,2,23,10,14,0,0,0,0,0,90:00,0,2,1,1,0,0,0,0,10,0,0,1,game_sport_year_ctl_id=16462
 2023-08-24,Southern Ill. Salukis,Kansas City,Home,Draw,1,1,NA,1,1,0,5,2,5,0,2,0,0,0,90:00,1,7,0,0,0,0,0,0,1,0,0,NA,1,0,16,8,10,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,7,0,1,NA,game_sport_year_ctl_id=16462
@@ -4911,6 +4932,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-29,Stanford Cardinal,UCLA,Away,Draw,1,1,NA,1,1,1,9,3,8,0,0,0,0,0,90:00,1,4,0,0,0,0,0,0,3,0,0,NA,1,2,15,5,8,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-03,Stanford Cardinal,California,Home,Win,4,0,NA,1,4,5,19,12,4,0,0,0,0,0,90:00,0,6,1,1,0,0,0,0,6,0,0,1,0,0,12,6,5,0,1,0,0,0,90:00,4,8,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-10,Stanford Cardinal,Pepperdine,Home,Win,3,0,NA,1,3,5,16,7,11,0,0,0,0,0,90:00,0,4,0,1,0,0,0,0,4,0,0,1,0,0,8,4,10,0,0,0,0,0,90:00,3,4,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Stanford Cardinal,South Carolina,Home,Win,3,0,NA,1,3,4,23,12,4,0,0,0,0,0,90:00,0,0,0,1,0,0,0,0,11,0,0,1,0,0,3,0,4,0,1,0,0,0,90:00,3,9,0,0,0,0,0,0,0,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Stetson Hatters,Miami (FL),Home,Loss,0,3,NA,1,0,0,5,2,18,0,0,0,0,0,90:00,3,5,0,0,0,0,0,0,2,0,0,NA,3,4,12,8,4,0,1,0,0,0,90:00,0,2,1,1,0,0,0,0,4,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Stetson Hatters,Air Force,Home,Loss,2,3,NA,1,2,1,10,8,15,0,3,0,0,0,90:00,3,11,0,0,0,0,0,0,4,1,1,NA,3,3,24,14,10,0,0,0,0,0,90:00,2,6,0,0,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-08-24,Stetson Hatters,Charleston So.,Home,Loss,1,5,NA,1,1,0,17,10,14,0,0,0,0,0,90:00,5,3,0,0,0,0,0,0,3,1,1,NA,5,3,10,8,14,0,1,0,0,0,90:00,1,9,0,0,0,0,0,0,1,0,0,1,game_sport_year_ctl_id=16462
@@ -5058,6 +5080,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-26,Tennessee Volunteers,Vanderbilt,Away,Win,1,0,NA,1,1,1,5,2,8,0,1,0,0,0,90:00,0,7,0,1,0,0,0,0,3,0,0,1,0,0,17,7,7,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,13,0,0,NA,game_sport_year_ctl_id=16462
 2023-10-29,Tennessee Volunteers,"Auburn Pensacola, FL",Away,Loss,1,2,NA,1,1,0,10,3,9,0,2,0,0,0,90:00,2,3,0,0,0,0,0,0,3,0,0,NA,2,1,12,5,4,0,0,0,0,0,90:00,1,2,0,0,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-11-11,Tennessee Volunteers,Xavier,Away,Win,1,0,2,1,1,1,11,2,19,0,1,0,0,0,110:00,0,15,0,1,0,0,0,0,4,0,0,1,0,0,41,15,7,0,2,0,0,0,110:00,1,1,0,0,0,0,0,0,11,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Tennessee Volunteers,Nebraska,Away,Loss,1,2,NA,1,1,0,8,2,9,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,5,0,0,NA,2,1,12,5,6,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,8,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Tennessee Tech Golden Eagles,Western Ky.,Away,Draw,1,1,NA,1,1,1,6,2,3,0,1,0,0,0,90:00,1,5,0,0,0,0,0,0,5,0,0,NA,1,0,12,6,6,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,Tennessee Tech Golden Eagles,Chattanooga,Home,Loss,0,1,NA,1,0,0,11,3,8,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,4,0,0,NA,1,0,14,7,12,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,4,0,0,1,game_sport_year_ctl_id=16462
 2023-08-25,Tennessee Tech Golden Eagles,Liberty,Away,Loss,0,2,NA,1,0,0,2,2,7,0,0,0,0,0,90:00,2,9,0,0,0,0,0,0,1,0,0,NA,2,2,18,11,10,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,7,0,0,1,game_sport_year_ctl_id=16462
@@ -5118,6 +5141,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-01,Texas Longhorns,Texas Tech,Home,Win,1,0,NA,1,1,1,19,5,8,0,1,0,0,0,90:00,0,2,0,1,0,0,0,0,8,0,0,1,0,0,8,2,6,0,0,0,0,0,90:00,1,4,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-04,Texas Longhorns,"BYU Round Rock, TX",Away,Win,3,1,NA,1,3,2,14,5,4,0,1,0,0,0,90:00,1,6,0,0,0,0,0,0,8,1,1,1,1,1,12,7,9,0,0,0,0,0,90:00,3,2,0,0,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-10,Texas Longhorns,Lamar University,Home,Win,2,0,NA,1,2,1,31,12,6,0,0,0,0,0,90:00,0,6,0,1,0,0,0,0,10,1,1,1,0,0,13,6,10,0,2,0,0,0,90:00,2,10,0,0,0,0,0,0,1,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Texas Longhorns,"Wisconsin Tallahassee, FL",Away,Win,2,1,NA,1,2,3,11,4,6,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,5,0,0,1,1,0,9,2,5,0,1,0,0,0,90:00,2,2,0,0,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,Texas A&M Aggies,Florida St.,Home,Loss,1,2,NA,1,1,2,10,4,10,0,0,0,0,0,90:00,2,3,0,0,0,0,0,0,3,0,0,NA,2,3,11,5,8,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,3,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Texas A&M Aggies,Washington St.,Home,Loss,2,3,NA,1,2,2,15,7,11,0,1,0,0,0,90:00,3,1,0,0,0,0,0,0,7,1,1,NA,3,1,6,4,19,0,1,0,0,0,90:00,2,5,0,0,0,0,0,0,8,1,1,1,game_sport_year_ctl_id=16462
 2023-08-26,Texas A&M Aggies,Baylor,Home,Draw,1,1,NA,1,1,0,22,6,9,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,6,1,1,NA,1,2,5,2,5,0,2,0,0,0,90:00,1,5,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
@@ -5139,6 +5163,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-31,Texas A&M Aggies,"South Carolina Pensacola, FL",Away,Win,1,0,NA,1,1,0,16,5,10,0,1,0,0,0,90:00,0,3,0,1,0,0,0,0,6,0,0,1,0,0,9,3,7,0,1,0,0,0,90:00,1,4,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-02,Texas A&M Aggies,"Georgia Pensacola, FL",Away,Loss,2,3,2,1,2,3,27,13,9,0,2,0,0,0,110:00,3,8,0,0,0,0,0,0,4,0,1,NA,3,4,16,11,9,0,1,0,0,0,110:00,2,11,0,0,0,0,0,0,1,1,1,1,game_sport_year_ctl_id=16462
 2023-11-10,Texas A&M Aggies,Colorado,Home,Win,1,0,NA,1,1,0,13,4,10,0,2,0,0,0,90:00,0,5,0,1,0,0,0,0,7,0,0,1,0,0,11,5,12,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,7,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Texas A&M Aggies,Florida St.,Away,Loss,0,1,NA,1,0,0,9,5,6,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,NA,1,1,12,4,9,0,1,0,0,0,90:00,0,5,0,1,0,0,0,0,10,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Texas Southern Lady Tigers,A&M-Corpus Christi,Away,Loss,0,2,NA,1,0,0,6,2,10,0,2,0,0,0,90:00,2,14,0,0,0,0,0,0,2,0,0,NA,2,2,24,16,11,0,1,0,0,0,90:00,0,2,0,1,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Texas Southern Lady Tigers,Abilene Christian,Home,Loss,0,3,NA,1,0,0,9,2,4,0,0,0,0,0,90:00,3,6,0,0,0,0,0,0,3,0,0,NA,3,2,26,9,8,0,0,0,0,0,90:00,0,2,1,1,0,0,0,0,9,0,0,1,game_sport_year_ctl_id=16462
 2023-08-25,Texas Southern Lady Tigers,Rice,Home,Loss,2,5,NA,1,2,0,4,4,4,0,2,0,0,0,90:00,5,8,0,0,0,0,0,0,2,0,0,NA,5,5,31,13,11,0,1,0,0,0,90:00,2,2,0,0,0,0,0,0,11,0,0,1,game_sport_year_ctl_id=16462
@@ -5201,6 +5226,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-10-30,Texas Tech Red Raiders,"Cincinnati Austin, TX",Away,Win,2,1,NA,1,2,2,10,3,11,1,2,0,0,0,90:00,1,3,0,0,0,0,0,0,1,0,0,1,1,1,12,4,11,0,0,0,0,0,90:00,2,1,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-01,Texas Tech Red Raiders,Texas,Away,Loss,0,1,NA,1,0,0,8,2,6,0,0,0,0,0,90:00,1,4,0,0,0,0,0,0,4,0,0,NA,1,1,19,5,8,0,1,0,0,0,90:00,0,2,0,1,0,0,0,0,8,0,0,1,game_sport_year_ctl_id=16462
 2023-11-10,Texas Tech Red Raiders,FGCU,Home,Win,1,0,NA,1,1,2,26,9,5,0,1,0,0,0,90:00,0,1,0,1,0,0,0,0,5,0,0,1,0,0,6,1,10,0,1,0,0,0,90:00,1,8,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Texas Tech Red Raiders,Princeton,Home,Draw,0,0,3,1,0,0,9,3,10,0,0,0,0,0,110:00,0,6,0,1,0,0,0,0,5,0,0,NA,0,0,16,6,10,0,1,0,0,0,110:00,0,3,0,1,0,0,0,0,6,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-18,"The Citadel Bulldogs, Cadets","Mississippi Val. Macon, GA",Away,Win,2,1,NA,1,2,1,17,8,7,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,11,0,0,1,1,0,8,4,7,0,0,0,0,0,90:00,2,6,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-20,"The Citadel Bulldogs, Cadets",Winthrop,Away,Draw,1,1,NA,1,1,1,10,4,7,0,0,0,0,0,90:00,1,6,0,0,0,0,0,0,3,0,0,NA,1,0,10,7,7,0,1,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,"The Citadel Bulldogs, Cadets",Francis Marion,Home,Win,5,0,NA,1,5,2,26,13,3,0,0,0,0,0,90:00,0,0,1,1,0,0,0,0,7,0,0,1,0,0,2,0,3,0,0,0,0,0,90:00,5,8,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
@@ -5369,6 +5395,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,UC Irvine Anteaters,Cal St. Fullerton,Away,Win,1,0,NA,1,1,1,11,4,13,0,3,0,0,0,90:00,0,1,0,1,0,0,0,0,4,0,0,1,0,0,12,1,11,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,UC Irvine Anteaters,"Cal Poly Fullerton, CA",Away,Win,1,0,NA,1,1,2,12,2,9,0,1,0,0,0,90:00,0,0,0,1,0,0,0,0,3,0,0,1,0,0,8,0,7,0,0,0,0,0,90:00,1,1,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-10,UC Irvine Anteaters,UCLA,Away,Win,1,0,NA,1,1,1,2,2,10,1,1,0,0,0,90:00,0,5,0,1,0,0,0,0,1,0,0,1,0,0,22,5,9,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,9,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,UC Irvine Anteaters,"Gonzaga Lincoln, NE",Away,Win,2,1,NA,1,2,3,12,6,12,0,0,0,0,0,90:00,1,7,0,0,0,0,0,0,1,0,0,1,1,0,17,8,14,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-17,UC Riverside Highlanders,California Baptist,Home,Loss,1,4,NA,1,1,1,3,2,11,0,2,0,0,0,90:00,4,4,0,0,0,0,0,0,2,0,0,NA,4,2,18,8,12,0,3,0,0,0,90:00,1,1,0,0,0,0,0,0,6,0,0,1,game_sport_year_ctl_id=16462
 2023-08-19,UC Riverside Highlanders,San Diego,Away,Draw,0,0,NA,1,0,0,4,2,7,0,1,0,0,0,90:00,0,10,0,1,0,0,0,0,1,0,0,NA,0,0,18,10,6,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
 2023-08-24,UC Riverside Highlanders,UNLV,Away,Loss,0,3,NA,1,0,0,6,3,3,0,2,0,0,0,90:00,3,5,0,0,0,0,0,0,1,0,0,NA,3,4,15,8,8,0,0,0,0,0,90:00,0,3,0,1,0,0,0,0,5,0,0,1,game_sport_year_ctl_id=16462
@@ -6224,6 +6251,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2023-11-02,Wisconsin Badgers,"Nebraska Columbus, OH",Away,Win,3,1,NA,1,3,4,10,5,8,0,0,0,0,0,90:00,1,3,0,0,0,0,0,0,4,0,0,1,1,1,15,4,9,0,0,0,0,0,90:00,3,2,0,0,0,0,0,0,5,0,0,NA,game_sport_year_ctl_id=16462
 2023-11-05,Wisconsin Badgers,"Iowa Columbus, OH",Away,Loss,0,1,NA,1,0,0,8,2,10,0,1,0,0,0,90:00,1,0,0,0,0,0,0,0,2,0,0,NA,1,0,1,1,16,0,0,0,0,0,90:00,0,2,0,1,0,0,0,0,3,1,1,1,game_sport_year_ctl_id=16462
 2023-11-10,Wisconsin Badgers,Milwaukee,Home,Win,2,0,NA,1,2,1,19,12,9,0,1,0,0,0,90:00,0,1,0,1,0,0,0,0,7,0,0,1,0,0,2,1,6,0,1,0,0,0,90:00,2,10,0,0,0,0,0,0,3,0,0,NA,game_sport_year_ctl_id=16462
+2023-11-17,Wisconsin Badgers,"Texas Tallahassee, FL",Away,Loss,1,2,NA,1,1,0,9,2,5,0,1,0,0,0,90:00,2,2,0,0,0,0,0,0,6,0,0,NA,2,3,11,4,6,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,5,0,0,1,game_sport_year_ctl_id=16462
 2023-08-17,Wofford Terriers,Queens (NC),Away,Loss,0,1,NA,1,0,0,11,7,5,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,1,0,0,NA,1,1,12,2,3,0,1,0,0,0,90:00,0,7,0,1,0,0,0,0,3,0,0,1,game_sport_year_ctl_id=16462
 2023-08-20,Wofford Terriers,Elon,Away,Loss,0,3,NA,1,0,0,9,2,8,0,1,0,0,0,90:00,3,4,0,0,0,0,0,0,1,0,0,NA,3,2,19,7,14,0,1,0,0,0,90:00,0,2,1,1,0,0,0,0,6,1,1,1,game_sport_year_ctl_id=16462
 2023-08-24,Wofford Terriers,USC Upstate,Home,Win,2,1,NA,1,2,1,8,6,10,0,1,0,0,0,90:00,1,1,0,0,0,0,0,0,2,0,0,1,1,0,8,2,11,0,0,0,0,0,90:00,2,4,0,0,0,0,0,0,2,0,0,NA,game_sport_year_ctl_id=16462
