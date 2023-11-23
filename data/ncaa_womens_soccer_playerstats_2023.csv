@@ -149,16 +149,16 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Alabama A&M Bulldogs,20, Ashlinn Palm,"Palm, Ashlinn", Ashlinn,Palm,Jr,D,8,0,8,NA,NA,0,1,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,29, Luzmila Moreira,"Moreira, Luzmila", Luzmila,Moreira,So,M,7,3,7,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,1, Yesenia Aiken,"Aiken, Yesenia", Yesenia,Aiken,Fr,GK,5,2,5,NA,NA,0,NA,NA,NA,NA,NA,NA,5,2,292:58,10,3.072,17,0.63,NA,NA,NA,2,NA,NA,NA,NA,NA,NA
+2023,Alabama A&M Bulldogs,23, Keydine Celeste,"Celeste, Keydine", Keydine,Celeste,Fr,D,4,0,4,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,99, Liliana Ribeiro,"Ribeiro, Liliana", Liliana,Ribeiro,Fr,GK,4,3,4,NA,NA,0,NA,NA,NA,NA,NA,NA,4,3,315:00,5,1.429,27,0.844,1,NA,2,1,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,32, Sydney Jones,"Jones, Sydney", Sydney,Jones,N/A,,4,1,4,NA,NA,0,2,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Alabama A&M Bulldogs,23, Keydine Celeste,"Celeste, Keydine", Keydine,Celeste,Fr,D,4,0,4,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,8, Taylor McNeal,"McNeal, Taylor", Taylor,McNeal,So,M,3,2,3,NA,NA,0,3,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,32, Nikayla Lee,"Lee, Nikayla", Nikayla,Lee,So,D,3,0,3,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,26, Zyiah Mikes,"Mikes, Zyiah", Zyiah,Mikes,So,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,5, Victoria Ajegwu,"Ajegwu, Victoria", Victoria,Ajegwu,Sr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Alabama A&M Bulldogs,25, Mia Lockhart,"Lockhart, Mia", Mia,Lockhart,Sr,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,16, Alana Paul,"Paul, Alana", Alana,Paul,Jr,D,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,7, Taliah Simon,"Simon, Taliah", Taliah,Simon,N/A,,1,0,1,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Alabama A&M Bulldogs,25, Mia Lockhart,"Lockhart, Mia", Mia,Lockhart,Sr,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama A&M Bulldogs,12, Lauryn Christophe,"Christophe, Lauryn", Lauryn,Christophe,Jr,F,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama St. Lady Hornets,21, Zeta Chevalier,"Chevalier, Zeta", Zeta,Chevalier,So,F,17,13,17,NA,NA,0,12,5,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Alabama St. Lady Hornets,12, Kensley Simmons,"Simmons, Kensley", Kensley,Simmons,Fr,M,17,17,17,2,1,5,14,10,10,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
@@ -1867,27 +1867,27 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Elon Phoenix,5, Iliana Pardo,"Pardo, Iliana", Iliana,Pardo,Fr,FM,5,0,5,NA,NA,0,2,1,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Elon Phoenix,29, Amy Ollendorff,"Ollendorff, Amy", Amy,Ollendorff,So,F,3,1,3,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Elon Phoenix,22, Alexis Pierce,"Pierce, Alexis", Alexis,Pierce,Fr,MD,3,2,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,13, Kaylee Woosley,"Woosley, Kaylee", Kaylee,Woosley,So,M,17,17,17,1,2,4,14,6,8,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2023,Evansville Purple Aces,12, Chrysta Vasquez,"Vasquez, Chrysta", Chrysta,Vasquez,So,F,17,15,17,2,NA,4,9,4,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,10, Reese Simmons,"Simmons, Reese", Reese,Simmons,Jr,M,17,17,17,NA,NA,0,13,7,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,3, Hailey Autenrieb,"Autenrieb, Hailey", Hailey,Autenrieb,Jr,FM,17,17,17,1,1,3,9,6,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,18, Emily Wiebe,"Wiebe, Emily", Emily,Wiebe,Sr,M,17,17,17,NA,NA,0,2,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,23, Rachel Rosborough,"Rosborough, Rachel", Rachel,Rosborough,Sr,D,17,17,17,NA,1,1,13,3,8,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,4, Nicole Benati,"Benati, Nicole", Nicole,Benati,Sr,M,17,17,17,1,NA,2,22,6,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,00, Myia Danek,"Danek, Myia", Myia,Danek,Sr,GK,17,17,17,NA,NA,0,NA,NA,NA,NA,NA,NA,17,17,1465:25,20,1.228,79,0.798,5,NA,1,7,9,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,15, Monique Landrum,"Landrum, Monique", Monique,Landrum,Sr,FM,17,7,17,NA,NA,0,4,NA,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,8, Ashlyn Koutsos,"Koutsos, Ashlyn", Ashlyn,Koutsos,Fr,M,17,1,17,NA,NA,0,4,3,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,2, Taylor Johnson,"Johnson, Taylor", Taylor,Johnson,Fr,F,17,3,17,1,1,3,13,5,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,15, Monique Landrum,"Landrum, Monique", Monique,Landrum,Sr,FM,17,7,17,NA,NA,0,4,NA,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,00, Myia Danek,"Danek, Myia", Myia,Danek,Sr,GK,17,17,17,NA,NA,0,NA,NA,NA,NA,NA,NA,17,17,1465:25,20,1.228,79,0.798,5,NA,1,7,9,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,12, Chrysta Vasquez,"Vasquez, Chrysta", Chrysta,Vasquez,So,F,17,15,17,2,NA,4,9,4,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,18, Emily Wiebe,"Wiebe, Emily", Emily,Wiebe,Sr,M,17,17,17,NA,NA,0,2,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,4, Nicole Benati,"Benati, Nicole", Nicole,Benati,Sr,M,17,17,17,1,NA,2,22,6,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,13, Kaylee Woosley,"Woosley, Kaylee", Kaylee,Woosley,So,M,17,17,17,1,2,4,14,6,8,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,Evansville Purple Aces,23, Rachel Rosborough,"Rosborough, Rachel", Rachel,Rosborough,Sr,D,17,17,17,NA,1,1,13,3,8,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,16, Ella Hamner,"Hamner, Ella", Ella,Hamner,Fr,M,16,15,16,NA,NA,0,19,8,18,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,22, Abbi Lenk,"Lenk, Abbi", Abbi,Lenk,Sr,F,16,2,16,NA,NA,0,4,2,2,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,7, Brooklyn Robinson,"Robinson, Brooklyn", Brooklyn,Robinson,Fr,F,16,1,16,1,NA,2,12,3,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,16, Ella Hamner,"Hamner, Ella", Ella,Hamner,Fr,M,16,15,16,NA,NA,0,19,8,18,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,11, Ryleigh Anslinger,"Anslinger, Ryleigh", Ryleigh,Anslinger,Jr,F,12,1,12,1,NA,2,2,2,6,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,25, Josie Kremzar,"Kremzar, Josie", Josie,Kremzar,Sr,D,12,1,12,NA,NA,0,4,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,17, A'Liyah Warrick,"Warrick, A'Liyah", A'Liyah,Warrick,Fr,F,12,0,12,NA,NA,0,2,1,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,25, Josie Kremzar,"Kremzar, Josie", Josie,Kremzar,Sr,D,12,1,12,NA,NA,0,4,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,20, Paige Radel,"Radel, Paige", Paige,Radel,Fr,F,10,4,10,NA,NA,0,2,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,24, Isabel Lynch,"Lynch, Isabel", Isabel,Lynch,Sr,D,10,5,10,NA,NA,0,1,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Evansville Purple Aces,26, Isabel Valdez,"Valdez, Isabel", Isabel,Valdez,So,D,9,6,9,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,9, Amy Velazquez,"Velazquez, Amy", Amy,Velazquez,So,F,9,1,9,1,NA,2,4,2,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Evansville Purple Aces,26, Isabel Valdez,"Valdez, Isabel", Isabel,Valdez,So,D,9,6,9,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,21, Emily Karr,"Karr, Emily", Emily,Karr,Fr,D,8,6,8,NA,NA,0,2,NA,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,6, Maria Alexopoulos,"Alexopoulos, Maria", Maria,Alexopoulos,Sr,M,4,0,4,NA,NA,0,1,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Evansville Purple Aces,5, Kathryn Tyler,"Tyler, Kathryn", Kathryn,Tyler,So,D,2,0,2,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -5271,8 +5271,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Pittsburgh Panthers,23, Samiah Phiri,"Phiri, Samiah", Samiah,Phiri,Jr,F,23,20,23,11,4,26,69,28,28,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,4
 2023,Pittsburgh Panthers,21, Katie Zailski,"Zailski, Katie", Katie,Zailski,So,D,23,23,23,1,NA,2,8,5,17,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Pittsburgh Panthers,0, Ellie Breech,"Breech, Ellie", Ellie,Breech,So,GK,23,23,23,NA,NA,0,NA,NA,NA,NA,NA,NA,23,23,2016:12,24,1.071,71,0.747,5,2,17,5,1,NA,NA,NA,NA,NA
-2023,Pittsburgh Panthers,5, Sarah Schupansky,"Schupansky, Sarah", Sarah,Schupansky,Jr,F,23,21,23,11,13,35,63,31,14,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3
-2023,Pittsburgh Panthers,4, Ellie Coffield,"Coffield, Ellie", Ellie,Coffield,Jr,M,23,16,23,8,3,19,39,13,13,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2023,Pittsburgh Panthers,5, Sarah Schupansky,"Schupansky, Sarah", Sarah,Schupansky,Jr,F,23,21,23,11,14,36,63,31,14,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,3,3
+2023,Pittsburgh Panthers,4, Ellie Coffield,"Coffield, Ellie", Ellie,Coffield,Jr,M,23,16,23,8,4,20,39,13,13,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
 2023,Pittsburgh Panthers,10, Keera Melenhorst,"Melenhorst, Keera", Keera,Melenhorst,Jr,M,23,14,23,3,6,12,15,10,17,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Pittsburgh Panthers,15, Chloe Minas,"Minas, Chloe", Chloe,Minas,Sr,M,23,16,23,NA,2,2,5,1,15,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Pittsburgh Panthers,9, Amanda West,"West, Amanda", Amanda,West,Sr,F,23,20,23,11,8,30,87,47,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2
@@ -6195,8 +6195,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,South Alabama Jaguars,6, Melina Descary,"Descary, Melina", Melina,Descary,Fr,M,19,17,19,2,NA,4,20,7,12,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
 2023,South Alabama Jaguars,10, Rebecca Calderoni Martinez,"Calderoni Martinez, Rebecca", Rebecca,Calderoni Martinez,Jr,M,18,4,18,1,NA,2,9,6,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,South Alabama Jaguars,24, Jaidy Gutierrez Campos,"Gutierrez Campos, Jaidy", Jaidy,Gutierrez Campos,Jr,GK,18,17,18,NA,NA,0,NA,NA,NA,NA,NA,NA,18,17,1575:00,8,0.457,37,0.822,10,NA,14,1,3,NA,NA,NA,NA,NA
-2023,South Alabama Jaguars,7, Chiara Singarella,"Singarella, Chiara", Chiara,Singarella,Fr,F,18,12,18,9,7,25,53,27,15,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
 2023,South Alabama Jaguars,30, Cloey Uddenberg,"Uddenberg, Cloey", Cloey,Uddenberg,Jr,M,18,17,18,NA,3,3,5,3,16,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,South Alabama Jaguars,7, Chiara Singarella,"Singarella, Chiara", Chiara,Singarella,Fr,F,18,12,18,9,7,25,53,27,15,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
 2023,South Alabama Jaguars,4, Kate Nicolson,"Nicolson, Kate", Kate,Nicolson,Jr,D,17,7,17,NA,NA,0,4,2,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,South Alabama Jaguars,27, Abby Jacobs,"Jacobs, Abby", Abby,Jacobs,Sr,D,17,16,17,2,4,8,17,7,13,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2
 2023,South Alabama Jaguars,15, Bonnie Frost,"Frost, Bonnie", Bonnie,Frost,So,M,15,2,15,NA,NA,0,3,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -6918,19 +6918,19 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,Texas A&M Aggies,32, Ella Goodwin,"Goodwin, Ella", Ella,Goodwin,Fr,M,2,0,2,NA,NA,0,1,1,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas A&M Aggies,1, Jordyn Gunnarson,"Gunnarson, Jordyn", Jordyn,Gunnarson,Sr,GK,2,0,2,NA,NA,0,NA,NA,NA,NA,NA,NA,2,NA,30:31,0,0,3,1,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas A&M Aggies,19, Eloise Descheneaux,"Descheneaux, Eloise", Eloise,Descheneaux,So,F,2,0,2,NA,1,1,3,2,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Texas Southern Lady Tigers,15, Lucy Smith,"Smith, Lucy", Lucy,Smith,Fr,D,21,17,21,NA,2,2,6,4,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Texas Southern Lady Tigers,3, Akiya Saine,"Saine, Akiya", Akiya,Saine,So,D,21,20,21,NA,NA,0,4,2,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas Southern Lady Tigers,10, Victoria Pucci,"Pucci, Victoria", Victoria,Pucci,Sr,F,21,15,21,3,1,7,29,12,13,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
+2023,Texas Southern Lady Tigers,15, Lucy Smith,"Smith, Lucy", Lucy,Smith,Fr,D,21,17,21,NA,2,2,6,4,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas Southern Lady Tigers,20, Kennedy Tristan,"Tristan, Kennedy", Kennedy,Tristan,Fr,M,21,18,21,2,2,6,14,7,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
+2023,Texas Southern Lady Tigers,3, Akiya Saine,"Saine, Akiya", Akiya,Saine,So,D,21,20,21,NA,NA,0,4,2,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas Southern Lady Tigers,17, Hajar Benjoud,"Benjoud, Hajar", Hajar,Benjoud,Sr,F,20,20,20,8,1,17,69,30,12,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1
 2023,Texas Southern Lady Tigers,22, Alyssa Taylor,"Taylor, Alyssa", Alyssa,Taylor,So,D,20,17,20,NA,NA,0,1,1,2,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Texas Southern Lady Tigers,13, Ibukun Lawson,"Lawson, Ibukun", Ibukun,Lawson,Jr,F,19,0,19,2,1,5,6,4,4,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Texas Southern Lady Tigers,9, Melissa Knutson,"Knutson, Melissa", Melissa,Knutson,So,D,19,18,19,NA,NA,0,5,4,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas Southern Lady Tigers,6, Natalia Alvarez Tostado Gonzalez,"Alvarez Tostado Gonzalez, Natalia", Natalia,Alvarez Tostado Gonzalez,Jr,M,19,4,19,NA,NA,0,5,4,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas Southern Lady Tigers,5, Isabella Dillow,"Dillow, Isabella", Isabella,Dillow,Fr,F,19,19,19,7,5,19,46,28,13,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,4
 2023,Texas Southern Lady Tigers,7, Liliane Clase Baez,"Baez, Liliane Clase", Liliane Clase,Baez,Jr,M,19,12,19,5,1,11,27,10,16,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,Texas Southern Lady Tigers,9, Melissa Knutson,"Knutson, Melissa", Melissa,Knutson,So,D,19,18,19,NA,NA,0,5,4,11,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Texas Southern Lady Tigers,13, Ibukun Lawson,"Lawson, Ibukun", Ibukun,Lawson,Jr,F,19,0,19,2,1,5,6,4,4,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,Texas Southern Lady Tigers,28, Kourtney Celaya,"Celaya, Kourtney", Kourtney,Celaya,Jr,D,17,13,17,1,NA,2,3,3,5,NA,4,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Texas Southern Lady Tigers,23, Kaila Smith,"Smith, Kaila", Kaila,Smith,Jr,F,17,5,17,NA,NA,0,21,7,4,1,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Texas Southern Lady Tigers,28, Kourtney Celaya,"Celaya, Kourtney", Kourtney,Celaya,Jr,D,17,13,17,1,NA,2,3,3,5,NA,4,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,Texas Southern Lady Tigers,4, Dejah Marsh,"Marsh, Dejah", Dejah,Marsh,Jr,M,17,9,17,NA,NA,0,7,1,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,Texas Southern Lady Tigers,0, Jaidyn Christophe,"Christophe, Jaidyn", Jaidyn,Christophe,Sr,GK,16,9,16,NA,NA,0,NA,NA,2,NA,NA,NA,16,4,826:28,24,2.614,71,0.747,NA,2,3,6,NA,NA,NA,NA,NA,NA
 2023,Texas Southern Lady Tigers,1, Alessandra Bastidas,"Bastidas, Alessandra", Alessandra,Bastidas,Fr,GK,15,12,15,NA,NA,0,NA,NA,NA,NA,NA,NA,15,11,939:24,24,2.299,67,0.736,1,2,2,7,1,NA,NA,NA,NA,NA
@@ -7167,19 +7167,19 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,UAlbany Great Danes,1, Gabriella Terranova,"Terranova, Gabriella", Gabriella,Terranova,Jr,GK,7,6,7,NA,NA,0,NA,NA,NA,NA,NA,NA,7,6,585:00,13,2,31,0.705,2,NA,2,4,NA,NA,NA,NA,NA,NA
 2023,UAlbany Great Danes,25, Florencia Bartholomai,"Bartholomai, Florencia", Florencia,Bartholomai,Fr,D,6,1,6,NA,NA,0,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UAlbany Great Danes,11, Brielle Fitzpatrick,"Fitzpatrick, Brielle", Brielle,Fitzpatrick,Fr,M,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UC Davis Aggies,28, Ashleigh Garcia,"Garcia, Ashleigh", Ashleigh,Garcia,Fr,M,19,0,19,1,NA,2,3,2,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,UC Davis Aggies,13, Risa Yamada,"Yamada, Risa", Risa,Yamada,Jr,M,19,19,19,4,3,11,28,14,16,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2023,UC Davis Aggies,27, Emma Vane,"Vane, Emma", Emma,Vane,Jr,F,19,19,19,2,2,6,19,9,31,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2023,UC Davis Aggies,17, Bella Mayo,"Mayo, Bella", Bella,Mayo,Jr,D,19,19,19,1,2,4,3,2,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UC Davis Aggies,11, Devyn Simmons,"Simmons, Devyn", Devyn,Simmons,Jr,F,19,0,19,3,NA,6,11,6,13,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2023,UC Davis Aggies,7, Sammie Ruelas,"Ruelas, Sammie", Sammie,Ruelas,Jr,F,19,15,19,NA,NA,0,14,NA,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UC Davis Aggies,22, Sam Tristan,"Tristan, Sam", Sam,Tristan,Jr,M,19,19,19,6,4,16,36,18,21,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
-2023,UC Davis Aggies,1, Caeley Goldstein,"Goldstein, Caeley", Caeley,Goldstein,Jr,GK,19,19,19,NA,NA,0,NA,NA,NA,NA,NA,NA,19,19,1700:36,19,1.006,74,0.796,7,1,10,7,2,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,15, Elise Picard,"Picard, Elise", Elise,Picard,Fr,D,19,19,19,1,NA,2,11,3,12,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2023,UC Davis Aggies,27, Emma Vane,"Vane, Emma", Emma,Vane,Jr,F,19,19,19,2,2,6,19,9,31,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2023,UC Davis Aggies,28, Ashleigh Garcia,"Garcia, Ashleigh", Ashleigh,Garcia,Fr,M,19,0,19,1,NA,2,3,2,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,UC Davis Aggies,6, Leslie Fregoso,"Fregoso, Leslie", Leslie,Fregoso,Sr,M,19,19,19,6,5,17,58,27,26,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,2
 2023,UC Davis Aggies,10, Lindsey Porter,"Porter, Lindsey", Lindsey,Porter,Sr,M,19,19,19,1,NA,2,22,7,17,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UC Davis Aggies,8, Molly Branigan,"Branigan, Molly", Molly,Branigan,Sr,M,18,18,18,NA,2,2,6,2,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UC Davis Aggies,1, Caeley Goldstein,"Goldstein, Caeley", Caeley,Goldstein,Jr,GK,19,19,19,NA,NA,0,NA,NA,NA,NA,NA,NA,19,19,1700:36,19,1.006,74,0.796,7,1,10,7,2,NA,NA,NA,NA,NA
+2023,UC Davis Aggies,22, Sam Tristan,"Tristan, Sam", Sam,Tristan,Jr,M,19,19,19,6,4,16,36,18,21,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,1
+2023,UC Davis Aggies,13, Risa Yamada,"Yamada, Risa", Risa,Yamada,Jr,M,19,19,19,4,3,11,28,14,16,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2023,UC Davis Aggies,7, Sammie Ruelas,"Ruelas, Sammie", Sammie,Ruelas,Jr,F,19,15,19,NA,NA,0,14,NA,6,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UC Davis Aggies,17, Bella Mayo,"Mayo, Bella", Bella,Mayo,Jr,D,19,19,19,1,2,4,3,2,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UC Davis Aggies,11, Devyn Simmons,"Simmons, Devyn", Devyn,Simmons,Jr,F,19,0,19,3,NA,6,11,6,13,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
 2023,UC Davis Aggies,18, Sarah Canavan,"Canavan, Sarah", Sarah,Canavan,So,F,18,12,18,2,2,6,25,13,15,NA,3,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UC Davis Aggies,8, Molly Branigan,"Branigan, Molly", Molly,Branigan,Sr,M,18,18,18,NA,2,2,6,2,9,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,4, Kylie Garcia,"Garcia, Kylie", Kylie,Garcia,Jr,F,16,2,16,1,1,3,7,3,7,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,23, Chandler Connors,"Connors, Chandler", Chandler,Connors,Jr,F,14,0,14,NA,NA,0,4,NA,5,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,33, Livi Lewis,"Lewis, Livi", Livi,Lewis,So,D,11,7,11,NA,NA,0,1,1,8,NA,2,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
@@ -7188,8 +7188,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,games
 2023,UC Davis Aggies,26, Kylee Redman,"Redman, Kylee", Kylee,Redman,So,D,9,0,9,NA,NA,0,4,1,3,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,19, Savannah Cordero,"Cordero, Savannah", Savannah,Cordero,Fr,M,7,0,7,NA,1,1,5,3,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,20, Keylei Carroll,"Carroll, Keylei", Keylei,Carroll,Jr,D,4,0,4,NA,NA,0,NA,NA,1,NA,1,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2023,UC Davis Aggies,3, Maddie Gmitter,"Gmitter, Maddie", Maddie,Gmitter,So,M,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,25, Viet-Thy Tran,"Tran, Viet-Thy", Viet-Thy,Tran,Fr,M,3,0,3,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,UC Davis Aggies,3, Maddie Gmitter,"Gmitter, Maddie", Maddie,Gmitter,So,M,3,0,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,30, Charlotte Henness,"Henness, Charlotte", Charlotte,Henness,Fr,M,3,0,3,NA,NA,0,1,1,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Davis Aggies,0, Joshlyn Aguirre,"Aguirre, Joshlyn", Joshlyn,Aguirre,Fr,GK,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,1,NA,9:24,0,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
 2023,UC Irvine Anteaters,21, Mihaela Perez,"Perez, Mihaela", Mihaela,Perez,Jr,D,24,24,24,NA,2,2,1,1,8,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
