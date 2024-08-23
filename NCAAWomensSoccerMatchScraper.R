@@ -3,9 +3,9 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_womens_soccer_teamurls_2023.csv") %>% pull(3)
+urls <- read_csv("url_csvs/ncaa_womens_soccer_teamurls_2024.csv") %>% pull(3)
 
-season = "2023"
+season = "2024"
 
 root_url <- "https://stats.ncaa.org"
 
@@ -15,11 +15,11 @@ matchstatsfilename <- paste0("data/ncaa_womens_soccer_matchstats_", season, ".cs
 
 for (i in urls){
   
-  team_id = str_replace(str_split(i, '&', n=3)[[1]][[2]], "org_id=","")
+  team_id = str_split(str_split(i, '&', n=3)[[1]][[1]], '=')[[1]][[2]]
   
   schoolpage <- i %>% read_html()
   
-  schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
+  schoolfull <- schoolpage %>% html_nodes(xpath = '/html/body/div[2]/div/div/div/div/div/div[1]/a') %>% html_text()
   
   matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table(fill=TRUE)
   
@@ -29,7 +29,7 @@ for (i in urls){
     remove_empty(which = c("cols")) %>% 
     mutate_all(na_if,"") %>% 
     fill(c(date, result)) %>% 
-    mutate_at(vars(5:26),  replace_na, '0') %>% 
+    mutate_at(vars(5:15),  replace_na, '0') %>% 
     mutate(date = mdy(date), home_away = case_when(grepl("@",opponent) ~ "Away", TRUE ~ "Home"), opponent = gsub("@ ","",opponent)) %>%
     separate(result, into=c("score", "overtime"), sep = " \\(") %>% 
     separate(score, into=c("team_score", "opponent_score")) %>%
@@ -39,21 +39,21 @@ for (i in urls){
     select(date, team, opponent, home_away, outcome, team_score, opponent_score, overtime, everything()) %>% 
     clean_names() %>% 
     mutate_at(vars(-date, -opponent, -home_away, -outcome, -team), ~str_replace(., "/", "")) %>% 
-    mutate_at(vars(-date, -team, -opponent, -home_away, -outcome, -overtime, -goalie_min_plyd), as.numeric)
+    mutate_at(vars(-date, -team, -opponent, -home_away, -outcome, -overtime), as.numeric)
   
   teamside <- matches %>% filter(opponent != "Defensive Totals")
   
-  opponentside <- matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away) %>% rename_with(.cols = 8:29, function(x){paste0("defensive_", x)})
+  opponentside <- matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away) %>% rename_with(.cols = 8:18, function(x){paste0("defensive_", x)})
   
   joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "outcome", "team_score", "opponent_score", "overtime", "games"))
   
   joinedmatches <- joinedmatches %>% add_column(team_id = team_id)
   
   # grab opponent IDs - the one issue here is that if a team plays an opponent that isn't linked, this won't work and the team's matches will not have any opponent_id values
-  opponent_ids <- schoolpage %>% html_nodes("a") %>% html_attr("href") %>% as_tibble() %>% filter(str_detect(value, "/team/")) %>% filter(!str_detect(value, paste0("/", team_id, "/"))) %>% separate(value, into=c('blank', 'team', 'opponent_id', 'season_id'), sep = '/') %>% select(opponent_id)
+  #opponent_ids <- schoolpage %>% html_nodes("a") %>% html_attr("href") %>% as_tibble() %>% filter(str_detect(value, "/teams/")) %>% filter(!str_detect(value, paste0("/", team_id, "/"))) %>% separate(value, into=c('blank', 'team', 'opponent_id', 'season_id'), sep = '/') %>% select(opponent_id)
   
-  tryCatch(joinedmatches <- bind_cols(joinedmatches, opponent_ids),
-           error = function(e){NA})
+  #tryCatch(joinedmatches <- bind_cols(joinedmatches, opponent_ids),
+  #         error = function(e){NA})
   
   tryCatch(matchstatstibble <- bind_rows(matchstatstibble, joinedmatches),
            error = function(e){NA})
