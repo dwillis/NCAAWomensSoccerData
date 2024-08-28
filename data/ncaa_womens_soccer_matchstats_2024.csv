@@ -5,7 +5,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-17,Abilene Christian Wildcats,UTEP,Home,Draw,0,0,NA,1,0,0,0,9,5,15,0,1,5,0,0,0,0,0,8,4,13,0,5,2,0,0,2
 2024-08-22,Abilene Christian Wildcats,Lamar University,Home,Draw,0,0,NA,1,0,0,0,14,8,9,0,0,12,0,0,0,0,0,6,2,8,0,0,2,0,0,2
 2024-08-15,Air Force Falcons,Northern Colo.,Away,Win,4,0,NA,1,4,5,13,15,10,5,0,1,9,0,0,0,0,0,3,1,9,0,1,3,0,0,721
-2024-08-22,Air Force Falcons,California Baptist,Home,Win,1,0,NA,1,1,0,2,17,7,7,0,1,3,0,0,0,0,0,15,4,9,0,1,3,0,0,721
+2024-08-22,Air Force Falcons,California Baptist,Home,Win,1,0,NA,1,1,0,2,16,7,7,0,1,3,0,0,0,0,0,15,4,9,0,1,3,0,0,721
 2024-08-15,Akron Zips,Iona,Away,Win,2,1,NA,1,2,1,5,13,6,9,0,1,1,0,0,1,1,3,13,5,14,0,4,4,0,0,5
 2024-08-18,Akron Zips,Eastern Ill.,Away,Draw,1,1,NA,1,1,1,3,13,5,4,0,0,5,0,0,1,1,3,5,4,8,0,0,1,0,0,5
 2024-08-22,Akron Zips,Oakland,Home,Win,1,0,NA,1,1,2,4,15,7,10,0,0,7,0,0,0,0,0,4,2,9,0,1,4,0,0,5
@@ -48,7 +48,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-15,Auburn Tigers,Clemson,Home,Win,4,0,NA,1,4,2,10,13,8,12,0,0,4,0,0,0,0,0,10,4,3,0,2,5,0,0,37
 2024-08-22,Auburn Tigers,Southern Miss.,Home,Win,6,0,NA,1,6,7,19,21,11,7,0,0,6,0,0,0,0,0,1,0,13,0,1,2,0,0,37
 2024-08-25,Auburn Tigers,Coastal Carolina,Home,Win,3,0,NA,1,3,4,10,26,11,10,0,0,19,0,0,0,0,0,1,0,7,0,0,2,0,0,37
-2024-08-15,Austin Peay Governors,Western Ky.,Home,Draw,1,1,NA,1,1,1,3,14,5,14,0,0,4,0,1,1,0,2,11,7,7,0,0,3,0,0,43
+2024-08-15,Austin Peay Governors,Western Ky.,Home,Win,2,1,NA,1,2,2,6,10,6,9,0,0,2,0,0,1,0,2,11,7,7,0,0,3,0,0,43
 2024-08-22,Austin Peay Governors,Chattanooga,Home,Win,1,0,NA,1,1,1,3,14,5,14,0,0,4,0,1,0,0,0,11,7,12,0,1,3,0,0,43
 2024-08-25,Austin Peay Governors,UT Martin,Home,Draw,1,1,NA,1,1,1,3,11,8,7,0,0,5,0,0,1,0,2,13,6,9,0,1,4,0,0,43
 2024-08-15,BYU Cougars,Wisconsin,Home,Win,1,0,NA,1,1,2,4,7,3,8,0,0,1,0,0,0,0,0,17,6,10,0,1,12,0,1,77
@@ -112,7 +112,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-25,California Golden Bears,San Francisco,Away,Win,6,1,NA,1,6,4,16,11,7,13,0,0,2,0,0,1,0,2,12,4,9,0,1,4,0,0,107
 2024-08-15,California Baptist Lancers,CSUN,Home,Win,1,0,NA,1,1,0,2,18,9,13,0,1,7,0,0,0,0,0,10,6,12,0,0,2,0,0,30135
 2024-08-18,California Baptist Lancers,Southern California,Home,Loss,0,1,NA,1,0,0,0,9,5,10,0,1,5,0,0,1,2,4,23,8,10,0,1,10,0,1,30135
-2024-08-22,California Baptist Lancers,Air Force,Away,Loss,0,1,NA,1,0,0,0,15,4,9,0,1,3,0,0,1,0,2,17,7,7,0,1,3,0,0,30135
+2024-08-22,California Baptist Lancers,Air Force,Away,Loss,0,1,NA,1,0,0,0,15,4,9,0,1,3,0,0,1,0,2,16,7,7,0,1,3,0,0,30135
 2024-08-25,California Baptist Lancers,Colorado St.,Away,Loss,0,1,NA,1,0,0,0,7,3,14,0,1,4,0,0,1,1,3,16,6,10,0,1,10,0,0,30135
 2024-08-15,Campbell Camels,Virginia Tech,Away,Loss,0,4,NA,1,0,0,0,2,1,9,0,0,1,0,0,4,4,12,22,8,4,0,0,17,0,0,115
 2024-08-18,Campbell Camels,George Mason,Home,Draw,3,3,NA,1,3,4,10,14,6,8,0,0,4,0,0,3,1,7,10,3,10,0,1,2,0,0,115
@@ -553,6 +553,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-18,Navy Midshipmen,Rice,Away,Loss,1,2,NA,1,1,1,3,12,4,13,0,0,4,0,0,2,4,8,21,14,6,0,0,11,0,0,726
 2024-08-22,Navy Midshipmen,Sacred Heart,Home,Win,5,3,NA,1,5,3,13,17,9,12,0,1,6,0,0,3,3,9,11,5,12,0,2,1,1,1,726
 2024-08-24,Navy Midshipmen,FDU,Home,Win,3,2,NA,1,3,2,8,7,5,11,0,1,1,0,0,2,1,5,15,6,15,0,1,10,0,0,726
+2024-08-27,Navy Midshipmen,Wilson,Home,Win,8,0,NA,1,8,9,25,38,13,7,0,0,14,0,0,0,0,0,1,0,7,0,0,0,0,0,726
 2024-08-15,Nebraska Huskers,Oklahoma St.,Home,Loss,0,2,NA,1,0,0,0,22,4,11,0,2,9,0,0,2,3,7,13,5,19,0,1,3,0,0,463
 2024-08-18,Nebraska Huskers,Colorado St.,Home,Win,3,2,NA,1,3,5,11,13,5,11,0,0,3,0,0,2,1,5,17,10,13,0,1,5,1,1,463
 2024-08-22,Nebraska Huskers,Duke,Home,Loss,0,3,NA,1,0,0,0,6,1,10,0,0,2,0,0,3,4,10,20,10,11,0,0,1,0,0,463
@@ -591,6 +592,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-15,North Dakota St. Bison,Viterbo,Away,Win,3,1,NA,1,3,3,9,37,14,16,0,0,4,0,0,1,0,2,6,3,8,0,0,0,0,0,493
 2024-08-18,North Dakota St. Bison,Green Bay,Away,Draw,0,0,NA,1,0,0,0,15,6,19,0,1,2,0,0,0,0,0,7,5,17,0,1,1,0,0,493
 2024-08-22,North Dakota St. Bison,Alabama St.,Home,Win,3,0,NA,1,3,3,9,29,13,12,0,0,6,0,0,0,0,0,3,1,5,0,0,1,0,0,493
+2024-08-27,North Dakota St. Bison,Hawaii Pacific,Home,Win,1,0,NA,1,1,0,2,14,2,0,0,0,2,0,0,0,0,0,2,0,0,0,1,0,0,0,493
 2024-08-15,North Florida Ospreys,Miami (FL),Away,Win,1,0,NA,1,1,1,3,6,4,7,0,2,3,0,0,0,0,0,10,4,6,0,0,6,0,0,2711
 2024-08-18,North Florida Ospreys,Florida St.,Away,Loss,0,10,NA,1,0,0,0,2,1,6,0,0,0,0,0,10,7,27,37,23,7,0,0,8,0,0,2711
 2024-08-22,North Florida Ospreys,Florida,Home,Draw,0,0,1,1,0,0,0,3,2,10,0,1,4,0,0,0,0,0,10,2,9,0,0,6,0,0,2711
@@ -1066,7 +1068,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-25,Western Caro. Catamounts,Longwood,Home,Draw,2,2,NA,1,2,2,6,19,10,10,0,0,3,0,0,2,2,6,6,4,12,0,1,3,0,0,769
 2024-08-15,Western Ill. Leathernecks,Iowa St.,Away,Loss,0,3,NA,1,0,0,0,4,1,8,0,1,2,0,0,3,1,7,24,10,10,0,2,8,0,0,771
 2024-08-18,Western Ill. Leathernecks,UNI,Away,Loss,1,5,NA,1,1,1,3,5,3,9,0,1,1,0,0,5,2,12,33,14,7,0,0,6,0,0,771
-2024-08-15,Western Ky. Lady Toppers,Austin Peay,Away,Draw,1,1,NA,1,1,0,2,11,7,7,0,0,3,0,0,1,1,3,14,5,14,0,0,4,0,1,772
+2024-08-15,Western Ky. Lady Toppers,Austin Peay,Away,Loss,1,2,NA,1,1,0,2,11,7,7,0,0,3,0,0,2,2,6,10,6,9,0,0,2,0,0,772
 2024-08-22,Western Ky. Lady Toppers,Union (TN),Home,Win,4,0,NA,1,4,3,11,26,13,7,0,0,7,0,0,0,0,0,7,3,5,0,0,0,0,0,772
 2024-08-25,Western Ky. Lady Toppers,Evansville,Home,Win,4,1,NA,1,4,3,11,16,8,12,0,2,5,0,0,1,1,3,9,7,3,0,0,2,0,0,772
 2024-08-15,Western Mich. Broncos,Northern Ky.,Home,Win,3,0,NA,1,3,6,12,31,14,14,0,0,6,0,0,0,0,0,10,6,10,0,0,1,0,0,774
