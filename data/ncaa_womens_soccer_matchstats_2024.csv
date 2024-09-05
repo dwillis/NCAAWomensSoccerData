@@ -51,6 +51,10 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-29,Arizona St. Sun Devils,Grambling,Home,Win,2,0,NA,1,2,2,6,25,14,7,0,0,5,0,0,0,0,0,5,4,6,0,0,8,0,0,28
 2024-09-01,Arizona St. Sun Devils,Penn,Home,Win,3,0,NA,1,3,1,7,17,7,8,0,0,9,1,1,0,0,0,7,5,6,0,0,2,0,0,28
 2024-08-15,Ark.-Pine Bluff Lady Lions,ULM,Away,Loss,0,9,NA,1,0,0,0,0,0,3,0,0,0,0,0,9,7,25,52,29,4,0,0,2,0,0,2678
+<<<<<<< HEAD
+=======
+2024-08-29,Ark.-Pine Bluff Lady Lions,Central Baptist,Home,Win,4,0,NA,1,4,4,12,15,10,3,0,0,2,0,1,0,0,0,4,3,3,0,2,0,0,0,2678
+>>>>>>> 95e73e003a1b3eceee048aa990c5aba4ee31dd4e
 2024-09-01,Ark.-Pine Bluff Lady Lions,Tulsa,Away,Loss,0,9,NA,1,0,0,0,1,0,2,0,0,0,0,0,9,8,26,53,29,4,0,0,12,0,0,2678
 2024-08-15,Arkansas Razorbacks,John Brown,Home,Win,7,1,NA,1,7,9,23,39,18,14,0,1,15,0,1,1,1,3,3,2,10,0,1,1,0,0,31
 2024-08-22,Arkansas Razorbacks,Michigan St.,Away,Draw,2,2,NA,1,2,2,6,10,5,23,1,5,5,0,0,2,2,6,16,8,12,0,1,11,0,1,31
@@ -183,7 +187,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-22,Campbell Camels,NC State,Home,Win,2,1,NA,1,2,0,4,6,3,11,0,4,0,1,1,1,1,3,23,5,9,0,0,13,0,0,115
 2024-08-25,Campbell Camels,East Carolina,Away,Draw,0,0,NA,1,0,0,0,2,1,5,0,0,5,0,0,0,0,0,19,5,4,0,0,6,0,0,115
 2024-08-29,Campbell Camels,Charleston So.,Away,Draw,2,2,NA,1,2,0,4,13,7,8,0,0,4,1,1,2,0,4,9,7,7,0,1,4,1,1,115
-2024-09-01,Campbell Camels,Clemson,Home,Loss,1,3,NA,1,1,0,2,1,1,6,0,1,0,0,0,3,3,9,30,12,7,0,0,9,0,0,115
+2024-09-01,Campbell Camels,Clemson,Home,Loss,1,3,NA,1,1,1,3,2,2,6,0,1,0,0,0,3,2,8,30,12,7,0,0,9,0,0,115
 2024-08-22,Canisius Golden Griffins,Binghamton,Home,Win,5,0,NA,1,5,5,15,17,10,13,0,2,2,1,1,0,0,0,5,3,16,1,3,2,0,0,116
 2024-08-29,Canisius Golden Griffins,Youngstown St.,Home,Draw,1,1,NA,1,1,0,2,22,7,10,0,1,5,1,1,1,1,3,3,2,4,0,0,1,0,0,116
 2024-09-04,Canisius Golden Griffins,Buffalo,Away,Loss,0,1,NA,1,0,0,0,4,3,7,0,0,1,0,0,1,0,2,10,6,12,0,1,6,0,0,116
@@ -226,7 +230,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-18,Clemson Tigers,High Point,Home,Win,2,0,NA,1,2,2,6,16,6,6,0,0,8,0,0,0,0,0,2,1,8,0,0,1,0,0,147
 2024-08-23,Clemson Tigers,West Virginia,Home,Win,3,0,NA,1,3,5,11,12,5,6,0,0,3,0,0,0,0,0,7,2,10,0,0,4,0,0,147
 2024-08-29,Clemson Tigers,Furman,Away,Win,4,1,NA,1,4,3,11,23,14,7,0,1,6,1,1,1,0,2,6,2,10,0,0,3,0,0,147
-2024-09-01,Clemson Tigers,Campbell,Away,Win,3,1,NA,1,3,3,9,30,12,7,0,0,9,0,0,1,0,2,1,1,6,0,1,0,0,0,147
+2024-09-01,Clemson Tigers,Campbell,Away,Win,3,1,NA,1,3,2,8,30,12,7,0,0,9,0,0,1,1,3,2,2,6,0,1,0,0,0,147
 2024-08-15,Cleveland St. Vikings,Kent St.,Away,Loss,1,2,NA,1,1,0,2,3,2,10,0,0,4,0,0,2,1,5,17,13,9,0,1,6,0,0,148
 2024-08-21,Cleveland St. Vikings,Dayton,Away,Loss,0,4,NA,1,0,0,0,6,4,8,0,0,1,0,0,4,3,11,20,12,11,0,0,12,0,0,148
 2024-08-25,Cleveland St. Vikings,Saint Joseph's,Home,Loss,0,3,NA,1,0,0,0,9,5,14,0,1,3,0,0,3,3,9,17,8,12,0,0,6,0,0,148
@@ -306,7 +310,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-22,Detroit Mercy Titans,Kentucky,Away,Loss,0,2,NA,1,0,0,0,1,1,12,0,0,0,0,0,2,2,6,30,7,9,0,0,16,0,0,184
 2024-08-25,Detroit Mercy Titans,Morehead St.,Away,Loss,0,1,NA,1,0,0,0,9,3,5,0,1,2,0,0,1,1,3,8,4,16,0,1,5,0,0,184
 2024-08-30,Detroit Mercy Titans,Toledo,Away,Loss,0,1,NA,1,0,0,0,10,2,11,0,2,3,0,0,1,2,4,12,5,13,0,1,3,0,0,184
-2024-09-02,Detroit Mercy Titans,Madonna,Home,Win,2,0,NA,1,2,0,4,29,10,13,0,1,12,0,0,0,0,0,2,1,10,0,1,2,0,0,184
+2024-09-02,Detroit Mercy Titans,Madonna,Home,Win,2,0,NA,1,2,0,4,28,9,13,0,1,12,0,0,0,0,0,2,1,10,0,1,2,0,0,184
 2024-08-15,Drake Bulldogs,St. Thomas (MN),Away,Draw,1,1,NA,1,1,1,3,13,9,7,0,1,4,0,0,1,0,2,16,4,11,0,1,8,1,1,189
 2024-08-18,Drake Bulldogs,Kansas,Home,Loss,0,1,NA,1,0,0,0,1,1,6,0,3,4,0,0,1,0,2,13,5,7,0,0,6,0,0,189
 2024-08-22,Drake Bulldogs,Iowa St.,Home,Draw,1,1,NA,1,1,1,3,10,6,14,0,2,4,0,0,1,1,3,11,5,8,0,2,4,0,0,189
@@ -316,7 +320,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-16,Drexel Dragons,Saint Joseph's,Away,Loss,1,2,NA,1,1,1,3,11,5,11,0,0,6,0,1,2,3,7,10,4,21,0,1,4,0,0,191
 2024-08-22,Drexel Dragons,Fordham,Away,Loss,0,1,NA,1,0,0,0,10,3,12,0,1,9,0,0,1,2,4,10,6,11,0,0,2,0,1,191
 2024-08-25,Drexel Dragons,Penn,Home,Win,2,1,NA,1,2,2,6,10,5,3,0,0,3,0,0,1,1,3,4,3,4,0,1,1,0,0,191
-2024-09-01,Drexel Dragons,Lehigh,Home,Draw,4,4,1,1,4,4,12,14,7,5,0,1,9,0,0,4,3,11,19,10,13,0,1,4,0,0,191
+2024-09-01,Drexel Dragons,Lehigh,Home,Draw,4,4,1,1,4,4,12,14,7,5,0,1,9,0,0,4,4,12,19,10,13,0,1,4,0,0,191
 2024-08-15,Duke Blue Devils,Ohio St.,Away,Loss,0,1,NA,1,0,0,0,21,11,4,0,0,5,0,0,1,0,2,9,3,7,0,0,0,0,0,193
 2024-08-22,Duke Blue Devils,Nebraska,Away,Win,3,0,NA,1,3,4,10,20,10,11,0,0,1,0,0,0,0,0,6,1,10,0,0,2,0,0,193
 2024-08-29,Duke Blue Devils,UNCW,Home,Win,4,0,NA,1,4,4,12,28,7,7,0,0,11,1,1,0,0,0,4,2,10,0,0,1,0,0,193
@@ -573,7 +577,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-15,James Madison Dukes,Villanova,Away,Win,3,0,NA,1,3,2,8,12,4,6,0,0,5,0,0,0,0,0,7,3,5,0,1,1,0,0,317
 2024-08-18,James Madison Dukes,Virginia Tech,Home,Loss,0,2,NA,1,0,0,0,5,2,4,0,0,2,0,0,2,3,7,16,7,12,0,1,7,0,1,317
 2024-08-22,James Madison Dukes,La Salle,Home,Draw,3,3,NA,1,3,6,12,9,4,10,0,1,4,0,0,3,4,10,16,9,13,0,1,4,0,0,317
-2024-08-25,James Madison Dukes,Maryland,Away,Draw,1,1,NA,1,1,1,3,5,2,8,0,1,4,0,0,1,0,2,7,6,7,0,0,2,0,1,317
+2024-08-25,James Madison Dukes,Maryland,Away,Draw,1,1,NA,1,1,0,2,5,2,8,0,1,4,0,0,1,0,2,7,6,7,0,0,2,0,1,317
 2024-09-01,James Madison Dukes,Virginia,Home,Loss,0,3,NA,1,0,0,0,3,0,3,0,0,0,0,0,3,4,10,19,11,1,0,0,9,0,0,317
 2024-08-15,Kansas Jayhawks,South Dakota St.,Away,Win,2,1,NA,1,2,4,8,12,6,13,0,2,0,0,0,1,0,2,13,5,6,0,0,6,0,0,328
 2024-08-18,Kansas Jayhawks,Drake,Away,Win,1,0,NA,1,1,0,2,13,5,7,0,0,6,0,0,0,0,0,1,1,6,0,3,4,0,0,328
@@ -637,7 +641,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-15,Lehigh Mountain Hawks,Maryland,Home,Loss,0,2,NA,1,0,0,0,14,7,8,0,0,4,0,0,2,2,6,6,4,6,0,1,3,0,0,352
 2024-08-22,Lehigh Mountain Hawks,Seton Hall,Away,Win,2,1,NA,1,2,1,5,10,6,10,0,3,3,0,0,1,2,4,15,9,6,1,2,9,0,0,352
 2024-08-28,Lehigh Mountain Hawks,Rutgers,Away,Loss,0,3,NA,1,0,0,0,4,3,6,0,0,1,0,0,3,4,10,22,9,5,0,2,6,0,0,352
-2024-09-01,Lehigh Mountain Hawks,Drexel,Away,Draw,4,4,1,1,4,3,11,19,10,13,0,1,4,0,0,4,4,12,14,7,5,0,1,9,0,0,352
+2024-09-01,Lehigh Mountain Hawks,Drexel,Away,Draw,4,4,1,1,4,4,12,19,10,13,0,1,4,0,0,4,4,12,14,7,5,0,1,9,0,0,352
 2024-08-15,Liberty Lady Flames,High Point,Away,Win,3,1,NA,1,3,2,8,21,8,7,0,0,4,0,0,1,2,4,2,1,9,0,1,0,0,0,355
 2024-08-18,Liberty Lady Flames,Old Dominion,Home,Win,2,0,NA,1,2,3,7,9,2,4,0,0,6,0,0,0,0,0,8,6,4,0,1,5,0,0,355
 2024-08-22,Liberty Lady Flames,VCU,Home,Win,2,1,NA,1,2,2,6,12,6,12,0,1,11,0,0,1,1,3,4,3,8,0,4,1,0,0,355
@@ -707,7 +711,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-22,Marist Red Foxes,NJIT,Away,Draw,0,0,NA,1,0,0,0,6,2,12,0,0,7,0,0,0,0,0,17,3,15,0,0,8,0,0,386
 2024-08-25,Marist Red Foxes,Bryant,Home,Loss,0,1,NA,1,0,0,0,15,6,10,0,0,8,0,0,1,1,3,9,6,3,0,0,6,0,0,386
 2024-08-29,Marist Red Foxes,St. Thomas (MN),Home,Loss,0,1,NA,1,0,0,0,8,3,15,0,1,5,0,0,1,0,2,15,7,7,0,1,9,0,0,386
-2024-09-01,Marist Red Foxes,Navy,Home,Loss,1,2,NA,1,1,0,2,15,2,8,0,0,7,0,0,2,3,7,9,2,4,0,0,0,0,0,386
+2024-09-01,Marist Red Foxes,Navy,Home,Loss,1,2,NA,1,1,0,2,15,2,8,0,0,7,0,0,2,1,5,9,2,4,0,0,0,0,0,386
 2024-08-15,Marquette Golden Eagles,Colorado,Away,Loss,0,3,NA,1,0,0,0,10,3,10,0,1,8,0,0,3,2,8,14,10,5,0,0,2,0,1,387
 2024-08-18,Marquette Golden Eagles,Kansas City,Home,Draw,1,1,NA,1,1,1,3,8,1,4,0,1,10,0,0,1,2,4,10,4,7,0,1,4,0,0,387
 2024-08-22,Marquette Golden Eagles,Northwestern,Away,Loss,0,2,NA,1,0,0,0,3,1,9,0,0,2,0,0,2,1,5,18,9,9,0,1,3,1,1,387
@@ -850,7 +854,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-24,Navy Midshipmen,FDU,Home,Win,3,2,NA,1,3,2,8,7,5,11,0,1,1,0,0,2,1,5,15,6,15,0,1,10,0,0,726
 2024-08-27,Navy Midshipmen,Wilson,Home,Win,8,0,NA,1,8,9,25,38,13,7,0,0,14,0,0,0,0,0,1,0,7,0,0,0,0,0,726
 2024-08-29,Navy Midshipmen,Maryland,Home,Loss,0,1,NA,1,0,0,0,12,2,8,0,0,3,0,0,1,0,2,7,2,9,0,0,3,0,0,726
-2024-09-01,Navy Midshipmen,Marist,Away,Win,2,1,NA,1,2,3,7,9,2,4,0,0,0,0,0,1,0,2,15,2,8,0,0,7,0,0,726
+2024-09-01,Navy Midshipmen,Marist,Away,Win,2,1,NA,1,2,1,5,9,2,4,0,0,0,0,0,1,0,2,15,2,8,0,0,7,0,0,726
 2024-08-15,Nebraska Huskers,Oklahoma St.,Home,Loss,0,2,NA,1,0,0,0,22,4,11,0,2,9,0,0,2,3,7,13,5,19,0,1,3,0,0,463
 2024-08-18,Nebraska Huskers,Colorado St.,Home,Win,3,2,NA,1,3,5,11,13,5,11,0,0,3,0,0,2,1,5,17,10,13,0,1,5,1,1,463
 2024-08-22,Nebraska Huskers,Duke,Home,Loss,0,3,NA,1,0,0,0,6,1,10,0,0,2,0,0,3,4,10,20,10,11,0,0,1,0,0,463
@@ -1023,7 +1027,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-18,Pittsburgh Panthers,"Duquesne Pittsburgh, PA",Away,Win,2,1,NA,1,2,2,6,22,11,5,0,0,9,0,0,1,0,2,11,4,12,0,0,1,0,0,545
 2024-08-22,Pittsburgh Panthers,Buffalo,Home,Loss,1,2,NA,1,1,1,3,28,12,9,0,0,5,0,0,2,2,6,10,4,9,0,1,3,0,0,545
 2024-08-25,Pittsburgh Panthers,Bucknell,Away,Win,5,1,NA,1,5,9,19,25,13,5,0,0,10,0,0,1,2,4,12,6,6,0,0,0,0,0,545
-2024-08-29,Pittsburgh Panthers,LMU (CA),Away,Win,3,0,NA,1,3,4,10,18,9,9,0,0,6,0,0,0,0,0,13,3,5,0,0,3,0,0,545
+2024-08-29,Pittsburgh Panthers,LMU (CA),Away,Win,3,0,NA,1,3,2,8,18,9,9,0,0,6,0,0,0,0,0,13,3,5,0,0,3,0,0,545
 2024-09-01,Pittsburgh Panthers,Cal St. Fullerton,Away,Win,2,0,NA,1,2,2,6,19,10,6,0,0,6,0,0,0,0,0,8,3,9,0,0,4,0,0,545
 2024-08-15,Portland Pilots,Cal Poly,Away,Draw,1,1,NA,1,1,1,3,9,4,4,0,1,6,0,0,1,1,3,16,7,11,0,1,3,0,0,551
 2024-08-18,Portland Pilots,Stonehill,Home,Win,7,0,NA,1,7,3,17,21,11,8,0,0,11,1,1,0,0,0,4,2,6,0,0,0,0,0,551
@@ -1058,7 +1062,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-22,Purdue Fort Wayne Mastodons,Tiffin,Home,Win,3,1,NA,1,3,3,9,16,8,7,0,0,3,0,0,1,1,3,6,6,7,0,0,4,0,0,308
 2024-08-25,Purdue Fort Wayne Mastodons,Eastern Ill.,Away,Win,1,0,NA,1,1,1,3,17,6,8,0,1,3,0,0,0,0,0,14,8,10,0,4,5,0,0,308
 2024-08-29,Purdue Fort Wayne Mastodons,Eastern Mich.,Away,Loss,0,1,NA,1,0,0,0,10,3,8,0,1,0,0,0,1,2,4,13,6,12,0,0,9,0,0,308
-2024-09-01,Purdue Fort Wayne Mastodons,SIUE,Home,Win,1,0,NA,1,1,2,4,16,5,10,0,0,4,0,0,0,0,0,13,6,10,0,0,1,0,0,308
+2024-09-01,Purdue Fort Wayne Mastodons,SIUE,Home,Win,1,0,NA,1,1,1,3,16,5,10,0,0,4,0,0,0,0,0,13,6,10,0,0,1,0,0,308
 2024-08-15,Queens (NC) Royals,USC Upstate,Home,Loss,0,2,NA,1,0,0,0,5,2,6,0,0,1,0,0,2,1,5,15,5,7,0,1,2,0,0,11504
 2024-08-18,Queens (NC) Royals,South Carolina St.,Away,Win,2,0,NA,1,2,0,4,17,9,13,0,2,2,1,3,0,0,0,9,5,8,0,0,3,0,1,11504
 2024-08-22,Queens (NC) Royals,Western Caro.,Home,Win,2,1,NA,1,2,2,6,5,3,10,0,1,5,0,0,1,0,2,22,10,10,0,1,9,0,0,11504
@@ -1109,7 +1113,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2024-08-15,SIUE Cougars,Omaha,Away,Draw,1,1,NA,1,1,2,4,9,4,12,0,0,3,0,0,1,1,3,10,4,6,0,0,8,0,0,660
 2024-08-22,SIUE Cougars,Chicago St.,Home,Win,6,1,NA,1,6,3,15,20,9,12,0,1,7,1,1,1,1,3,8,6,13,0,1,4,0,0,660
 2024-08-25,SIUE Cougars,Missouri St.,Away,Draw,0,0,NA,1,0,0,0,5,4,7,0,1,7,0,0,0,0,0,25,14,7,0,0,13,0,0,660
-2024-09-01,SIUE Cougars,Purdue Fort Wayne,Away,Loss,0,1,NA,1,0,0,0,13,6,10,0,0,1,0,0,1,2,4,16,5,10,0,0,4,0,0,660
+2024-09-01,SIUE Cougars,Purdue Fort Wayne,Away,Loss,0,1,NA,1,0,0,0,13,6,10,0,0,1,0,0,1,1,3,16,5,10,0,0,4,0,0,660
 2024-08-15,SMU Mustangs,Northwestern St.,Home,Win,3,0,NA,1,3,2,8,31,14,8,0,1,11,0,0,0,0,0,5,1,3,0,1,2,0,0,663
 2024-08-18,SMU Mustangs,Texas Southern,Home,Win,6,0,NA,1,6,4,16,26,11,8,0,0,8,0,0,0,0,0,0,0,7,0,1,0,0,0,663
 2024-08-22,SMU Mustangs,Texas,Home,Loss,3,6,NA,1,3,1,7,14,8,7,0,1,3,0,0,6,9,21,17,12,8,0,1,5,0,0,663
