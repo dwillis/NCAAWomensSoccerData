@@ -3,7 +3,7 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_womens_soccer_teamurls_2024.csv") %>% pull(3)
+urls <- read_csv("url_csvs/ncaa_womens_soccer_teamurls_2024.csv") %>% pull(3) 
 
 season = "2024"
 
@@ -34,20 +34,20 @@ for (i in urls){
     separate(result, into=c("score", "overtime"), sep = " \\(") %>% 
     separate(score, into=c("team_score", "opponent_score")) %>%
     mutate(outcome = case_when(opponent_score > team_score ~ "Loss", team_score > opponent_score ~ "Win", opponent_score == team_score ~ "Draw")) %>% 
-    mutate(team = schoolfull) %>% 
+    mutate(team = schoolfull[[1]]) %>% 
     mutate(overtime = gsub(")", "", overtime)) %>% 
     select(date, team, opponent, home_away, outcome, team_score, opponent_score, overtime, everything()) %>% 
     clean_names() %>% 
     mutate_at(vars(-date, -opponent, -home_away, -outcome, -team), ~str_replace(., "/", "")) %>% 
-    mutate_at(vars(-date, -team, -opponent, -home_away, -outcome, -overtime), as.numeric)
+    mutate_at(vars(-date, -team, -opponent, -home_away, -outcome, -overtime, -minutes), as.numeric)
   
   teamside <- matches %>% filter(opponent != "Defensive Totals")
   
-  opponentside <- matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away) %>% rename_with(.cols = 8:18, function(x){paste0("defensive_", x)})
+  opponentside <- matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away, -overtime, -gp) %>% rename_with(.cols = 6:18, function(x){paste0("defensive_", x)})
   
-  joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "outcome", "team_score", "opponent_score", "overtime", "games"))
+  joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "outcome", "team_score", "opponent_score"))
   
-  joinedmatches <- joinedmatches %>% add_column(team_id = team_id)
+  joinedmatches <- joinedmatches %>% add_column(team_id = team_id) 
   
   # grab opponent IDs - the one issue here is that if a team plays an opponent that isn't linked, this won't work and the team's matches will not have any opponent_id values
   #opponent_ids <- schoolpage %>% html_nodes("a") %>% html_attr("href") %>% as_tibble() %>% filter(str_detect(value, "/teams/")) %>% filter(!str_detect(value, paste0("/", team_id, "/"))) %>% separate(value, into=c('blank', 'team', 'opponent_id', 'season_id'), sep = '/') %>% select(opponent_id)
