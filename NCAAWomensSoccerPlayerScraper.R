@@ -20,7 +20,7 @@ for (i in urls){
   
   playerstats <- schoolpage %>% html_nodes(xpath = '//*[@id="stat_grid"]') %>% html_table()
   
-  playerstats <- playerstats[[1]] %>% filter(Player != "TEAM" & Player != "Totals" & Player != "Opponent Totals") %>% mutate(RosterName = Player) %>% separate(Player, into=c("LastName", "FirstName"), sep=",") %>% mutate(FullName = paste(FirstName, LastName, sep=" ")) %>% mutate(Team = schoolfull, Season=season) %>% clean_names() %>% select(season, team, full_name, roster_name, first_name, last_name, yr, pos, everything()) %>% mutate_at(vars(-season, -team, -full_name, -roster_name, -first_name, -last_name, -yr, -pos), ~str_replace(., ",", "")) %>%  mutate_at(vars(-season, -team, -full_name, -roster_name, -first_name, -last_name, -yr, -pos), as.numeric)
+  playerstats <- playerstats[[1]] %>% filter(Player != "TEAM" & Player != "Totals" & Player != "Opponent Totals") %>% mutate(RosterName = Player) %>% separate(Player, into=c("LastName", "FirstName"), sep=",") %>% mutate(FullName = paste(FirstName, LastName, sep=" ")) %>% mutate(Team = schoolfull[[1]], Season=season) %>% clean_names() %>% select(season, team, full_name, roster_name, first_name, last_name, yr, pos, everything()) %>% mutate_at(vars(-season, -team, -full_name, -roster_name, -first_name, -last_name, -yr, -pos), ~str_replace(., ",", "")) %>%  mutate_at(vars(-season, -team, -full_name, -roster_name, -first_name, -last_name, -yr, -pos), as.numeric)
   
   message <- paste0("Fetching ", schoolfull)
   
