@@ -271,20 +271,6 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-09,Austin Peay Governors,Central Ark.,Home,Draw,1,1,NA,1,990:00,1,1,3,12,4,10,0,0,5,0,NA,NA,990:00,1,2,4,21,9,16,0,2,2,0,NA,NA,43
 2025-10-12,Austin Peay Governors,North Ala.,Home,Loss,1,2,NA,1,990:00,1,0,2,9,6,11,0,0,6,0,NA,NA,990:00,2,1,5,14,6,10,0,1,7,1,1,1,43
 2025-10-19,Austin Peay Governors,Lipscomb,Home,Loss,0,1,NA,1,990:00,0,0,0,7,4,9,0,0,1,0,NA,NA,990:00,1,0,2,25,9,6,0,1,9,0,NA,1,43
-2025-08-14,BYU Cougars,Minnesota,Away,Win,3,1,NA,1,930:14,3,2,8,26,12,7,1,0,6,0,NA,1,990:00,1,1,3,15,5,7,0,2,4,0,NA,NA,77
-2025-08-18,BYU Cougars,Cal Poly,Away,Draw,2,2,NA,1,990:00,2,1,5,17,7,6,0,1,14,0,1,NA,990:00,2,2,6,9,4,10,0,3,6,0,NA,NA,77
-2025-08-23,BYU Cougars,UCLA,Home,Win,1,0,NA,1,990:00,1,0,2,12,3,7,0,2,5,1,1,1,990:00,0,0,0,19,3,9,0,2,11,0,NA,NA,77
-2025-08-29,BYU Cougars,Auburn,Home,Win,2,0,NA,1,990:00,2,0,4,14,4,5,0,0,3,0,NA,1,990:00,0,0,0,12,1,7,0,2,6,0,NA,NA,77
-2025-09-02,BYU Cougars,Arkansas,Home,Loss,0,1,NA,1,990:00,0,0,0,21,9,12,0,0,5,0,NA,NA,990:00,1,1,3,16,4,17,0,1,4,0,NA,1,77
-2025-09-06,BYU Cougars,Utah St.,Home,Win,2,0,NA,1,990:00,2,2,6,12,4,10,0,0,4,0,NA,1,990:00,0,0,0,23,4,6,0,0,5,0,NA,NA,77
-2025-09-12,BYU Cougars,Utah Valley,Home,Win,2,0,NA,1,990:00,2,2,6,15,9,10,0,1,5,0,NA,1,990:00,0,0,0,10,4,14,0,1,4,0,NA,NA,77
-2025-09-18,BYU Cougars,Arizona St.,Away,Loss,1,2,NA,1,990:00,1,1,3,15,4,12,0,0,8,0,NA,NA,990:00,2,3,7,16,7,9,0,0,2,0,NA,1,77
-2025-09-24,BYU Cougars,West Virginia,Home,Loss,2,3,NA,1,990:00,2,2,6,15,3,1,0,0,8,0,NA,NA,990:00,3,3,9,13,6,7,0,1,3,0,NA,1,77
-2025-09-27,BYU Cougars,Cincinnati,Home,Win,3,0,NA,1,990:00,3,2,8,13,5,11,0,0,13,1,1,1,990:00,0,0,0,5,1,9,0,1,4,0,NA,NA,77
-2025-10-02,BYU Cougars,Houston,Away,Draw,1,1,NA,1,990:00,1,0,2,13,4,10,0,0,7,0,NA,NA,990:00,1,1,3,9,5,11,0,2,0,0,NA,NA,77
-2025-10-06,BYU Cougars,Oklahoma St.,Away,Win,4,1,NA,1,990:00,4,3,11,26,11,5,0,1,6,0,NA,1,981:49,1,1,3,10,3,10,0,2,4,0,NA,NA,77
-2025-10-10,BYU Cougars,Baylor,Away,Loss,2,4,NA,1,990:00,2,2,6,15,7,6,0,1,4,0,NA,NA,990:00,4,7,15,15,8,7,0,1,8,0,NA,1,77
-2025-10-16,BYU Cougars,Arizona,Home,Win,3,2,NA,1,990:00,3,5,11,17,7,2,0,0,10,0,NA,1,990:00,2,4,8,11,5,8,0,0,4,0,NA,NA,77
 2025-08-17,Ball St. Cardinals,Purdue,Home,Loss,2,5,NA,1,990:00,2,2,6,5,3,10,0,0,3,0,NA,NA,990:00,5,6,16,21,9,12,0,2,3,0,NA,1,47
 2025-08-21,Ball St. Cardinals,Indiana,Away,Loss,0,1,NA,1,990:00,0,0,0,8,2,6,0,0,2,0,NA,NA,990:00,1,1,3,13,5,5,0,1,5,0,NA,1,47
 2025-08-24,Ball St. Cardinals,Eastern Ill.,Away,Win,4,0,NA,1,990:00,4,3,11,15,10,14,0,0,9,0,NA,1,990:00,0,0,0,8,4,9,0,1,3,0,NA,NA,47
@@ -485,38 +471,21 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-04,Butler Bulldogs,Xavier,Away,Loss,0,1,NA,1,990:00,0,0,0,6,4,4,0,2,3,0,NA,NA,990:00,1,1,3,19,7,5,0,0,7,0,NA,1,87
 2025-10-15,Butler Bulldogs,UConn,Home,Loss,0,2,NA,1,990:00,0,0,0,14,3,9,0,1,1,0,NA,NA,990:00,2,3,7,13,4,11,0,0,4,0,NA,1,87
 2025-10-18,Butler Bulldogs,Seton Hall,Home,Win,2,0,NA,1,990:00,2,3,7,24,11,6,0,0,12,0,NA,1,990:00,0,0,0,5,1,13,0,0,1,0,NA,NA,87
-2025-08-14,CSU Bakersfield Roadrunners,California Baptist,Away,Loss,0,1,NA,1,990:00,0,0,0,22,10,8,0,1,13,0,NA,NA,990:00,1,1,3,7,5,10,0,0,2,0,NA,1,94
-2025-08-17,CSU Bakersfield Roadrunners,San Diego St.,Away,Loss,0,1,NA,1,990:00,0,0,0,6,2,7,0,2,1,0,NA,NA,990:00,1,2,4,17,5,10,0,0,8,0,NA,1,94
-2025-08-21,CSU Bakersfield Roadrunners,Weber St.,Away,Loss,1,2,NA,1,990:00,1,1,3,13,5,11,0,0,6,0,NA,NA,990:00,2,2,6,19,10,9,0,0,3,0,NA,1,94
-2025-08-24,CSU Bakersfield Roadrunners,Idaho St.,Away,Loss,0,1,NA,1,990:00,0,0,0,9,4,12,0,2,2,0,1,NA,990:00,1,2,4,14,5,8,0,0,6,0,NA,1,94
-2025-08-28,CSU Bakersfield Roadrunners,Pacific,Home,Win,4,1,NA,1,990:00,4,2,10,24,7,9,0,1,14,0,NA,1,966:06,1,0,2,7,4,10,0,0,3,0,NA,NA,94
-2025-08-31,CSU Bakersfield Roadrunners,Boise St.,Away,Win,3,1,NA,1,990:00,3,1,7,10,7,7,0,2,8,0,NA,1,990:00,1,1,3,9,4,11,0,1,4,0,NA,NA,94
-2025-09-04,CSU Bakersfield Roadrunners,Fresno St.,Home,Win,4,1,NA,1,990:00,4,4,12,19,9,15,0,0,5,0,NA,1,990:00,1,1,3,10,3,13,0,1,8,0,NA,NA,94
-2025-09-14,CSU Bakersfield Roadrunners,Idaho,Home,Draw,0,0,NA,1,990:00,0,0,0,11,3,10,0,1,8,0,NA,NA,990:00,0,0,0,9,2,7,0,0,6,0,NA,NA,94
-2025-09-18,CSU Bakersfield Roadrunners,UC San Diego,Away,Win,1,0,NA,1,990:00,1,0,2,18,6,10,0,1,3,0,NA,1,990:00,0,0,0,17,9,7,0,0,4,0,NA,NA,94
-2025-09-28,CSU Bakersfield Roadrunners,UC Irvine,Home,Loss,0,1,NA,1,990:00,0,0,0,11,2,10,0,1,9,0,NA,NA,990:00,1,1,3,14,7,8,0,1,2,0,NA,1,94
-2025-10-02,CSU Bakersfield Roadrunners,Cal Poly,Away,Draw,2,2,NA,1,990:00,2,1,5,12,5,9,0,1,6,1,1,NA,972:03,2,2,6,13,5,9,0,1,2,0,NA,NA,94
-2025-10-05,CSU Bakersfield Roadrunners,UC Santa Barbara,Away,Loss,0,1,NA,1,990:00,0,0,0,12,6,8,0,2,1,0,NA,NA,990:00,1,1,3,13,5,5,0,0,5,0,NA,1,94
-2025-10-09,CSU Bakersfield Roadrunners,Long Beach St.,Home,Win,2,1,NA,1,990:00,2,2,6,16,7,16,0,2,9,0,NA,1,990:00,1,1,3,23,7,4,0,0,9,0,NA,NA,94
-2025-10-12,CSU Bakersfield Roadrunners,CSUN,Away,Loss,0,1,NA,1,990:00,0,0,0,12,3,9,0,2,3,0,NA,NA,990:00,1,0,2,15,8,8,0,0,7,0,NA,1,94
-2025-10-16,CSU Bakersfield Roadrunners,UC Davis,Home,Win,4,1,NA,1,990:00,4,1,9,19,9,8,0,0,4,0,NA,1,990:00,1,1,3,7,3,6,0,0,1,0,NA,NA,94
-2025-10-19,CSU Bakersfield Roadrunners,UC Riverside,Away,Win,3,0,NA,1,990:00,3,3,9,15,7,7,0,1,12,0,NA,1,990:00,0,0,0,6,3,10,0,2,2,0,NA,NA,94
-2025-08-14,CSUN Matadors,Saint Mary's (CA),Away,Draw,2,2,NA,1,990:00,2,1,5,5,2,13,0,1,1,0,NA,NA,990:00,2,3,7,18,5,13,0,0,7,0,NA,NA,101
-2025-08-17,CSUN Matadors,San Jose St.,Away,Win,1,0,NA,1,990:00,1,2,4,14,8,4,0,2,9,0,NA,1,990:00,0,0,0,5,3,12,0,0,6,0,NA,NA,101
-2025-08-21,CSUN Matadors,Grand Canyon,Home,Loss,0,1,NA,1,990:00,0,0,0,10,6,11,0,2,3,0,NA,NA,990:00,1,2,4,12,4,9,0,1,8,0,NA,1,101
-2025-08-24,CSUN Matadors,California Baptist,Home,Loss,0,1,NA,1,990:00,0,0,0,9,3,12,0,4,1,0,NA,NA,990:00,1,1,3,10,6,13,0,2,4,0,NA,1,101
-2025-08-28,CSUN Matadors,Utah Tech,Home,Loss,1,2,NA,1,990:00,1,1,3,13,2,8,0,0,3,0,NA,NA,990:00,2,1,5,14,6,9,0,0,1,0,NA,1,101
-2025-08-31,CSUN Matadors,San Diego,Away,Loss,1,3,NA,1,990:00,1,0,2,22,9,9,0,1,4,1,1,NA,990:00,3,2,8,11,7,14,0,1,2,0,NA,1,101
-2025-09-04,CSUN Matadors,Portland St.,Away,Win,4,0,NA,1,990:00,4,4,12,23,15,15,0,1,6,0,1,1,925:58,0,0,0,12,4,5,1,1,4,0,NA,NA,101
-2025-09-07,CSUN Matadors,Portland,Away,Loss,0,1,NA,1,990:00,0,0,0,8,3,15,0,2,2,0,NA,NA,990:00,1,0,2,14,6,17,0,0,5,0,NA,1,101
-2025-09-11,CSUN Matadors,Sacramento St.,Home,Loss,0,1,NA,1,990:00,0,0,0,25,7,3,0,0,4,0,NA,NA,990:00,1,0,2,11,2,11,0,0,4,0,NA,1,101
-2025-09-21,CSUN Matadors,Cal St. Fullerton,Away,Draw,0,0,NA,1,983:33,0,0,0,8,3,10,1,1,4,0,NA,NA,990:00,0,0,0,10,5,11,0,1,4,0,NA,NA,101
-2025-09-25,CSUN Matadors,UC Irvine,Home,Win,1,0,NA,1,990:00,1,0,2,8,2,12,0,1,3,0,NA,1,990:00,0,0,0,16,4,13,0,0,2,0,NA,NA,101
-2025-09-28,CSUN Matadors,UC Riverside,Home,Win,2,0,NA,1,990:00,2,3,7,16,5,15,0,1,5,0,1,1,990:00,0,0,0,11,2,9,0,1,2,0,NA,NA,101
-2025-10-05,CSUN Matadors,UC San Diego,Away,Draw,0,0,NA,1,990:00,0,0,0,12,8,14,0,0,2,0,NA,NA,990:00,0,0,0,20,9,6,0,0,2,0,NA,NA,101
-2025-10-12,CSUN Matadors,CSU Bakersfield,Home,Win,1,0,NA,1,990:00,1,0,2,15,8,8,0,0,7,0,NA,1,990:00,0,0,0,12,3,9,0,2,3,0,NA,NA,101
-2025-10-16,CSUN Matadors,Hawaii,Away,Win,2,0,NA,1,990:00,2,0,4,14,5,2,0,1,9,1,1,1,990:00,0,0,0,12,3,11,0,0,11,0,NA,NA,101
-2025-10-19,CSUN Matadors,UC Davis,Home,Win,1,0,NA,1,990:00,1,1,3,17,5,7,0,0,3,0,NA,1,977:15,0,0,0,9,4,10,0,1,2,0,NA,NA,101
+2025-08-14,BYU Cougars,Minnesota,Away,Win,3,1,NA,1,930:14,3,2,8,26,12,7,1,0,6,0,NA,1,990:00,1,1,3,15,5,7,0,2,4,0,NA,NA,77
+2025-08-18,BYU Cougars,Cal Poly,Away,Draw,2,2,NA,1,990:00,2,1,5,17,7,6,0,1,14,0,1,NA,990:00,2,2,6,9,4,10,0,3,6,0,NA,NA,77
+2025-08-23,BYU Cougars,UCLA,Home,Win,1,0,NA,1,990:00,1,0,2,12,3,7,0,2,5,1,1,1,990:00,0,0,0,19,3,9,0,2,11,0,NA,NA,77
+2025-08-29,BYU Cougars,Auburn,Home,Win,2,0,NA,1,990:00,2,0,4,14,4,5,0,0,3,0,NA,1,990:00,0,0,0,12,1,7,0,2,6,0,NA,NA,77
+2025-09-02,BYU Cougars,Arkansas,Home,Loss,0,1,NA,1,990:00,0,0,0,21,9,12,0,0,5,0,NA,NA,990:00,1,1,3,16,4,17,0,1,4,0,NA,1,77
+2025-09-06,BYU Cougars,Utah St.,Home,Win,2,0,NA,1,990:00,2,2,6,12,4,10,0,0,4,0,NA,1,990:00,0,0,0,23,4,6,0,0,5,0,NA,NA,77
+2025-09-12,BYU Cougars,Utah Valley,Home,Win,2,0,NA,1,990:00,2,2,6,15,9,10,0,1,5,0,NA,1,990:00,0,0,0,10,4,14,0,1,4,0,NA,NA,77
+2025-09-18,BYU Cougars,Arizona St.,Away,Loss,1,2,NA,1,990:00,1,1,3,15,4,12,0,0,8,0,NA,NA,990:00,2,3,7,16,7,9,0,0,2,0,NA,1,77
+2025-09-24,BYU Cougars,West Virginia,Home,Loss,2,3,NA,1,990:00,2,2,6,15,3,1,0,0,8,0,NA,NA,990:00,3,3,9,13,6,7,0,1,3,0,NA,1,77
+2025-09-27,BYU Cougars,Cincinnati,Home,Win,3,0,NA,1,990:00,3,2,8,13,5,11,0,0,13,1,1,1,990:00,0,0,0,5,1,9,0,1,4,0,NA,NA,77
+2025-10-02,BYU Cougars,Houston,Away,Draw,1,1,NA,1,990:00,1,0,2,13,4,10,0,0,7,0,NA,NA,990:00,1,1,3,9,5,11,0,2,0,0,NA,NA,77
+2025-10-06,BYU Cougars,Oklahoma St.,Away,Win,4,1,NA,1,990:00,4,3,11,26,11,5,0,1,6,0,NA,1,981:49,1,1,3,10,3,10,0,2,4,0,NA,NA,77
+2025-10-10,BYU Cougars,Baylor,Away,Loss,2,4,NA,1,990:00,2,2,6,15,7,6,0,1,4,0,NA,NA,990:00,4,7,15,15,8,7,0,1,8,0,NA,1,77
+2025-10-16,BYU Cougars,Arizona,Home,Win,3,2,NA,1,990:00,3,5,11,17,7,2,0,0,10,0,NA,1,990:00,2,4,8,11,5,8,0,0,4,0,NA,NA,77
+2025-10-20,BYU Cougars,Colorado,Home,Draw,2,2,NA,1,990:00,2,3,7,23,9,5,0,0,4,0,NA,NA,990:00,2,1,5,19,8,6,0,1,6,0,NA,NA,77
 2025-08-14,Cal Poly Mustangs,San Diego,Away,Draw,3,3,NA,1,990:00,3,2,8,20,8,8,0,0,3,0,NA,NA,990:00,3,5,11,12,6,11,0,1,4,0,NA,NA,90
 2025-08-18,Cal Poly Mustangs,BYU,Home,Draw,2,2,NA,1,990:00,2,2,6,9,4,10,0,3,6,0,NA,NA,990:00,2,1,5,17,7,6,0,1,14,0,1,NA,90
 2025-08-21,Cal Poly Mustangs,Fresno St.,Away,Draw,0,0,NA,1,990:00,0,0,0,17,7,11,0,2,4,0,NA,NA,990:00,0,0,0,16,9,9,0,3,10,0,NA,NA,90
@@ -826,6 +795,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-05,Colorado Buffaloes,Baylor,Away,Loss,1,2,NA,1,990:00,1,1,3,8,3,5,0,1,3,0,NA,NA,990:00,2,2,6,17,8,7,0,0,4,0,NA,1,157
 2025-10-10,Colorado Buffaloes,Arizona St.,Home,Win,2,0,NA,1,990:00,2,2,6,27,11,7,0,2,5,0,NA,1,990:00,0,0,0,9,6,6,0,2,4,0,NA,NA,157
 2025-10-16,Colorado Buffaloes,Utah,Away,Win,2,1,NA,1,990:00,2,2,6,10,6,8,0,0,3,0,NA,1,990:00,1,1,3,22,7,8,0,3,5,0,NA,NA,157
+2025-10-20,Colorado Buffaloes,BYU,Away,Draw,2,2,NA,1,990:00,2,1,5,19,8,6,0,1,6,0,NA,NA,990:00,2,3,7,23,9,5,0,0,4,0,NA,NA,157
 2025-08-14,Colorado Col. Tigers,New Mexico St.,Away,Win,2,1,NA,1,990:00,2,2,6,10,6,7,0,0,5,0,NA,1,990:00,1,1,3,5,2,9,0,1,4,0,NA,NA,154
 2025-08-17,Colorado Col. Tigers,Denver,Home,Draw,0,0,1,1,1005:42,0,0,0,10,3,7,0,1,1,0,NA,NA,986:41,0,0,0,15,7,11,0,1,5,0,NA,NA,154
 2025-08-21,Colorado Col. Tigers,Buffalo,Away,Loss,0,1,NA,1,990:00,0,0,0,11,5,11,0,1,4,0,NA,NA,990:00,1,1,3,15,7,7,0,2,1,0,NA,1,154
@@ -872,6 +842,38 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-04,Creighton Bluejays,UConn,Away,Loss,0,1,NA,1,990:00,0,0,0,9,5,11,0,2,3,0,NA,NA,990:00,1,0,2,13,5,5,0,1,4,0,NA,1,169
 2025-10-11,Creighton Bluejays,Providence,Away,Draw,3,3,NA,1,990:00,3,2,8,16,9,12,0,2,10,0,1,NA,986:51,3,1,7,11,5,10,1,2,0,1,1,NA,169
 2025-10-18,Creighton Bluejays,DePaul,Away,Win,2,1,NA,1,990:00,2,1,5,17,8,9,0,3,5,1,1,1,990:00,1,1,3,11,5,10,0,0,6,0,NA,NA,169
+2025-08-14,CSU Bakersfield Roadrunners,California Baptist,Away,Loss,0,1,NA,1,990:00,0,0,0,22,10,8,0,1,13,0,NA,NA,990:00,1,1,3,7,5,10,0,0,2,0,NA,1,94
+2025-08-17,CSU Bakersfield Roadrunners,San Diego St.,Away,Loss,0,1,NA,1,990:00,0,0,0,6,2,7,0,2,1,0,NA,NA,990:00,1,2,4,17,5,10,0,0,8,0,NA,1,94
+2025-08-21,CSU Bakersfield Roadrunners,Weber St.,Away,Loss,1,2,NA,1,990:00,1,1,3,13,5,11,0,0,6,0,NA,NA,990:00,2,2,6,19,10,9,0,0,3,0,NA,1,94
+2025-08-24,CSU Bakersfield Roadrunners,Idaho St.,Away,Loss,0,1,NA,1,990:00,0,0,0,9,4,12,0,2,2,0,1,NA,990:00,1,2,4,14,5,8,0,0,6,0,NA,1,94
+2025-08-28,CSU Bakersfield Roadrunners,Pacific,Home,Win,4,1,NA,1,990:00,4,2,10,24,7,9,0,1,14,0,NA,1,966:06,1,0,2,7,4,10,0,0,3,0,NA,NA,94
+2025-08-31,CSU Bakersfield Roadrunners,Boise St.,Away,Win,3,1,NA,1,990:00,3,1,7,10,7,7,0,2,8,0,NA,1,990:00,1,1,3,9,4,11,0,1,4,0,NA,NA,94
+2025-09-04,CSU Bakersfield Roadrunners,Fresno St.,Home,Win,4,1,NA,1,990:00,4,4,12,19,9,15,0,0,5,0,NA,1,990:00,1,1,3,10,3,13,0,1,8,0,NA,NA,94
+2025-09-14,CSU Bakersfield Roadrunners,Idaho,Home,Draw,0,0,NA,1,990:00,0,0,0,11,3,10,0,1,8,0,NA,NA,990:00,0,0,0,9,2,7,0,0,6,0,NA,NA,94
+2025-09-18,CSU Bakersfield Roadrunners,UC San Diego,Away,Win,1,0,NA,1,990:00,1,0,2,18,6,10,0,1,3,0,NA,1,990:00,0,0,0,17,9,7,0,0,4,0,NA,NA,94
+2025-09-28,CSU Bakersfield Roadrunners,UC Irvine,Home,Loss,0,1,NA,1,990:00,0,0,0,11,2,10,0,1,9,0,NA,NA,990:00,1,1,3,14,7,8,0,1,2,0,NA,1,94
+2025-10-02,CSU Bakersfield Roadrunners,Cal Poly,Away,Draw,2,2,NA,1,990:00,2,1,5,12,5,9,0,1,6,1,1,NA,972:03,2,2,6,13,5,9,0,1,2,0,NA,NA,94
+2025-10-05,CSU Bakersfield Roadrunners,UC Santa Barbara,Away,Loss,0,1,NA,1,990:00,0,0,0,12,6,8,0,2,1,0,NA,NA,990:00,1,1,3,13,5,5,0,0,5,0,NA,1,94
+2025-10-09,CSU Bakersfield Roadrunners,Long Beach St.,Home,Win,2,1,NA,1,990:00,2,2,6,16,7,16,0,2,9,0,NA,1,990:00,1,1,3,23,7,4,0,0,9,0,NA,NA,94
+2025-10-12,CSU Bakersfield Roadrunners,CSUN,Away,Loss,0,1,NA,1,990:00,0,0,0,12,3,9,0,2,3,0,NA,NA,990:00,1,0,2,15,8,8,0,0,7,0,NA,1,94
+2025-10-16,CSU Bakersfield Roadrunners,UC Davis,Home,Win,4,1,NA,1,990:00,4,1,9,19,9,8,0,0,4,0,NA,1,990:00,1,1,3,7,3,6,0,0,1,0,NA,NA,94
+2025-10-19,CSU Bakersfield Roadrunners,UC Riverside,Away,Win,3,0,NA,1,990:00,3,3,9,15,7,7,0,1,12,0,NA,1,990:00,0,0,0,6,3,10,0,2,2,0,NA,NA,94
+2025-08-14,CSUN Matadors,Saint Mary's (CA),Away,Draw,2,2,NA,1,990:00,2,1,5,5,2,13,0,1,1,0,NA,NA,990:00,2,3,7,18,5,13,0,0,7,0,NA,NA,101
+2025-08-17,CSUN Matadors,San Jose St.,Away,Win,1,0,NA,1,990:00,1,2,4,14,8,4,0,2,9,0,NA,1,990:00,0,0,0,5,3,12,0,0,6,0,NA,NA,101
+2025-08-21,CSUN Matadors,Grand Canyon,Home,Loss,0,1,NA,1,990:00,0,0,0,10,6,11,0,2,3,0,NA,NA,990:00,1,2,4,12,4,9,0,1,8,0,NA,1,101
+2025-08-24,CSUN Matadors,California Baptist,Home,Loss,0,1,NA,1,990:00,0,0,0,9,3,12,0,4,1,0,NA,NA,990:00,1,1,3,10,6,13,0,2,4,0,NA,1,101
+2025-08-28,CSUN Matadors,Utah Tech,Home,Loss,1,2,NA,1,990:00,1,1,3,13,2,8,0,0,3,0,NA,NA,990:00,2,1,5,14,6,9,0,0,1,0,NA,1,101
+2025-08-31,CSUN Matadors,San Diego,Away,Loss,1,3,NA,1,990:00,1,0,2,22,9,9,0,1,4,1,1,NA,990:00,3,2,8,11,7,14,0,1,2,0,NA,1,101
+2025-09-04,CSUN Matadors,Portland St.,Away,Win,4,0,NA,1,990:00,4,4,12,23,15,15,0,1,6,0,1,1,925:58,0,0,0,12,4,5,1,1,4,0,NA,NA,101
+2025-09-07,CSUN Matadors,Portland,Away,Loss,0,1,NA,1,990:00,0,0,0,8,3,15,0,2,2,0,NA,NA,990:00,1,0,2,14,6,17,0,0,5,0,NA,1,101
+2025-09-11,CSUN Matadors,Sacramento St.,Home,Loss,0,1,NA,1,990:00,0,0,0,25,7,3,0,0,4,0,NA,NA,990:00,1,0,2,11,2,11,0,0,4,0,NA,1,101
+2025-09-21,CSUN Matadors,Cal St. Fullerton,Away,Draw,0,0,NA,1,983:33,0,0,0,8,3,10,1,1,4,0,NA,NA,990:00,0,0,0,10,5,11,0,1,4,0,NA,NA,101
+2025-09-25,CSUN Matadors,UC Irvine,Home,Win,1,0,NA,1,990:00,1,0,2,8,2,12,0,1,3,0,NA,1,990:00,0,0,0,16,4,13,0,0,2,0,NA,NA,101
+2025-09-28,CSUN Matadors,UC Riverside,Home,Win,2,0,NA,1,990:00,2,3,7,16,5,15,0,1,5,0,1,1,990:00,0,0,0,11,2,9,0,1,2,0,NA,NA,101
+2025-10-05,CSUN Matadors,UC San Diego,Away,Draw,0,0,NA,1,990:00,0,0,0,12,8,14,0,0,2,0,NA,NA,990:00,0,0,0,20,9,6,0,0,2,0,NA,NA,101
+2025-10-12,CSUN Matadors,CSU Bakersfield,Home,Win,1,0,NA,1,990:00,1,0,2,15,8,8,0,0,7,0,NA,1,990:00,0,0,0,12,3,9,0,2,3,0,NA,NA,101
+2025-10-16,CSUN Matadors,Hawaii,Away,Win,2,0,NA,1,990:00,2,0,4,14,5,2,0,1,9,1,1,1,990:00,0,0,0,12,3,11,0,0,11,0,NA,NA,101
+2025-10-19,CSUN Matadors,UC Davis,Home,Win,1,0,NA,1,990:00,1,1,3,17,5,7,0,0,3,0,NA,1,977:15,0,0,0,9,4,10,0,1,2,0,NA,NA,101
 2025-08-14,Davidson Wildcats,UNC Greensboro,Away,Win,2,1,NA,1,990:00,2,1,5,6,5,12,0,0,4,0,NA,1,990:00,1,1,3,13,7,8,0,0,4,0,NA,NA,173
 2025-08-17,Davidson Wildcats,USC Upstate,Home,Win,3,0,NA,1,990:00,3,2,8,8,4,4,0,0,4,0,NA,1,990:00,0,0,0,5,1,6,0,1,3,0,NA,NA,173
 2025-08-21,Davidson Wildcats,App State,Away,Loss,0,2,NA,1,990:00,0,0,0,14,1,6,0,0,7,0,NA,NA,990:00,2,1,5,12,7,6,0,1,6,0,NA,1,173
@@ -1112,7 +1114,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-08-28,Eastern Mich. Eagles,Southern Ind.,Away,Win,3,1,NA,1,990:00,3,2,8,10,7,13,0,0,0,0,NA,1,990:00,1,2,4,5,1,6,0,0,4,0,NA,NA,204
 2025-08-31,Eastern Mich. Eagles,Robert Morris,Home,Win,2,0,NA,1,990:00,2,4,8,22,12,9,0,1,3,0,NA,1,947:52,0,0,0,4,3,17,0,0,4,0,NA,NA,204
 2025-09-07,Eastern Mich. Eagles,DePaul,Away,Loss,0,1,NA,1,990:00,0,0,0,9,3,16,0,3,2,0,NA,NA,990:00,1,0,2,8,5,15,0,2,4,1,1,1,204
-2025-09-11,Eastern Mich. Eagles,Loyola Chicago,Home,Loss,0,2,NA,1,990:00,0,0,0,10,7,7,0,0,2,0,NA,NA,990:00,2,0,4,8,6,10,0,0,3,0,NA,1,204
+2025-09-11,Eastern Mich. Eagles,Loyola Chicago,Home,Loss,0,2,NA,1,990:00,0,0,0,10,7,7,0,0,2,0,NA,NA,1000:51,2,0,4,8,6,10,0,0,3,0,NA,1,204
 2025-09-18,Eastern Mich. Eagles,Buffalo,Home,Win,1,0,NA,1,989:27,1,1,3,4,3,8,0,0,3,0,NA,1,989:27,0,0,0,17,8,4,0,0,6,0,NA,NA,204
 2025-09-21,Eastern Mich. Eagles,Toledo,Away,Win,1,0,NA,1,990:00,1,2,4,9,7,12,0,1,2,0,NA,1,990:00,0,0,0,6,3,8,0,1,2,0,NA,NA,204
 2025-09-25,Eastern Mich. Eagles,Miami (OH),Away,Loss,0,1,NA,1,990:00,0,0,0,9,6,13,0,4,7,0,NA,NA,990:00,1,1,3,7,4,20,0,2,5,0,NA,1,204
@@ -1306,7 +1308,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-09,Fresno St. Bulldogs,Utah St.,Away,Loss,1,7,NA,1,990:00,1,1,3,5,2,11,0,2,3,0,NA,NA,990:00,7,8,22,18,11,8,0,1,3,1,1,1,96
 2025-10-12,Fresno St. Bulldogs,Boise St.,Away,Loss,1,2,NA,1,990:00,1,2,4,3,2,10,0,1,5,0,NA,NA,990:00,2,1,5,7,3,16,0,2,2,0,NA,1,96
 2025-10-16,Fresno St. Bulldogs,Colorado St.,Home,Win,1,0,NA,1,990:00,1,1,3,14,8,16,0,1,10,0,NA,1,990:00,0,0,0,12,8,13,0,1,5,0,NA,NA,96
-2025-10-19,Fresno St. Bulldogs,Grand Canyon,Home,Win,3,2,NA,1,990:00,3,1,7,17,8,12,0,1,6,0,NA,1,990:00,2,1,5,13,8,14,0,3,4,0,NA,NA,96
+2025-10-19,Fresno St. Bulldogs,Grand Canyon,Home,Win,3,2,NA,1,990:00,3,1,7,17,8,12,0,1,6,0,NA,1,990:00,2,2,6,13,8,14,0,3,4,0,NA,NA,96
 2025-08-14,Furman Paladins,South Fla.,Home,Loss,0,1,NA,1,990:00,0,0,0,7,5,10,0,1,2,0,NA,NA,990:00,1,1,3,15,9,13,0,0,3,0,NA,1,244
 2025-08-17,Furman Paladins,Georgia St.,Home,Win,2,1,NA,1,990:00,2,2,6,8,4,7,0,1,4,0,NA,1,990:00,1,0,2,16,7,9,0,0,10,0,NA,NA,244
 2025-08-22,Furman Paladins,Bob Jones,Home,Win,5,0,NA,1,990:00,5,3,13,46,19,8,0,0,13,0,NA,1,990:00,0,0,0,0,0,9,0,0,0,0,NA,NA,244
@@ -1322,7 +1324,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-05,Furman Paladins,Samford,Home,Draw,2,2,NA,1,990:00,2,2,6,12,4,6,0,0,6,0,NA,NA,990:00,2,2,6,13,7,13,0,1,3,0,NA,NA,244
 2025-10-10,Furman Paladins,ETSU,Home,Draw,1,1,NA,1,990:00,1,1,3,13,4,12,0,0,10,0,NA,NA,990:00,1,1,3,14,7,10,0,1,3,0,NA,NA,244
 2025-10-16,Furman Paladins,Chattanooga,Away,Draw,1,1,NA,1,990:00,1,1,3,8,2,9,0,0,4,0,NA,NA,990:00,1,2,4,24,8,10,0,0,7,0,NA,NA,244
-2025-10-19,Furman Paladins,Wofford,Away,Loss,0,1,NA,1,990:00,0,0,0,19,5,13,0,0,13,0,1,NA,990:00,1,1,3,8,5,7,0,3,1,0,NA,1,244
+2025-10-19,Furman Paladins,Wofford,Away,Loss,0,1,NA,1,990:00,0,0,0,19,5,13,0,0,13,0,1,NA,990:00,1,2,4,8,5,7,0,3,1,0,NA,1,244
 2025-08-14,Ga. Southern Eagles,Samford,Home,Win,3,2,NA,1,990:00,3,2,8,10,4,11,0,2,6,0,NA,1,990:00,2,2,6,18,7,20,0,0,6,0,NA,NA,253
 2025-08-17,Ga. Southern Eagles,Jacksonville,Home,Loss,1,4,NA,1,990:00,1,1,3,15,6,15,0,1,7,0,NA,NA,990:00,4,4,12,13,10,8,0,1,4,0,NA,1,253
 2025-08-21,Ga. Southern Eagles,Western Caro.,Away,Win,1,0,NA,1,990:00,1,1,3,9,5,10,0,0,2,0,NA,1,990:00,0,0,0,23,8,7,0,0,3,0,NA,NA,253
@@ -1478,7 +1480,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-09,Grand Canyon Lopes,New Mexico,Away,Loss,1,4,NA,1,990:00,1,1,3,15,7,7,0,0,5,0,NA,NA,990:00,4,4,12,19,13,7,0,1,2,0,NA,1,1104
 2025-10-12,Grand Canyon Lopes,UNLV,Away,Win,2,1,NA,1,990:00,2,0,4,18,7,11,0,2,3,1,1,1,990:00,1,2,4,8,2,12,0,1,3,0,NA,NA,1104
 2025-10-16,Grand Canyon Lopes,Wyoming,Home,Draw,1,1,NA,1,990:00,1,1,3,10,5,6,0,0,3,0,NA,NA,990:00,1,1,3,26,10,10,0,2,10,0,NA,NA,1104
-2025-10-19,Grand Canyon Lopes,Fresno St.,Away,Loss,2,3,NA,1,990:00,2,1,5,13,8,14,0,3,4,0,NA,NA,990:00,3,1,7,17,8,12,0,1,6,0,NA,1,1104
+2025-10-19,Grand Canyon Lopes,Fresno St.,Away,Loss,2,3,NA,1,990:00,2,2,6,13,8,14,0,3,4,0,NA,NA,990:00,3,1,7,17,8,12,0,1,6,0,NA,1,1104
 2025-08-14,Green Bay Phoenix,North Dakota St.,Home,Loss,1,3,NA,1,990:00,1,1,3,8,3,8,0,0,4,0,NA,NA,990:00,3,4,10,16,6,6,0,1,5,0,NA,1,794
 2025-08-17,Green Bay Phoenix,Omaha,Away,Loss,3,6,NA,1,990:00,3,1,7,5,5,14,0,1,3,1,1,NA,990:00,6,8,20,11,10,15,0,0,3,0,NA,1,794
 2025-08-24,Green Bay Phoenix,Illinois St.,Home,Draw,1,1,NA,1,990:00,1,0,2,12,5,15,0,2,6,1,1,NA,963:59,1,1,3,7,4,12,1,2,6,0,NA,NA,794
@@ -2045,7 +2047,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-02,Le Moyne Dolphins,Mercyhurst,Away,Loss,0,1,NA,1,990:00,0,0,0,15,8,6,0,0,6,0,NA,NA,990:00,1,1,3,5,4,10,0,0,2,0,NA,1,349
 2025-10-09,Le Moyne Dolphins,Howard,Home,Loss,0,1,NA,1,990:00,0,0,0,5,1,6,0,0,4,0,NA,NA,990:00,1,0,2,18,7,9,0,0,12,0,NA,1,349
 2025-10-12,Le Moyne Dolphins,LIU,Away,Loss,0,2,NA,1,990:00,0,0,0,7,3,7,0,1,1,0,NA,NA,990:00,2,2,6,11,8,5,0,1,1,0,NA,1,349
-2025-10-19,Le Moyne Dolphins,Wagner,Home,Loss,1,2,NA,1,990:00,1,0,2,10,5,11,0,0,5,1,1,NA,990:00,2,1,5,13,9,7,0,0,3,0,NA,1,349
+2025-10-19,Le Moyne Dolphins,Wagner,Home,Loss,1,2,NA,1,990:00,1,0,2,10,5,11,0,0,5,1,1,NA,990:00,2,2,6,13,9,7,0,0,3,0,NA,1,349
 2025-08-14,Lehigh Mountain Hawks,Maryland,Away,Loss,0,3,NA,1,990:00,0,0,0,5,3,6,0,0,4,0,NA,NA,990:00,3,2,8,16,10,5,0,0,7,0,NA,1,352
 2025-08-17,Lehigh Mountain Hawks,Binghamton,Home,Loss,1,2,NA,1,981:42,1,0,2,10,4,8,0,0,6,0,1,NA,990:00,2,0,4,17,7,11,0,2,6,0,1,1,352
 2025-08-20,Lehigh Mountain Hawks,La Salle,Away,Win,2,1,NA,1,990:00,2,0,4,6,4,9,0,2,4,1,1,1,990:00,1,0,2,15,6,5,0,0,12,0,NA,NA,352
@@ -2209,7 +2211,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-08-28,Loyola Chicago Ramblers,Iowa,Home,Draw,0,0,NA,1,990:00,0,0,0,9,2,15,0,3,2,0,NA,NA,990:00,0,0,0,17,6,10,0,0,5,0,NA,NA,371
 2025-08-31,Loyola Chicago Ramblers,Purdue,Home,Win,1,0,NA,1,990:00,1,1,3,19,9,13,0,2,5,0,NA,1,990:00,0,0,0,4,1,13,0,1,5,0,NA,NA,371
 2025-09-07,Loyola Chicago Ramblers,Illinois St.,Away,Win,1,0,NA,1,990:00,1,1,3,10,7,17,0,1,4,0,NA,1,990:00,0,0,0,4,2,10,0,1,3,0,NA,NA,371
-2025-09-11,Loyola Chicago Ramblers,Eastern Mich.,Away,Win,2,0,NA,1,990:00,2,0,4,8,6,10,0,0,3,0,NA,1,990:00,0,0,0,10,7,7,0,0,2,0,NA,NA,371
+2025-09-11,Loyola Chicago Ramblers,Eastern Mich.,Away,Win,2,0,NA,1,1000:51,2,0,4,8,6,10,0,0,3,0,NA,1,990:00,0,0,0,10,7,7,0,0,2,0,NA,NA,371
 2025-09-14,Loyola Chicago Ramblers,Marquette,Away,Draw,1,1,NA,1,990:00,1,1,3,8,3,20,0,2,2,0,NA,NA,990:00,1,2,4,11,4,16,0,0,2,0,NA,NA,371
 2025-09-21,Loyola Chicago Ramblers,Fordham,Home,Win,1,0,NA,1,990:00,1,1,3,21,6,11,0,2,4,0,NA,1,990:00,0,0,0,17,9,9,0,2,3,0,NA,NA,371
 2025-09-25,Loyola Chicago Ramblers,Dayton,Away,Loss,0,2,NA,1,990:00,0,0,0,5,2,17,0,2,5,0,NA,NA,990:00,2,1,5,18,8,6,0,1,5,1,1,1,371
@@ -2307,7 +2309,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-09,"Maryland Terrapins, Terps",Iowa,Away,Loss,0,2,NA,1,990:00,0,0,0,3,1,12,0,1,2,0,NA,NA,990:00,2,1,5,27,11,7,0,1,9,0,NA,1,392
 2025-10-12,"Maryland Terrapins, Terps",Nebraska,Away,Loss,0,2,NA,1,990:00,0,0,0,6,1,4,0,2,0,0,NA,NA,990:00,2,1,5,29,12,13,0,0,9,1,1,1,392
 2025-10-16,"Maryland Terrapins, Terps",Michigan,Home,Loss,3,4,NA,1,990:00,3,1,7,14,7,4,0,0,2,0,NA,NA,990:00,4,4,12,14,7,6,0,0,5,0,NA,1,392
-2025-10-19,"Maryland Terrapins, Terps",Ohio St.,Home,Loss,1,3,NA,1,990:00,1,1,3,3,1,3,0,0,3,0,NA,NA,990:00,3,0,6,25,15,3,0,0,8,0,NA,1,392
+2025-10-19,"Maryland Terrapins, Terps",Ohio St.,Home,Loss,1,3,NA,1,990:00,1,1,3,3,1,3,0,0,3,0,NA,NA,990:00,3,3,9,25,15,3,0,0,8,0,NA,1,392
 2025-08-14,Massachusetts Minutewomen,St. John's (NY),Home,Win,1,0,NA,1,990:00,1,1,3,13,5,11,0,1,10,0,NA,1,990:00,0,0,0,5,2,11,0,1,1,0,NA,NA,400
 2025-08-21,Massachusetts Minutewomen,NJIT,Away,Loss,0,3,NA,1,990:00,0,0,0,17,6,11,0,1,4,0,NA,NA,990:00,3,2,8,12,11,10,0,0,5,0,NA,1,400
 2025-08-24,Massachusetts Minutewomen,Harvard,Home,Win,2,1,NA,1,990:00,2,2,6,9,5,16,0,2,4,0,NA,1,990:00,1,0,2,19,7,10,0,1,14,1,1,NA,400
@@ -2614,7 +2616,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-08,Mount St. Mary's Mountaineers,Fairfield,Away,Loss,0,4,NA,1,990:00,0,0,0,6,3,10,0,0,1,0,NA,NA,990:00,4,3,11,34,8,9,0,0,12,0,NA,1,450
 2025-10-11,Mount St. Mary's Mountaineers,Iona,Home,Loss,0,1,NA,1,990:00,0,0,0,13,5,6,0,0,4,0,NA,NA,990:00,1,1,3,18,9,8,0,1,8,0,NA,1,450
 2025-10-15,Mount St. Mary's Mountaineers,Canisius,Away,Loss,0,1,NA,1,990:00,0,0,0,8,2,8,0,1,5,0,NA,NA,990:00,1,1,3,21,13,10,0,1,10,0,1,1,450
-2025-10-18,Mount St. Mary's Mountaineers,Siena,Home,Loss,0,3,NA,1,990:00,0,0,0,10,2,9,0,0,3,0,NA,NA,990:00,3,4,10,21,9,9,0,1,6,0,NA,1,450
+2025-10-18,Mount St. Mary's Mountaineers,Siena,Home,Loss,0,3,NA,1,990:00,0,0,0,10,2,9,0,0,3,0,NA,NA,990:00,3,5,11,21,9,9,0,1,6,0,NA,1,450
 2025-08-14,Murray St. Racers,Troy,Home,Win,2,0,NA,1,1000:24,2,2,6,21,8,11,0,1,10,0,NA,1,990:00,0,0,0,10,4,8,0,1,3,0,NA,NA,454
 2025-08-17,Murray St. Racers,Lindenwood,Home,Loss,0,1,NA,1,990:00,0,0,0,12,6,17,0,4,7,0,NA,NA,990:00,1,1,3,8,4,4,0,3,3,0,NA,1,454
 2025-08-21,Murray St. Racers,Lipscomb,Away,Loss,1,2,NA,1,990:00,1,1,3,10,4,9,0,0,4,0,NA,NA,990:00,2,3,7,17,7,10,0,0,4,0,NA,1,454
@@ -3059,7 +3061,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-09,Ohio St. Buckeyes,Oregon,Home,Win,1,0,NA,1,990:00,1,1,3,17,8,6,0,1,7,0,NA,1,990:00,0,0,0,11,5,7,0,0,6,0,NA,NA,518
 2025-10-12,Ohio St. Buckeyes,Washington,Home,Loss,0,1,NA,1,990:00,0,0,0,6,3,4,0,0,3,0,1,NA,990:00,1,0,2,12,8,11,0,2,6,1,1,1,518
 2025-10-16,Ohio St. Buckeyes,Rutgers,Away,Win,4,2,NA,1,958:01,4,2,10,14,7,10,1,0,3,0,NA,1,990:00,2,3,7,21,8,4,0,0,1,0,NA,NA,518
-2025-10-19,Ohio St. Buckeyes,Maryland,Away,Win,3,1,NA,1,990:00,3,0,6,25,15,3,0,0,8,0,NA,1,990:00,1,1,3,3,1,3,0,0,3,0,NA,NA,518
+2025-10-19,Ohio St. Buckeyes,Maryland,Away,Win,3,1,NA,1,990:00,3,3,9,25,15,3,0,0,8,0,NA,1,990:00,1,1,3,3,1,3,0,0,3,0,NA,NA,518
 2025-08-14,Oklahoma Sooners,Creighton,Home,Win,4,1,NA,1,990:00,4,5,13,15,9,12,0,1,8,0,NA,1,990:00,1,1,3,10,7,7,0,1,3,0,NA,NA,522
 2025-08-17,Oklahoma Sooners,Oklahoma St.,Home,Win,4,1,NA,1,990:00,4,5,13,19,9,10,0,1,4,0,NA,1,990:00,1,0,2,6,5,15,0,2,5,0,NA,NA,522
 2025-08-21,Oklahoma Sooners,East Texas A&M,Home,Win,4,0,NA,1,990:00,4,1,9,23,10,9,0,0,6,1,1,1,990:00,0,0,0,2,1,7,0,2,1,0,NA,NA,522
@@ -3788,7 +3790,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-04,Siena Saints,Manhattan,Away,Loss,0,1,NA,1,990:00,0,0,0,8,4,8,0,1,6,0,NA,NA,990:00,1,0,2,12,8,11,0,0,5,0,NA,1,639
 2025-10-08,Siena Saints,Canisius,Away,Draw,0,0,NA,1,990:00,0,0,0,12,6,12,0,2,5,0,NA,NA,990:00,0,0,0,8,3,12,0,0,5,0,NA,NA,639
 2025-10-15,Siena Saints,Saint Peter's,Home,Win,3,0,NA,1,990:00,3,5,11,19,10,8,0,0,5,0,1,1,990:00,0,0,0,6,2,13,0,1,7,0,NA,NA,639
-2025-10-18,Siena Saints,Mount St. Mary's,Away,Win,3,0,NA,1,990:00,3,4,10,21,9,9,0,1,6,0,NA,1,990:00,0,0,0,10,2,9,0,0,3,0,NA,NA,639
+2025-10-18,Siena Saints,Mount St. Mary's,Away,Win,3,0,NA,1,990:00,3,5,11,21,9,9,0,1,6,0,NA,1,990:00,0,0,0,10,2,9,0,0,3,0,NA,NA,639
 2025-08-14,South Alabama Jaguars,LSU,Away,Loss,0,2,NA,1,990:00,0,0,0,6,2,14,0,1,2,0,NA,NA,990:00,2,0,4,16,6,14,0,3,5,0,1,1,646
 2025-08-17,South Alabama Jaguars,Tennessee Tech,Home,Win,2,0,NA,1,990:00,2,2,6,13,5,6,0,0,11,0,NA,1,990:00,0,0,0,2,0,6,0,0,1,0,NA,NA,646
 2025-08-24,South Alabama Jaguars,Louisiana Tech,Home,Win,2,0,NA,1,990:00,2,1,5,26,7,3,0,1,10,0,NA,1,990:00,0,0,0,8,6,7,0,0,0,0,NA,NA,646
@@ -4967,7 +4969,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-09-28,Wagner Seahawks,Chicago St.,Home,Win,4,0,NA,1,990:00,4,2,10,13,7,6,0,2,1,0,NA,1,990:00,0,0,0,14,3,4,0,1,5,0,NA,NA,748
 2025-10-05,Wagner Seahawks,Stonehill,Away,Win,4,3,NA,1,990:00,4,2,10,11,5,16,0,1,3,0,NA,1,962:18,3,3,9,22,9,8,0,1,3,0,NA,NA,748
 2025-10-12,Wagner Seahawks,Saint Francis,Home,Win,3,0,NA,1,990:00,3,2,8,18,10,6,0,1,6,0,NA,1,990:00,0,0,0,4,0,1,0,0,2,0,NA,NA,748
-2025-10-19,Wagner Seahawks,Le Moyne,Away,Win,2,1,NA,1,990:00,2,1,5,13,9,7,0,0,3,0,NA,1,990:00,1,0,2,10,5,11,0,0,5,1,1,NA,748
+2025-10-19,Wagner Seahawks,Le Moyne,Away,Win,2,1,NA,1,990:00,2,2,6,13,9,7,0,0,3,0,NA,1,990:00,1,0,2,10,5,11,0,0,5,1,1,NA,748
 2025-08-14,Wake Forest Demon Deacons,SMU,Home,Win,2,0,NA,1,990:00,2,2,6,5,3,4,0,0,2,0,NA,1,990:00,0,0,0,7,1,13,0,1,4,0,NA,NA,749
 2025-08-17,Wake Forest Demon Deacons,LSU,Home,Win,1,0,NA,1,990:00,1,2,4,11,3,14,0,0,10,0,NA,1,990:00,0,0,0,8,3,6,0,1,1,0,NA,NA,749
 2025-08-21,Wake Forest Demon Deacons,Villanova,Home,Win,2,0,NA,1,990:00,2,4,8,14,3,6,0,0,1,0,NA,1,990:00,0,0,0,8,2,8,0,0,3,0,NA,NA,749
@@ -5175,7 +5177,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,gp,minut
 2025-10-05,Wofford Terriers,UNC Greensboro,Home,Draw,0,0,NA,1,990:00,0,0,0,3,1,13,0,1,1,0,NA,NA,990:00,0,0,0,15,5,7,0,1,10,0,NA,NA,2915
 2025-10-10,Wofford Terriers,Western Caro.,Away,Loss,0,1,NA,1,990:00,0,0,0,5,2,9,0,0,2,0,NA,NA,990:00,1,1,3,21,4,5,0,0,7,0,NA,1,2915
 2025-10-16,Wofford Terriers,VMI,Away,Win,2,0,NA,1,990:00,2,3,7,10,6,7,0,1,2,0,NA,1,990:00,0,0,0,9,4,12,0,0,2,0,NA,NA,2915
-2025-10-19,Wofford Terriers,Furman,Home,Win,1,0,NA,1,990:00,1,1,3,8,5,7,0,3,1,0,NA,1,990:00,0,0,0,19,5,13,0,0,13,0,1,NA,2915
+2025-10-19,Wofford Terriers,Furman,Home,Win,1,0,NA,1,990:00,1,2,4,8,5,7,0,3,1,0,NA,1,990:00,0,0,0,19,5,13,0,0,13,0,1,NA,2915
 2025-08-14,Wright St. Raiders,Dayton,Home,Loss,0,2,NA,1,978:17,0,0,0,3,1,12,0,2,2,0,NA,NA,990:00,2,3,7,35,17,15,0,1,11,0,NA,1,810
 2025-08-17,Wright St. Raiders,Fairmont St.,Home,Win,4,0,NA,1,990:00,4,5,13,18,11,10,0,1,11,0,NA,1,990:00,0,0,0,6,2,6,0,1,5,0,NA,NA,810
 2025-08-24,Wright St. Raiders,Louisville,Away,Loss,2,7,NA,1,990:00,2,1,5,6,3,7,0,1,4,1,1,NA,990:00,7,10,24,20,12,13,0,0,10,0,NA,1,810
