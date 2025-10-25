@@ -12,6 +12,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,Air Force Falcons,Utah Valley,Away,Loss,1,2,NA,1,1,1,5,3,10,0,2,0,0,2,0,1,2,2,29,8,10,0,3,1,1,9,1,721
 2025-10-12,Air Force Falcons,Utah Tech,Away,Loss,0,4,NA,1,0,0,16,4,17,0,3,0,0,6,0,1,4,2,18,12,18,0,3,1,1,5,1,721
 2025-10-18,Air Force Falcons,UNLV,Away,Loss,0,2,NA,1,0,0,12,2,10,0,1,0,0,11,0,1,2,3,7,4,11,0,1,0,0,4,1,721
+2025-10-23,Air Force Falcons,California Baptist,Home,Loss,0,3,NA,1,0,0,9,3,9,0,1,0,0,1,0,1,3,1,22,8,3,0,1,1,1,10,1,721
 2025-08-21,Akron Zips,VCU,Away,Win,3,0,NA,1,3,4,20,4,12,0,1,1,1,8,1,1,0,0,5,1,11,0,2,0,0,6,0,5
 2025-08-24,Akron Zips,Northern Ky.,Home,Win,1,0,NA,1,1,2,14,4,11,0,1,0,0,5,1,1,0,0,4,1,10,1,4,0,0,3,0,5
 2025-08-29,Akron Zips,West Virginia,Home,Draw,0,0,NA,1,0,0,9,3,12,0,1,0,0,2,0,1,0,0,6,1,7,0,0,0,0,2,0,5
@@ -80,6 +81,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Belmont Bruins,Louisville,Away,Draw,0,0,NA,1,0,0,4,3,8,1,2,0,0,4,0,1,0,0,11,4,15,0,1,0,0,6,0,14927
 2025-10-12,Belmont Bruins,UIC,Home,Loss,1,2,NA,1,1,2,12,6,10,0,1,0,0,4,0,1,2,4,9,8,8,0,1,0,0,2,1,14927
 2025-10-17,Belmont Bruins,NIU,Away,Draw,2,2,NA,1,2,2,9,3,14,0,4,0,0,5,0,1,2,2,15,6,24,0,3,0,0,4,0,14927
+2025-10-24,Belmont Bruins,Drake,Home,Loss,0,1,NA,1,0,0,9,3,15,0,1,0,0,4,0,1,1,1,11,5,11,0,4,0,0,4,1,14927
 2025-08-21,Binghamton Bearcats,Boston College,Away,Loss,0,1,NA,1,0,0,4,1,7,0,5,0,0,5,0,1,1,1,11,4,15,0,4,0,0,7,1,62
 2025-08-24,Binghamton Bearcats,George Washington,Away,Loss,1,3,NA,1,1,1,13,6,11,0,2,0,0,8,0,1,3,4,15,4,7,0,3,0,0,6,1,62
 2025-08-28,Binghamton Bearcats,Mount St. Mary's,Home,Win,2,1,NA,1,2,2,7,3,4,1,2,0,0,3,1,1,1,1,13,7,9,0,4,0,0,1,0,62
@@ -108,6 +110,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Boston College Eagles,Duke,Home,Draw,0,0,NA,1,0,0,5,1,8,1,3,0,0,3,0,1,0,0,20,7,18,0,2,0,1,14,0,67
 2025-10-14,Boston College Eagles,American Int'l,Home,Win,5,0,NA,1,5,6,26,16,10,0,0,0,0,2,1,1,0,0,5,1,15,0,3,0,0,1,0,67
 2025-10-18,Boston College Eagles,SMU,Away,Loss,2,3,NA,1,2,3,5,5,11,1,4,0,0,3,0,1,3,2,18,7,15,0,3,2,2,7,1,67
+2025-10-24,Boston College Eagles,Notre Dame,Home,Loss,0,1,NA,1,0,0,14,2,12,0,1,0,0,16,0,1,1,0,8,3,7,0,0,0,0,2,1,67
 2025-08-21,Boston U. Terriers,New Hampshire,Away,Win,1,0,NA,1,1,1,5,3,11,0,3,0,0,1,1,1,0,0,9,2,13,0,3,0,0,7,0,68
 2025-08-24,Boston U. Terriers,Vermont,Away,Loss,0,4,NA,1,0,0,5,4,14,0,2,0,0,4,0,1,4,7,18,9,17,0,0,0,0,9,1,68
 2025-08-29,Boston U. Terriers,Col. of Charleston,Away,Win,5,1,NA,1,5,4,13,9,8,0,3,0,0,6,1,1,1,2,14,6,9,0,3,0,0,4,0,68
@@ -149,6 +152,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Bradley Braves,Bowling Green,Away,Loss,1,3,NA,1,1,0,16,5,18,0,2,0,0,5,0,1,3,3,23,11,21,0,2,1,1,6,1,72
 2025-10-14,Bradley Braves,UCF,Away,Loss,1,5,NA,1,1,1,3,2,10,0,1,0,0,2,0,1,5,5,27,12,11,0,0,0,0,6,1,72
 2025-10-18,Bradley Braves,Western Mich.,Home,Loss,2,3,NA,1,2,1,10,2,15,0,1,1,1,4,0,1,3,2,21,10,16,0,3,0,0,7,1,72
+2025-10-24,Bradley Braves,Evansville,Away,Draw,1,1,NA,1,1,1,6,3,7,0,4,0,0,3,0,1,1,0,21,7,16,0,1,1,1,6,0,72
 2025-08-29,Brown Bears,Holy Cross,Home,Win,2,1,NA,1,2,3,9,4,8,0,3,0,0,5,1,1,1,2,16,3,8,0,1,0,0,9,0,80
 2025-09-01,Brown Bears,Fairfield,Away,Win,1,0,NA,1,1,1,10,4,8,0,0,0,0,3,1,1,0,0,6,1,19,0,2,0,0,3,0,80
 2025-09-05,Brown Bears,Boston U.,Away,Loss,1,3,NA,1,1,0,10,5,15,0,1,0,0,5,0,1,3,3,13,7,17,0,2,0,0,3,1,80
@@ -174,6 +178,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Bucknell Bison,Army West Point,Home,Win,1,0,NA,1,1,2,18,9,4,0,0,0,0,3,1,1,0,0,10,2,6,0,1,0,0,3,0,83
 2025-10-11,Bucknell Bison,Holy Cross,Away,Win,1,0,NA,1,1,2,12,6,5,0,1,0,0,6,1,1,0,0,7,2,8,0,2,0,0,2,0,83
 2025-10-18,Bucknell Bison,Lehigh,Away,Loss,1,2,NA,1,1,0,14,5,5,0,0,0,0,4,0,1,2,3,7,5,6,0,1,0,0,3,1,83
+2025-10-21,Bucknell Bison,Saint Joseph's,Away,Win,2,0,NA,1,2,3,8,4,13,0,3,0,0,4,1,1,0,0,9,4,7,0,0,0,0,4,0,83
 2025-08-21,Butler Bulldogs,Western Ill.,Home,Loss,0,1,NA,1,0,0,15,5,14,0,2,0,0,6,0,1,1,1,10,3,12,0,3,0,0,3,1,87
 2025-08-24,Butler Bulldogs,Bowling Green,Home,Win,1,0,NA,1,1,0,21,9,12,0,2,0,1,9,1,1,0,0,5,1,21,2,4,0,0,1,0,87
 2025-08-28,Butler Bulldogs,Detroit Mercy,Home,Loss,0,2,NA,1,0,0,11,6,11,0,2,0,0,3,0,1,2,1,10,6,10,0,0,0,0,7,1,87
@@ -203,6 +208,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Cal Poly Mustangs,UC San Diego,Home,Win,4,0,NA,1,4,5,10,4,26,0,2,0,0,5,1,1,0,0,7,0,10,0,0,0,0,1,0,90
 2025-10-15,Cal Poly Mustangs,Sacramento St.,Away,Draw,1,1,NA,1,1,2,12,5,8,0,2,0,0,0,0,1,1,1,6,5,14,0,5,0,0,3,0,90
 2025-10-18,Cal Poly Mustangs,UC Santa Barbara,Home,Loss,0,1,NA,1,0,0,14,2,12,0,0,0,0,5,0,1,1,2,9,4,14,0,1,0,0,2,1,90
+2025-10-22,Cal Poly Mustangs,UC Riverside,Away,Win,1,0,NA,1,1,0,11,3,9,0,2,0,0,5,1,1,0,0,10,4,10,0,2,0,0,2,0,90
 2025-08-21,CSUN Matadors,Tulsa,Away,Draw,0,0,NA,1,0,0,4,2,8,0,2,0,0,3,0,1,0,0,11,7,13,0,0,0,0,5,0,101
 2025-08-24,CSUN Matadors,Oral Roberts,Away,Win,1,0,NA,1,1,0,6,4,19,0,3,0,0,5,1,1,0,0,10,3,12,0,1,0,0,6,0,101
 2025-08-30,CSUN Matadors,Biola,Home,Win,2,0,NA,1,2,0,14,7,11,0,3,1,1,7,1,1,0,0,18,9,13,0,2,0,0,4,0,101
@@ -218,6 +224,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,CSUN Matadors,UC Davis,Away,Loss,0,1,NA,1,0,0,17,2,7,0,1,0,0,4,0,1,1,2,19,7,13,0,1,0,0,8,1,101
 2025-10-15,CSUN Matadors,UC Irvine,Away,Loss,0,1,NA,1,0,0,7,1,6,0,3,0,0,9,0,1,1,2,10,3,13,0,3,0,0,2,1,101
 2025-10-18,CSUN Matadors,UC San Diego,Home,Draw,0,0,NA,1,0,0,15,6,13,0,2,0,0,4,0,1,0,0,13,4,17,0,3,0,0,4,0,101
+2025-10-22,CSUN Matadors,Cal St. Fullerton,Home,Loss,0,3,NA,1,0,0,22,5,10,2,3,0,0,11,0,1,3,3,19,5,11,1,2,0,0,8,1,101
 2025-08-21,Cal St. Fullerton Titans,Oral Roberts,Away,Draw,2,2,NA,1,2,0,14,6,9,0,2,0,0,9,0,1,2,0,14,7,8,0,5,1,1,4,0,97
 2025-08-24,Cal St. Fullerton Titans,Tulsa,Away,Win,1,0,NA,1,1,1,12,3,6,1,5,0,0,1,1,1,0,0,11,5,4,0,0,0,0,10,0,97
 2025-08-28,Cal St. Fullerton Titans,UCLA,Away,Draw,1,1,NA,1,1,1,10,4,18,0,2,0,0,4,0,1,1,1,12,4,11,0,1,0,0,4,0,97
@@ -234,6 +241,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Cal St. Fullerton Titans,UC Irvine,Home,Draw,1,1,NA,1,1,2,12,4,9,0,4,0,0,2,0,1,1,0,13,4,12,0,1,0,0,9,0,97
 2025-10-15,Cal St. Fullerton Titans,UC Riverside,Home,Win,2,1,NA,1,2,2,20,7,16,0,3,0,0,5,1,1,1,1,15,5,13,0,0,0,0,9,0,97
 2025-10-18,Cal St. Fullerton Titans,CSU Bakersfield,Away,Win,5,2,NA,1,5,4,17,8,16,0,0,0,0,4,1,1,2,1,10,4,13,0,2,0,0,2,0,97
+2025-10-22,Cal St. Fullerton Titans,CSUN,Away,Win,3,0,NA,1,3,3,19,5,11,1,2,0,0,8,1,1,0,0,22,5,10,2,3,0,0,11,0,97
 2025-08-21,California Baptist Lancers,American,Home,Win,3,2,NA,1,3,2,16,5,20,0,3,0,0,7,1,1,2,3,8,5,15,1,1,0,0,1,0,30135
 2025-08-25,California Baptist Lancers,CSU Bakersfield,Away,Win,2,1,NA,1,2,0,10,2,13,0,2,1,1,6,1,1,1,1,7,3,22,0,5,0,0,1,0,30135
 2025-08-30,California Baptist Lancers,Cal Poly,Home,Win,2,0,NA,1,2,1,18,7,13,0,5,1,1,6,1,1,0,0,10,4,13,0,2,0,0,10,0,30135
@@ -246,6 +254,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,California Baptist Lancers,UNLV,Home,Draw,1,1,NA,1,1,1,16,4,12,0,3,0,0,11,0,1,1,1,10,4,8,0,1,0,0,3,0,30135
 2025-10-12,California Baptist Lancers,Grand Canyon,Home,Win,1,0,NA,1,1,1,11,6,24,0,3,0,0,5,1,1,0,0,7,4,15,0,4,0,0,2,0,30135
 2025-10-18,California Baptist Lancers,Utah Valley,Away,Win,4,1,NA,1,4,3,16,10,20,1,5,0,0,5,1,1,1,0,13,4,13,2,2,1,1,3,0,30135
+2025-10-23,California Baptist Lancers,Air Force,Away,Win,3,0,NA,1,3,1,22,8,3,0,1,1,1,10,1,1,0,0,9,3,9,0,1,0,0,1,0,30135
 2025-08-21,Campbell Fighting Camels,Davidson,Home,Loss,0,2,NA,1,0,0,9,4,18,0,2,0,1,2,0,1,2,3,11,4,18,0,3,0,0,4,1,115
 2025-08-24,Campbell Fighting Camels,Winthrop,Away,Win,2,0,NA,1,2,2,22,9,15,0,1,0,0,7,1,1,0,0,7,1,13,0,2,0,0,2,0,115
 2025-08-29,Campbell Fighting Camels,William & Mary,Home,Win,2,1,NA,1,2,2,13,6,14,0,1,0,0,5,1,1,1,1,10,5,9,0,2,0,0,3,0,115
@@ -261,6 +270,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Campbell Fighting Camels,William & Mary,Away,Win,4,0,NA,1,4,3,21,16,10,0,1,0,0,8,1,1,0,0,7,2,9,0,3,0,0,5,0,115
 2025-10-14,Campbell Fighting Camels,Methodist,Home,Win,5,0,NA,1,5,6,22,6,9,0,0,1,1,5,1,1,0,0,6,1,12,0,0,0,0,1,0,115
 2025-10-18,Campbell Fighting Camels,UNCW,Away,Loss,2,3,NA,1,2,1,9,8,16,0,3,0,0,0,0,1,3,4,16,9,15,0,9,0,0,9,1,115
+2025-10-21,Campbell Fighting Camels,USC Upstate,Home,Win,3,2,NA,1,3,3,15,5,13,0,3,1,1,5,1,1,2,2,22,4,13,0,3,0,0,2,0,115
 2025-08-21,Canisius Golden Griffins,VMI,Away,Win,3,0,NA,1,3,3,10,4,8,0,1,0,0,4,1,1,0,0,10,2,9,0,1,0,0,6,0,116
 2025-08-24,Canisius Golden Griffins,Virginia Tech,Away,Loss,0,2,NA,1,0,0,4,2,7,0,1,0,0,2,0,1,2,1,32,9,5,0,0,0,0,17,1,116
 2025-08-30,Canisius Golden Griffins,Duquesne,Home,Loss,0,3,NA,1,0,0,4,2,10,0,0,0,0,5,0,1,3,3,20,8,9,0,1,0,0,8,1,116
@@ -299,6 +309,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-12,Central Conn. St. Blue Devils,Howard,Home,Loss,0,3,NA,1,0,0,7,3,8,0,2,0,0,5,0,1,3,2,8,6,9,0,1,0,0,5,1,127
 2025-10-15,Central Conn. St. Blue Devils,Rhode Island,Away,Loss,0,4,NA,1,0,0,12,6,10,0,4,0,0,2,0,1,4,5,19,9,12,0,3,0,1,11,1,127
 2025-10-19,Central Conn. St. Blue Devils,LIU,Home,Loss,1,2,NA,1,1,1,13,7,9,0,1,0,0,3,0,1,2,1,23,9,11,0,1,0,0,4,1,127
+2025-10-23,Central Conn. St. Blue Devils,Chicago St.,Away,Win,2,1,NA,1,2,1,13,6,14,0,4,0,0,3,1,1,1,1,12,7,16,0,2,0,0,4,0,127
 2025-08-21,Charlotte 49ers,Ga. Southern,Home,Loss,0,2,NA,1,0,0,12,3,14,0,1,0,0,4,0,1,2,2,5,2,14,0,2,0,0,0,1,458
 2025-08-25,Charlotte 49ers,Queens (NC),Home,Win,6,0,NA,1,6,6,17,9,13,0,0,1,1,6,1,1,0,0,9,5,7,0,1,0,0,0,0,458
 2025-08-29,Charlotte 49ers,High Point,Home,Draw,1,1,NA,1,1,0,8,5,17,0,2,0,0,3,0,1,1,2,9,7,12,0,2,0,0,5,0,458
@@ -311,6 +322,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Charlotte 49ers,Campbell,Away,Win,1,0,NA,1,1,1,6,3,17,0,3,0,0,2,1,1,0,0,14,6,13,0,2,0,0,3,0,458
 2025-10-12,Charlotte 49ers,UAB,Away,Win,5,0,NA,1,5,4,14,8,11,0,3,0,0,6,1,1,0,0,8,4,16,0,3,0,0,3,0,458
 2025-10-17,Charlotte 49ers,Fla. Atlantic,Home,Win,1,0,NA,1,1,2,10,3,10,0,0,0,0,6,1,1,0,0,3,1,10,0,1,0,0,2,0,458
+2025-10-24,Charlotte 49ers,FIU,Away,Loss,0,1,NA,1,0,0,9,3,11,0,4,0,0,7,0,1,1,1,15,5,9,0,4,0,0,7,1,458
 2025-08-21,Chicago St. Cougars,Lindenwood,Home,Loss,0,7,NA,1,0,0,5,3,9,0,2,0,0,1,0,1,7,6,22,13,7,0,2,0,0,2,1,136
 2025-08-24,Chicago St. Cougars,St. Thomas (MN),Home,Loss,0,4,NA,1,0,0,8,2,8,0,2,0,0,2,0,1,4,3,15,9,14,0,1,1,1,4,1,136
 2025-08-28,Chicago St. Cougars,DePaul,Away,Loss,1,2,NA,1,1,1,4,2,13,0,2,0,0,0,0,1,2,1,21,6,18,0,2,1,1,13,1,136
@@ -323,6 +335,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-05,Chicago St. Cougars,FDU,Away,Loss,0,4,NA,1,0,0,3,0,5,0,1,0,0,2,0,1,4,4,18,12,9,0,1,0,0,9,1,136
 2025-10-09,Chicago St. Cougars,Saint Francis,Home,Loss,0,2,NA,1,0,0,2,1,12,1,3,0,0,2,0,1,2,1,15,6,13,0,2,1,1,5,1,136
 2025-10-16,Chicago St. Cougars,Howard,Away,Loss,1,4,NA,1,1,2,14,5,9,0,1,0,0,5,0,1,4,4,11,7,8,0,3,0,0,11,1,136
+2025-10-23,Chicago St. Cougars,Central Conn. St.,Home,Loss,1,2,NA,1,1,1,12,7,16,0,2,0,0,4,0,1,2,1,13,6,14,0,4,0,0,3,1,136
 2025-08-21,Clemson Tigers,Indiana,Away,Draw,2,2,NA,1,2,0,8,6,15,1,2,1,1,4,0,1,2,1,12,4,8,0,1,1,1,7,0,147
 2025-08-26,Clemson Tigers,South Carolina,Home,Win,4,1,NA,1,4,3,23,9,5,0,0,0,0,7,1,1,1,1,7,3,4,0,1,0,0,6,0,147
 2025-08-29,Clemson Tigers,UAB,Home,Win,6,0,NA,1,6,4,16,9,8,0,3,0,0,9,1,1,0,0,8,2,17,0,4,0,0,3,0,147
@@ -335,6 +348,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Clemson Tigers,Elon,Home,Win,1,0,NA,1,1,1,21,6,14,0,2,0,0,6,1,1,0,0,8,6,9,0,4,0,0,1,0,147
 2025-10-10,Clemson Tigers,NC State,Away,Loss,0,1,NA,1,0,0,9,1,14,0,1,0,0,1,0,1,1,0,14,5,6,0,2,0,0,8,1,147
 2025-10-17,Clemson Tigers,Duke,Home,Win,3,0,NA,1,3,1,19,7,17,0,1,0,0,7,1,1,0,0,14,2,10,0,2,0,0,5,0,147
+2025-10-21,Clemson Tigers,UNCW,Home,Win,6,0,NA,1,6,7,16,10,14,0,1,0,0,4,1,1,0,0,9,2,10,0,3,0,0,0,0,147
 2025-08-21,Cleveland St. Vikings,Santa Clara,Home,Draw,1,1,NA,1,1,1,6,2,7,0,4,0,0,3,0,1,1,1,13,2,15,0,2,0,0,3,0,148
 2025-08-25,Cleveland St. Vikings,Grand Canyon,Away,Loss,1,3,NA,1,1,0,2,2,8,0,3,1,1,3,0,1,3,3,16,10,17,0,3,0,0,9,1,148
 2025-09-01,Cleveland St. Vikings,Akron,Away,Loss,0,1,NA,1,0,0,2,0,9,0,4,0,0,1,0,1,1,2,15,4,6,0,3,0,0,17,1,148
@@ -347,6 +361,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Cleveland St. Vikings,Bowling Green,Home,Win,1,0,NA,1,1,1,12,4,6,0,0,0,0,5,1,1,0,0,14,6,11,0,1,0,0,3,0,148
 2025-10-11,Cleveland St. Vikings,Robert Morris,Away,Draw,1,1,NA,1,1,1,10,4,6,0,2,0,0,1,0,1,1,1,4,2,9,0,0,0,0,1,0,148
 2025-10-18,Cleveland St. Vikings,Detroit Mercy,Away,Win,2,0,NA,1,2,2,16,7,7,0,0,0,0,2,1,1,0,0,10,3,16,0,2,0,0,4,0,148
+2025-10-21,Cleveland St. Vikings,Mercyhurst,Away,Draw,2,2,NA,1,2,2,12,8,8,0,0,0,0,4,0,1,2,1,8,5,15,0,5,0,0,2,0,148
 2025-08-21,Coastal Carolina Chanticleers,Winthrop,Away,Win,3,0,NA,1,3,4,17,5,11,0,0,0,0,3,1,1,0,0,10,5,11,0,1,0,0,2,0,149
 2025-08-31,Coastal Carolina Chanticleers,Wofford,Home,Loss,2,5,NA,1,2,3,11,5,13,0,3,0,0,3,0,1,5,6,7,6,13,0,3,0,0,6,1,149
 2025-09-05,Coastal Carolina Chanticleers,Presbyterian,Home,Loss,0,2,NA,1,0,0,17,3,17,0,3,0,0,8,0,1,2,3,8,3,7,0,3,0,0,5,1,149
@@ -356,6 +371,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-03,Coastal Carolina Chanticleers,Old Dominion,Away,Loss,1,2,NA,1,1,1,5,2,21,0,3,0,0,4,0,1,2,3,13,8,14,0,5,0,0,3,1,149
 2025-10-10,Coastal Carolina Chanticleers,West Virginia,Home,Loss,1,2,NA,1,1,1,4,1,12,0,3,0,0,2,0,1,2,2,19,8,15,0,0,1,1,17,1,149
 2025-10-17,Coastal Carolina Chanticleers,Ga. Southern,Away,Loss,0,1,NA,1,0,0,7,2,15,0,5,0,0,0,0,1,1,0,18,6,11,0,1,1,1,11,1,149
+2025-10-22,Coastal Carolina Chanticleers,Georgia St.,Home,Win,3,1,NA,1,3,4,8,4,17,0,2,0,0,2,1,1,1,0,20,5,10,0,1,0,0,5,0,149
 2025-08-21,Col. of Charleston Cougars,South Carolina,Home,Loss,2,3,NA,1,2,2,14,3,11,0,2,0,0,3,0,1,3,2,15,5,8,0,3,0,0,5,1,1014
 2025-08-25,Col. of Charleston Cougars,Davidson,Away,Loss,2,3,NA,1,2,4,8,5,12,0,0,0,0,3,0,1,3,2,7,5,12,0,3,0,0,3,1,1014
 2025-08-29,Col. of Charleston Cougars,Boston U.,Home,Loss,1,5,NA,1,1,2,14,6,9,0,3,0,0,4,0,1,5,4,13,9,8,0,3,0,0,6,1,1014
@@ -408,6 +424,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Cornell Big Red,Princeton,Home,Loss,0,2,NA,1,0,0,13,7,10,0,3,0,0,4,0,1,2,2,19,3,15,0,2,0,0,5,1,167
 2025-10-14,Cornell Big Red,Colgate,Home,Win,5,0,NA,1,5,4,37,17,12,0,3,0,0,8,1,1,0,0,4,1,8,0,0,0,0,5,0,167
 2025-10-18,Cornell Big Red,Penn,Away,Win,2,1,NA,1,2,0,15,8,8,0,1,0,0,6,1,1,1,1,9,3,6,0,1,0,0,8,0,167
+2025-10-21,Cornell Big Red,Syracuse,Home,Win,2,1,NA,1,2,1,20,7,12,0,5,1,1,4,1,1,1,1,8,2,17,0,2,0,0,6,0,167
 2025-08-29,Colorado Col. Tigers,"DePauw Wheaton, IL",Away,Win,3,0,NA,1,3,3,12,5,12,0,4,0,0,3,1,1,0,0,6,0,20,1,2,0,0,1,0,154
 2025-08-30,Colorado Col. Tigers,Wheaton (IL),Away,Draw,2,2,NA,1,2,3,14,8,15,0,3,0,0,5,0,1,2,1,12,7,9,0,4,0,0,5,0,154
 2025-09-04,Colorado Col. Tigers,Whitman,Home,Draw,2,2,NA,1,2,2,14,8,13,1,2,0,0,5,0,1,2,2,12,5,14,1,1,0,0,5,0,154
@@ -422,6 +439,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-12,Colorado Col. Tigers,Concordia (TX),Home,Draw,1,1,NA,1,1,2,14,4,9,0,0,0,0,2,0,1,1,1,9,4,9,0,2,0,0,1,0,154
 2025-10-17,Colorado Col. Tigers,Austin,Away,Draw,1,1,NA,1,1,1,34,12,4,0,1,0,0,11,0,1,1,2,6,2,8,0,1,0,0,0,0,154
 2025-10-19,Colorado Col. Tigers,LeTourneau,Away,Win,1,0,NA,1,1,1,12,4,1,0,0,0,0,3,1,1,0,0,12,2,5,0,0,0,0,3,0,154
+2025-10-24,Colorado Col. Tigers,McMurry,Home,Win,10,0,NA,1,10,8,25,14,8,0,0,0,0,4,1,1,0,0,14,7,7,0,0,0,0,2,0,154
 2025-08-21,CSU Bakersfield Roadrunners,Utah Valley,Away,Loss,0,4,NA,1,0,0,5,1,16,0,2,0,0,2,0,1,4,6,15,8,19,0,2,0,0,2,1,94
 2025-08-25,CSU Bakersfield Roadrunners,California Baptist,Home,Loss,1,2,NA,1,1,1,7,3,22,0,5,0,0,1,0,1,2,0,10,2,13,0,2,1,1,6,1,94
 2025-08-29,CSU Bakersfield Roadrunners,San Jose St.,Home,Loss,0,2,NA,1,0,0,13,3,15,0,1,0,0,5,0,1,2,3,14,6,11,0,1,0,0,3,1,94
@@ -436,6 +454,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,CSU Bakersfield Roadrunners,UC Santa Barbara,Away,Draw,1,1,NA,1,1,1,10,5,14,0,1,0,0,4,0,1,1,0,8,3,12,0,1,0,0,5,0,94
 2025-10-15,CSU Bakersfield Roadrunners,UC Davis,Home,Win,3,2,NA,1,3,2,13,3,14,0,4,1,1,6,1,1,2,0,23,11,7,0,1,2,2,5,0,94
 2025-10-18,CSU Bakersfield Roadrunners,Cal St. Fullerton,Home,Loss,2,5,NA,1,2,1,10,4,13,0,2,0,0,2,0,1,5,4,17,8,16,0,0,0,0,4,1,94
+2025-10-22,CSU Bakersfield Roadrunners,UC San Diego,Away,Loss,1,2,NA,1,1,1,9,5,15,0,1,0,0,7,0,1,2,0,10,7,16,0,3,0,0,4,1,94
 2025-08-29,Dartmouth Big Green,New Haven,Home,Draw,1,1,NA,1,1,0,12,5,14,0,0,1,1,6,0,1,1,0,14,6,12,0,3,0,0,8,0,172
 2025-09-02,Dartmouth Big Green,Bryant,Home,Loss,0,1,NA,1,0,0,5,3,12,0,2,0,0,2,0,1,1,0,3,2,12,0,1,0,0,6,1,172
 2025-09-09,Dartmouth Big Green,Vermont,Away,Draw,3,3,NA,1,3,1,8,4,21,0,1,0,0,1,0,1,3,2,16,5,13,0,4,0,0,9,0,172
@@ -460,6 +479,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-08,Davidson Wildcats,La Salle,Away,Win,1,0,NA,1,1,0,22,7,16,0,4,0,0,9,1,1,0,0,9,4,10,0,2,0,0,4,0,173
 2025-10-11,Davidson Wildcats,Rhode Island,Home,Win,1,0,NA,1,1,0,14,6,10,0,2,1,1,5,1,1,0,0,11,3,11,0,4,0,0,3,0,173
 2025-10-15,Davidson Wildcats,JWU Charlotte,Home,Win,2,0,NA,1,2,3,20,8,11,0,1,0,0,10,1,1,0,0,8,2,8,0,1,0,0,5,0,173
+2025-10-21,Davidson Wildcats,Presbyterian,Home,Win,2,0,NA,1,2,1,17,5,12,0,0,0,0,6,1,1,0,0,7,1,6,0,0,0,0,4,0,173
 2025-08-21,Dayton Flyers,Detroit Mercy,Home,Draw,0,0,NA,1,0,0,16,8,9,0,2,0,0,6,0,1,0,0,8,3,9,0,4,0,0,6,0,175
 2025-08-24,Dayton Flyers,Western Mich.,Away,Win,4,0,NA,1,4,3,18,8,13,0,1,0,0,6,1,1,0,0,7,5,13,0,2,0,0,5,0,175
 2025-08-28,Dayton Flyers,"Temple Columbus, OH",Away,Draw,0,0,NA,1,0,0,15,6,11,0,1,0,0,9,0,1,0,0,2,0,18,0,1,0,0,3,0,175
@@ -541,6 +561,8 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-03,Drake Bulldogs,UIC,Away,Draw,0,0,NA,1,0,0,8,1,11,0,1,0,0,2,0,1,0,0,15,4,15,0,2,0,0,1,0,189
 2025-10-11,Drake Bulldogs,Evansville,Home,Draw,0,0,NA,1,0,0,8,3,7,0,1,0,0,5,0,1,0,0,3,1,7,0,0,0,0,4,0,189
 2025-10-18,Drake Bulldogs,Bowling Green,Home,Win,2,0,NA,1,2,1,16,4,8,0,1,1,1,4,1,1,0,0,10,3,6,0,1,0,0,3,0,189
+2025-10-21,Drake Bulldogs,Missouri St.,Away,Loss,0,1,NA,1,0,0,6,2,5,1,2,0,0,0,0,1,1,0,8,4,3,0,4,0,0,2,1,189
+2025-10-24,Drake Bulldogs,Belmont,Away,Win,1,0,NA,1,1,1,11,5,11,0,4,0,0,4,1,1,0,0,9,3,15,0,1,0,0,4,0,189
 2025-08-21,Drexel Dragons,"Gardner-Webb Harrisonburg, VA",Away,Loss,0,4,NA,1,0,0,5,3,17,0,2,0,0,3,0,1,4,6,14,8,20,0,3,0,0,2,1,191
 2025-08-24,Drexel Dragons,"Fordham Harrisonburg, VA",Away,Draw,1,1,NA,1,1,0,10,5,11,0,4,0,0,6,0,1,1,1,7,3,17,0,3,0,0,5,0,191
 2025-08-30,Drexel Dragons,Northeastern,Home,Win,2,1,NA,1,2,3,15,6,11,0,3,0,0,5,1,1,1,1,9,2,10,1,6,0,0,2,0,191
@@ -554,6 +576,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Drexel Dragons,Monmouth,Away,Draw,1,1,NA,1,1,2,12,5,13,0,4,0,0,2,0,1,1,1,9,3,13,0,2,0,0,5,0,191
 2025-10-14,Drexel Dragons,NJIT,Home,Draw,1,1,NA,1,1,1,11,6,12,0,1,0,0,8,0,1,1,1,9,4,13,0,1,0,0,6,0,191
 2025-10-18,Drexel Dragons,Northeastern,Away,Loss,0,1,NA,1,0,0,5,1,11,0,0,0,0,3,0,1,1,1,10,3,22,0,2,0,0,2,1,191
+2025-10-21,Drexel Dragons,Lafayette,Home,Draw,0,0,NA,1,0,0,9,4,7,0,1,0,0,5,0,1,0,0,8,3,14,0,3,0,0,3,0,191
 2025-08-21,Duke Blue Devils,San Diego,Home,Win,2,1,NA,1,2,4,11,6,18,0,2,0,0,3,1,1,1,2,11,3,10,0,3,0,0,5,0,193
 2025-08-24,Duke Blue Devils,UC San Diego,Home,Win,1,0,NA,1,1,2,22,5,6,0,2,0,1,12,1,1,0,0,7,2,15,1,4,0,0,2,0,193
 2025-08-31,Duke Blue Devils,Furman,Away,Draw,1,1,NA,1,1,0,10,4,18,0,2,0,0,5,0,1,1,1,15,7,9,0,2,0,0,7,0,193
@@ -567,6 +590,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Duke Blue Devils,Elon,Home,Draw,1,1,NA,1,1,1,21,6,10,1,1,0,0,9,0,1,1,1,2,1,13,0,1,0,0,0,0,193
 2025-10-10,Duke Blue Devils,Boston College,Away,Draw,0,0,NA,1,0,0,20,7,18,0,2,0,1,14,0,1,0,0,5,1,8,1,3,0,0,3,0,193
 2025-10-17,Duke Blue Devils,Clemson,Away,Loss,0,3,NA,1,0,0,14,2,10,0,2,0,0,5,0,1,3,1,19,7,17,0,1,0,0,7,1,193
+2025-10-21,Duke Blue Devils,Queens (NC),Home,Draw,0,0,NA,1,0,0,31,10,13,0,1,0,0,22,0,1,0,0,4,1,15,0,2,0,0,2,0,193
 2025-08-21,Duquesne Dukes,Seton Hill,Home,Win,3,0,NA,1,3,2,25,9,11,0,2,0,0,7,1,1,0,0,3,2,15,0,2,0,0,1,0,194
 2025-08-24,Duquesne Dukes,Robert Morris,Home,Draw,2,2,NA,1,2,2,20,7,8,0,1,0,0,5,0,1,2,2,8,3,17,0,2,0,0,1,0,194
 2025-08-30,Duquesne Dukes,Canisius,Away,Win,3,0,NA,1,3,3,20,8,9,0,1,0,0,8,1,1,0,0,4,2,10,0,0,0,0,5,0,194
@@ -580,6 +604,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-08,Duquesne Dukes,Rhode Island,Away,Loss,1,6,NA,1,1,1,7,3,11,0,2,0,0,6,0,1,6,2,12,8,14,0,0,2,2,0,1,194
 2025-10-11,Duquesne Dukes,Fordham,Away,Loss,0,1,NA,1,0,0,8,2,8,0,2,0,0,2,0,1,1,0,9,1,7,0,1,0,0,5,1,194
 2025-10-18,Duquesne Dukes,George Washington,Home,Win,3,2,NA,1,3,5,15,11,11,0,1,0,0,10,1,1,2,2,9,3,15,0,2,0,0,2,0,194
+2025-10-21,Duquesne Dukes,Northern Ky.,Away,Win,1,0,NA,1,1,2,10,3,7,0,2,0,0,4,1,1,0,0,6,3,10,0,3,0,0,3,0,194
 2025-08-21,Eastern Ill. Panthers,Northwestern,Away,Loss,0,2,NA,1,0,0,2,0,11,1,3,0,0,0,0,1,2,4,24,11,10,0,3,0,0,13,1,201
 2025-08-24,Eastern Ill. Panthers,UIC,Away,Loss,0,4,NA,1,0,0,9,5,7,0,4,0,0,2,0,1,4,5,31,15,22,0,0,0,0,9,1,201
 2025-08-29,Eastern Ill. Panthers,Purdue Fort Wayne,Away,Loss,0,1,NA,1,0,0,9,3,19,1,2,0,0,7,0,1,1,0,15,7,15,0,5,0,1,3,1,201
@@ -619,6 +644,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-08,ETSU Buccaneers,Winthrop,Home,Draw,0,0,NA,1,0,0,7,5,10,1,1,0,0,3,0,1,0,0,17,4,10,0,1,0,0,6,0,198
 2025-10-11,ETSU Buccaneers,Furman,Away,Loss,2,3,NA,1,2,3,12,7,14,0,4,0,0,4,0,1,3,3,19,8,14,0,4,1,1,4,1,198
 2025-10-18,ETSU Buccaneers,Mercer,Home,Loss,2,3,NA,1,2,2,17,6,3,0,3,0,0,5,0,1,3,4,15,10,8,0,2,0,0,7,1,198
+2025-10-24,ETSU Buccaneers,Wofford,Home,Win,4,2,NA,1,4,2,9,4,12,0,1,0,0,1,1,1,2,0,22,11,11,0,0,0,0,13,0,198
 2025-08-21,Evansville Purple Aces,Bellarmine,Home,Draw,1,1,NA,1,1,0,10,4,8,1,4,1,1,2,0,1,1,0,4,2,14,0,3,0,0,5,0,219
 2025-08-24,Evansville Purple Aces,Mercer,Away,Draw,1,1,NA,1,1,0,10,5,11,0,1,0,0,2,0,1,1,2,8,2,9,0,1,0,0,4,0,219
 2025-08-28,Evansville Purple Aces,North Carolina,Away,Loss,0,2,NA,1,0,0,3,1,17,0,1,0,0,2,0,1,2,3,12,3,14,0,1,0,0,6,1,219
@@ -633,6 +659,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Evansville Purple Aces,Northwestern,Away,Loss,0,1,NA,1,0,0,10,1,19,0,1,0,0,5,0,1,1,1,5,2,8,0,1,0,0,3,1,219
 2025-10-11,Evansville Purple Aces,Drake,Away,Draw,0,0,NA,1,0,0,3,1,7,0,0,0,0,4,0,1,0,0,8,3,7,0,1,0,0,5,0,219
 2025-10-18,Evansville Purple Aces,UIC,Away,Draw,2,2,NA,1,2,2,11,6,10,0,4,0,0,4,0,1,2,3,13,4,10,0,3,0,0,2,0,219
+2025-10-24,Evansville Purple Aces,Bradley,Home,Draw,1,1,NA,1,1,0,21,7,16,0,1,1,1,6,0,1,1,1,6,3,7,0,4,0,0,3,0,219
 2025-08-21,Fairfield Stags,Army West Point,Away,Win,2,1,NA,1,2,0,13,4,19,1,2,0,0,2,1,1,1,1,14,3,8,0,4,0,0,5,0,220
 2025-08-25,Fairfield Stags,Monmouth,Home,Win,3,0,NA,1,3,3,10,6,14,0,2,0,0,3,1,1,0,0,17,7,9,0,1,0,0,5,0,220
 2025-09-01,Fairfield Stags,Brown,Home,Loss,0,1,NA,1,0,0,6,1,19,0,2,0,0,3,0,1,1,1,10,4,8,0,0,0,0,3,1,220
@@ -688,6 +715,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,FIU Panthers,Seton Hall,Away,Loss,0,5,NA,1,0,0,8,6,14,0,2,0,0,5,0,1,5,6,10,7,9,0,1,0,0,3,1,231
 2025-10-12,FIU Panthers,South Fla.,Home,Loss,1,2,NA,1,1,1,16,7,15,0,3,0,0,2,0,1,2,2,15,5,14,0,5,0,0,7,1,231
 2025-10-18,FIU Panthers,Tulsa,Away,Loss,2,3,NA,1,2,4,8,4,10,0,2,0,0,7,0,1,3,2,8,7,12,0,2,0,0,4,1,231
+2025-10-24,FIU Panthers,Charlotte,Home,Win,1,0,NA,1,1,1,15,5,9,0,4,0,0,7,1,1,0,0,9,3,11,0,4,0,0,7,0,231
 2025-08-21,Fla. Atlantic Owls,Creighton,Home,Win,3,0,NA,1,3,4,13,4,14,0,1,0,0,3,1,1,0,0,13,6,5,1,7,0,0,4,0,229
 2025-08-24,Fla. Atlantic Owls,Omaha,Home,Win,2,0,NA,1,2,4,16,5,15,0,5,0,0,6,1,1,0,0,4,2,3,0,3,0,0,1,0,229
 2025-08-28,Fla. Atlantic Owls,Jacksonville,Home,Win,1,0,NA,1,1,2,8,3,12,0,0,0,0,8,1,1,0,0,8,3,10,0,2,0,0,3,0,229
@@ -700,6 +728,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-08,Fla. Atlantic Owls,FGCU,Home,Win,2,1,NA,1,2,2,9,4,19,0,0,0,0,8,1,1,1,1,6,2,11,0,2,0,0,5,0,229
 2025-10-12,Fla. Atlantic Owls,Memphis,Home,Win,2,0,NA,1,2,1,14,6,13,0,3,0,0,3,1,1,0,0,3,1,10,0,0,0,0,2,0,229
 2025-10-17,Fla. Atlantic Owls,Charlotte,Away,Loss,0,1,NA,1,0,0,3,1,10,0,1,0,0,2,0,1,1,2,10,3,10,0,0,0,0,6,1,229
+2025-10-24,Fla. Atlantic Owls,UAB,Home,Draw,3,3,NA,1,3,5,15,8,13,1,2,0,0,5,0,1,3,4,5,3,10,0,1,1,1,2,0,229
 2025-08-21,Fordham Rams,James Madison,Away,Win,1,0,NA,1,1,1,14,6,17,0,4,0,0,5,1,1,0,0,10,2,17,0,5,0,0,5,0,236
 2025-08-24,Fordham Rams,"Drexel Harrisonburg, VA",Away,Draw,1,1,NA,1,1,1,7,3,17,0,3,0,0,5,0,1,1,0,10,5,11,0,4,0,0,6,0,236
 2025-08-30,Fordham Rams,Colgate,Away,Loss,1,2,NA,1,1,0,16,9,8,0,3,0,0,5,0,1,2,2,10,4,12,1,3,0,0,4,1,236
@@ -713,6 +742,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-08,Fordham Rams,Dayton,Home,Win,1,0,NA,1,1,0,8,3,18,0,5,0,0,5,1,1,0,0,8,1,10,0,2,0,0,9,0,236
 2025-10-11,Fordham Rams,Duquesne,Home,Win,1,0,NA,1,1,0,9,1,7,0,1,0,0,5,1,1,0,0,8,2,8,0,2,0,0,2,0,236
 2025-10-18,Fordham Rams,Saint Louis,Away,Loss,2,3,NA,1,2,2,7,6,22,1,2,0,1,1,0,1,3,0,22,8,8,0,1,1,1,6,1,236
+2025-10-21,Fordham Rams,Hofstra,Home,Loss,1,5,NA,1,1,0,10,2,20,1,4,0,0,4,0,1,5,1,29,19,15,1,4,1,2,9,1,236
 2025-08-21,Furman Paladins,"UC San Diego Durham, NC",Away,Win,3,0,NA,1,3,4,23,8,16,0,2,0,0,7,1,1,0,0,5,1,4,0,0,0,0,4,0,244
 2025-08-24,Furman Paladins,"San Diego Durham, NC",Away,Draw,0,0,NA,1,0,0,6,2,11,0,2,0,0,2,0,1,0,0,7,0,9,2,3,0,0,4,0,244
 2025-08-28,Furman Paladins,North Greenville,Home,Win,6,2,NA,1,6,4,22,10,15,0,1,0,0,7,1,1,2,3,7,6,14,0,1,0,0,0,0,244
@@ -727,6 +757,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Furman Paladins,Presbyterian,Home,Win,3,2,NA,1,3,1,14,4,16,0,4,0,0,9,1,1,2,2,11,6,10,0,3,0,0,3,0,244
 2025-10-11,Furman Paladins,ETSU,Home,Win,3,2,NA,1,3,3,19,8,14,0,4,1,1,4,1,1,2,3,12,7,14,0,4,0,0,4,0,244
 2025-10-18,Furman Paladins,VMI,Away,Win,3,0,NA,1,3,6,16,11,14,0,0,0,0,7,1,1,0,0,6,2,13,0,0,0,0,1,0,244
+2025-10-21,Furman Paladins,UNC Asheville,Away,Win,2,1,NA,1,2,2,15,6,13,0,2,0,0,7,1,1,1,1,11,5,13,0,5,0,0,3,0,244
 2025-08-21,Ga. Southern Eagles,Charlotte,Away,Win,2,0,NA,1,2,2,5,2,14,0,2,0,0,0,1,1,0,0,12,3,14,0,1,0,0,4,0,253
 2025-08-24,Ga. Southern Eagles,UNCW,Home,Draw,0,0,NA,1,0,0,8,3,11,0,4,0,0,3,0,1,0,0,17,4,9,0,3,0,0,9,0,253
 2025-08-28,Ga. Southern Eagles,Wofford,Away,Win,1,0,NA,1,1,2,16,5,12,0,2,0,1,7,1,1,0,0,8,1,11,0,2,0,0,4,0,253
@@ -740,6 +771,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Ga. Southern Eagles,UCF,Away,Loss,0,3,NA,1,0,0,5,2,8,0,1,0,0,6,0,1,3,3,16,6,9,0,1,0,0,3,1,253
 2025-10-14,Ga. Southern Eagles,Mercer,Away,Win,3,0,NA,1,3,5,15,6,10,0,3,0,0,5,1,1,0,0,4,2,12,0,3,0,0,3,0,253
 2025-10-17,Ga. Southern Eagles,Coastal Carolina,Home,Win,1,0,NA,1,1,0,18,6,11,0,1,1,1,11,1,1,0,0,7,2,15,0,5,0,0,0,0,253
+2025-10-22,Ga. Southern Eagles,Kentucky,Home,Loss,1,2,NA,1,1,0,11,5,11,0,1,0,1,6,0,1,2,2,12,5,13,0,1,0,0,5,1,253
 2025-08-21,Gardner-Webb Runnin' Bulldogs,"Drexel Harrisonburg, VA",Away,Win,4,0,NA,1,4,6,14,8,20,0,3,0,0,2,1,1,0,0,5,3,17,0,2,0,0,3,0,1092
 2025-08-24,Gardner-Webb Runnin' Bulldogs,James Madison,Away,Win,1,0,NA,1,1,2,13,5,10,0,1,0,0,5,1,1,0,0,9,2,13,0,2,0,0,5,0,1092
 2025-08-29,Gardner-Webb Runnin' Bulldogs,Davidson,Away,Win,2,1,NA,1,2,1,13,8,11,0,5,0,0,4,1,1,1,2,10,5,12,0,2,0,0,4,0,1092
@@ -765,7 +797,8 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,George Mason Patriots,George Washington,Away,Win,1,0,NA,1,1,1,14,5,10,0,2,0,0,7,1,1,0,0,11,4,11,0,5,0,0,0,0,248
 2025-10-08,George Mason Patriots,VCU,Home,Loss,1,2,NA,1,1,1,21,6,11,0,3,0,0,9,0,1,2,1,10,4,8,0,1,1,1,2,1,248
 2025-10-11,George Mason Patriots,St. Bonaventure,Away,Win,6,5,NA,1,6,4,20,10,5,0,1,1,1,8,1,1,5,6,20,13,9,1,3,0,0,10,0,248
-2025-10-18,George Mason Patriots,La Salle,Home,Loss,1,2,NA,1,1,1,17,5,8,0,4,0,0,7,0,1,2,1,14,5,12,0,5,0,0,6,1,248
+2025-10-18,George Mason Patriots,La Salle,Home,Loss,1,2,NA,1,1,1,17,5,8,0,4,0,0,7,0,1,2,2,14,5,12,0,5,0,0,6,1,248
+2025-10-21,George Mason Patriots,William & Mary,Away,Draw,0,0,NA,1,0,0,8,1,7,0,1,0,0,8,0,1,0,0,11,3,10,0,1,0,0,0,0,248
 2025-08-21,George Washington Revolutionaries,Old Dominion,Away,Loss,0,2,NA,1,0,0,6,4,11,0,4,0,0,3,0,1,2,3,13,6,9,0,2,0,0,5,1,249
 2025-08-24,George Washington Revolutionaries,Binghamton,Home,Win,3,1,NA,1,3,4,15,4,7,0,3,0,0,6,1,1,1,1,13,6,11,0,2,0,0,8,0,249
 2025-09-01,George Washington Revolutionaries,Rider,Away,Loss,0,3,NA,1,0,0,12,4,9,0,2,0,0,7,0,1,3,3,10,6,16,0,1,0,0,6,1,249
@@ -780,7 +813,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-08,George Washington Revolutionaries,Saint Louis,Home,Loss,0,2,NA,1,0,0,4,1,12,0,0,0,0,4,0,1,2,2,14,8,9,0,2,0,0,8,1,249
 2025-10-11,George Washington Revolutionaries,Saint Joseph's,Away,Loss,0,1,NA,1,0,0,8,4,20,0,0,0,0,3,0,1,1,1,16,7,12,0,1,0,0,5,1,249
 2025-10-18,George Washington Revolutionaries,Duquesne,Away,Loss,2,3,NA,1,2,2,9,3,15,0,2,0,0,2,0,1,3,5,15,11,11,0,1,0,0,10,1,249
-2025-10-21,George Washington Revolutionaries,UMBC,Home,Draw,3,3,NA,1,3,3,11,4,11,0,1,0,0,4,0,1,3,3,12,6,15,0,1,0,0,8,0,249
+2025-10-21,George Washington Revolutionaries,UMBC,Home,Draw,3,3,NA,1,3,3,11,4,11,0,1,0,0,4,0,1,3,4,12,6,15,0,1,0,0,8,0,249
 2025-08-21,Georgetown Hoyas,High Point,Away,Loss,1,2,NA,1,1,0,16,7,14,0,1,0,0,8,0,1,2,2,6,3,15,0,1,0,0,2,1,251
 2025-08-25,Georgetown Hoyas,Maryland,Home,Loss,0,1,NA,1,0,0,18,6,14,0,2,0,0,7,0,1,1,2,15,5,13,0,2,0,0,8,1,251
 2025-08-29,Georgetown Hoyas,Pittsburgh,Home,Win,1,0,NA,1,1,2,13,3,12,0,1,0,0,8,1,1,0,0,9,3,6,0,1,0,0,4,0,251
@@ -808,6 +841,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Georgia St. Panthers,James Madison,Home,Draw,1,1,NA,1,1,1,10,6,10,0,1,0,0,4,0,1,1,1,6,2,9,0,2,0,0,6,0,254
 2025-10-14,Georgia St. Panthers,Jacksonville,Away,Loss,0,2,NA,1,0,0,13,5,8,0,0,0,0,2,0,1,2,1,14,10,14,0,1,0,0,1,1,254
 2025-10-18,Georgia St. Panthers,West Virginia,Home,Win,2,1,NA,1,2,2,6,5,9,0,0,0,0,4,1,1,1,0,19,10,8,0,2,0,0,9,0,254
+2025-10-22,Georgia St. Panthers,Coastal Carolina,Away,Loss,1,3,NA,1,1,0,20,5,10,0,1,0,0,5,0,1,3,4,8,4,17,0,2,0,0,2,1,254
 2025-08-21,Gonzaga Bulldogs,Utah Tech,Away,Draw,1,1,NA,1,1,0,22,6,14,0,2,1,1,2,0,1,1,1,7,2,8,1,1,0,0,2,0,260
 2025-08-24,Gonzaga Bulldogs,Utah Valley,Away,Loss,0,4,NA,1,0,0,8,2,9,1,4,0,0,2,0,1,4,4,19,9,8,0,4,0,0,8,1,260
 2025-08-28,Gonzaga Bulldogs,UIW,Away,Win,1,0,NA,1,1,1,7,5,9,0,0,0,0,3,1,1,0,0,4,3,9,0,0,0,0,2,0,260
@@ -833,6 +867,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,Grand Canyon Lopes,San Diego St.,Away,Win,1,0,NA,1,1,2,8,3,11,0,3,0,0,3,1,1,0,0,11,2,20,0,2,0,1,4,0,1104
 2025-10-12,Grand Canyon Lopes,California Baptist,Away,Loss,0,1,NA,1,0,0,7,4,15,0,4,0,0,2,0,1,1,1,11,6,24,0,3,0,0,5,1,1104
 2025-10-18,Grand Canyon Lopes,San Jose St.,Home,Draw,1,1,NA,1,1,1,10,4,9,0,4,0,0,1,0,1,1,1,13,4,11,0,2,0,0,5,0,1104
+2025-10-23,Grand Canyon Lopes,Utah Tech,Home,Draw,2,2,NA,1,2,1,15,6,15,0,0,1,1,5,0,1,2,1,9,6,14,0,1,1,1,2,0,1104
 2025-08-25,Green Bay Phoenix,NIU,Home,Loss,0,1,NA,1,0,0,10,2,15,0,3,0,0,4,0,1,1,2,14,6,17,0,1,0,0,2,1,794
 2025-08-28,Green Bay Phoenix,Indiana,Away,Loss,1,2,NA,1,1,1,6,3,16,0,2,0,0,5,0,1,2,2,22,9,10,0,0,0,0,9,1,794
 2025-09-01,Green Bay Phoenix,Southern Ind.,Away,Win,1,0,NA,1,1,1,10,3,6,0,2,0,0,4,1,1,0,0,10,5,11,0,4,0,1,2,0,794
@@ -845,6 +880,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Green Bay Phoenix,Notre Dame,Away,Loss,2,4,NA,1,2,1,12,9,14,0,1,0,0,5,0,1,4,4,20,8,6,0,0,0,0,4,1,794
 2025-10-11,Green Bay Phoenix,Milwaukee,Away,Loss,1,2,NA,1,1,2,15,4,16,0,2,0,0,7,0,1,2,1,13,6,16,0,3,1,1,4,1,794
 2025-10-18,Green Bay Phoenix,Purdue Fort Wayne,Away,Win,1,0,NA,1,1,0,11,5,21,0,4,0,0,9,1,1,0,0,18,7,13,0,2,0,0,4,0,794
+2025-10-21,Green Bay Phoenix,St. Thomas (MN),Home,Loss,1,2,NA,1,1,2,12,3,13,1,0,0,0,5,0,1,2,1,9,6,13,1,3,0,0,3,1,794
 2025-08-29,Harvard Crimson,Belmont,Home,Loss,0,1,NA,1,0,0,9,2,22,0,3,0,0,5,0,1,1,2,10,6,11,0,1,0,0,5,1,275
 2025-09-05,Harvard Crimson,Providence,Away,Win,2,0,NA,1,2,3,10,6,8,0,5,0,0,4,1,1,0,0,18,7,8,0,1,0,0,12,0,275
 2025-09-10,Harvard Crimson,California,Home,Win,3,1,NA,1,3,4,9,6,13,0,1,0,0,0,1,1,1,1,23,5,6,0,0,0,0,15,0,275
@@ -857,6 +893,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Harvard Crimson,Vermont,Home,Draw,0,0,NA,1,0,0,9,1,10,0,3,0,0,2,0,1,0,0,9,1,12,0,1,0,0,7,0,275
 2025-10-11,Harvard Crimson,Yale,Home,Draw,1,1,NA,1,1,2,11,4,13,0,2,0,0,4,0,1,1,2,7,4,12,0,1,0,0,3,0,275
 2025-10-18,Harvard Crimson,Brown,Home,Win,4,2,NA,1,4,4,12,6,5,0,2,0,0,8,1,1,2,3,9,4,9,0,0,0,0,6,0,275
+2025-10-22,Harvard Crimson,Stonehill,Away,Win,4,2,NA,1,4,4,9,6,12,0,1,0,0,5,1,1,2,1,19,9,8,0,0,0,0,2,0,275
 2025-08-21,High Point Panthers,Georgetown,Home,Win,2,1,NA,1,2,2,6,3,15,0,1,0,0,2,1,1,1,0,16,7,14,0,1,0,0,8,0,19651
 2025-08-25,High Point Panthers,ETSU,Away,Win,1,0,NA,1,1,1,8,5,12,0,0,0,0,3,1,1,0,0,4,1,17,0,0,0,0,3,0,19651
 2025-08-29,High Point Panthers,Charlotte,Away,Draw,1,1,NA,1,1,2,9,7,12,0,2,0,0,5,0,1,1,0,8,5,17,0,2,0,0,3,0,19651
@@ -883,6 +920,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Hofstra Pride,Northeastern,Home,Win,2,1,NA,1,2,3,12,8,9,0,0,0,0,4,1,1,1,1,11,3,9,0,0,0,0,2,0,283
 2025-10-07,Hofstra Pride,Loyola Maryland,Home,Win,1,0,NA,1,1,1,10,3,15,0,0,0,0,6,1,1,0,0,5,2,17,0,4,0,0,3,0,283
 2025-10-11,Hofstra Pride,Stony Brook,Away,Win,3,2,NA,1,3,5,24,6,12,0,3,0,0,5,1,1,2,3,6,3,15,0,1,0,0,4,0,283
+2025-10-21,Hofstra Pride,Fordham,Away,Win,5,1,NA,1,5,1,29,19,15,1,4,1,2,9,1,1,1,0,10,2,20,1,4,0,0,4,0,283
 2025-08-21,Holy Cross Crusaders,Northeastern,Away,Draw,1,1,NA,1,1,0,4,2,11,0,1,0,0,0,0,1,1,2,8,4,17,0,1,0,0,5,0,285
 2025-08-24,Holy Cross Crusaders,Merrimack,Away,Loss,0,1,NA,1,0,0,10,3,11,0,2,0,0,4,0,1,1,1,8,7,16,0,1,0,0,6,1,285
 2025-08-29,Holy Cross Crusaders,Brown,Away,Loss,1,2,NA,1,1,2,16,3,8,0,1,0,0,9,0,1,2,3,9,4,8,0,3,0,0,5,1,285
@@ -912,6 +950,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-12,Houston Christian Huskies,Western Ill.,Home,Win,1,0,NA,1,1,0,12,4,16,0,5,0,0,4,1,1,0,0,12,2,7,0,1,0,0,3,0,287
 2025-10-16,Houston Christian Huskies,SIUE,Away,Loss,0,1,NA,1,0,0,12,5,13,0,2,0,0,7,0,1,1,2,9,3,13,0,2,0,0,2,1,287
 2025-10-19,Houston Christian Huskies,Lindenwood,Away,Loss,1,2,NA,1,1,1,17,4,8,0,4,0,0,3,0,1,2,4,13,5,9,0,1,0,0,4,1,287
+2025-10-24,Houston Christian Huskies,UIW,Home,Win,2,1,NA,1,2,3,14,8,11,0,1,0,0,6,1,1,1,0,11,6,9,0,1,0,0,3,0,287
 2025-08-21,Howard Bison,UNC Asheville,Away,Loss,1,2,NA,1,1,1,4,2,5,0,1,0,0,4,0,1,2,2,15,4,8,0,1,0,0,7,1,290
 2025-08-24,Howard Bison,San Diego St.,Home,Loss,0,2,NA,1,0,0,5,2,6,0,2,0,0,1,0,1,2,3,20,9,10,0,1,0,0,9,1,290
 2025-08-29,Howard Bison,Navy,Away,Draw,1,1,NA,1,1,2,5,2,12,0,0,0,0,5,0,1,1,2,22,8,9,0,2,0,0,10,0,290
@@ -940,6 +979,8 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Indiana Hoosiers,Ohio St.,Home,Win,4,2,NA,1,4,5,20,10,6,0,0,0,0,6,1,1,2,3,17,6,15,0,3,0,0,4,0,306
 2025-10-14,Indiana Hoosiers,Kentucky,Away,Win,2,1,NA,1,2,1,13,5,5,0,2,1,1,6,1,1,1,1,12,5,13,0,3,0,0,5,0,306
 2025-10-17,Indiana Hoosiers,Hanover,Home,Win,8,0,NA,1,8,10,24,14,3,0,1,0,0,8,1,1,0,0,4,0,11,0,1,0,0,2,0,306
+2025-10-21,Indiana Hoosiers,Wisconsin,Home,Win,4,1,NA,1,4,5,16,9,7,0,1,0,0,5,1,1,1,2,7,3,6,0,1,0,0,3,0,306
+2025-10-24,Indiana Hoosiers,Maryland,Away,Loss,2,3,NA,1,2,1,15,4,4,0,3,0,0,3,0,1,3,5,17,8,9,0,1,0,0,5,1,306
 2025-08-21,Iona Gaels,Rhode Island,Away,Draw,2,2,NA,1,2,1,10,4,13,0,1,0,0,2,0,1,2,2,14,6,14,0,2,0,0,5,0,310
 2025-08-28,Iona Gaels,Villanova,Away,Draw,1,1,NA,1,1,2,14,6,12,0,2,0,0,4,0,1,1,0,10,2,15,0,3,0,0,1,0,310
 2025-09-02,Iona Gaels,Monmouth,Home,Loss,1,2,NA,1,1,0,13,6,13,0,1,1,1,6,0,1,2,1,9,6,11,0,1,0,0,6,1,310
@@ -965,6 +1006,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Jacksonville Dolphins,FGCU,Home,Draw,2,2,NA,1,2,1,14,8,11,0,2,0,0,4,0,1,2,2,9,7,11,0,2,0,0,4,0,316
 2025-10-14,Jacksonville Dolphins,Georgia St.,Home,Win,2,0,NA,1,2,1,14,10,14,0,1,0,0,1,1,1,0,0,13,5,8,0,0,0,0,2,0,316
 2025-10-18,Jacksonville Dolphins,Stetson,Home,Win,2,0,NA,1,2,0,12,8,10,1,3,0,0,3,1,1,0,0,13,4,12,0,1,0,0,6,0,316
+2025-10-21,Jacksonville Dolphins,Mercer,Away,Draw,1,1,NA,1,1,1,13,2,4,0,2,0,0,6,0,1,1,1,8,2,13,0,1,0,0,4,0,316
 2025-08-21,James Madison Dukes,Fordham,Home,Loss,0,1,NA,1,0,0,10,2,17,0,5,0,0,5,0,1,1,1,14,6,17,0,4,0,0,5,1,317
 2025-08-24,James Madison Dukes,Gardner-Webb,Home,Loss,0,1,NA,1,0,0,9,2,13,0,2,0,0,5,0,1,1,2,13,5,10,0,1,0,0,5,1,317
 2025-08-29,James Madison Dukes,Rutgers,Home,Loss,1,4,NA,1,1,1,6,3,7,0,4,0,0,3,0,1,4,3,13,8,9,0,3,0,0,6,1,317
@@ -977,6 +1019,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,James Madison Dukes,Georgia St.,Away,Draw,1,1,NA,1,1,1,6,2,9,0,2,0,0,6,0,1,1,1,10,6,10,0,1,0,0,4,0,317
 2025-10-14,James Madison Dukes,Princeton,Home,Draw,1,1,NA,1,1,2,9,6,12,1,2,0,0,3,0,1,1,1,23,9,12,0,1,0,0,17,0,317
 2025-10-18,James Madison Dukes,Marshall,Home,Loss,0,2,NA,1,0,0,5,2,4,0,2,0,0,2,0,1,2,1,14,7,10,1,0,0,0,9,1,317
+2025-10-22,James Madison Dukes,UCF,Away,Loss,2,3,NA,1,2,1,8,3,13,0,1,0,0,7,0,1,3,5,21,9,8,0,0,0,0,7,1,317
 2025-08-21,Kansas City Roos,SMU,Away,Draw,2,2,NA,1,2,2,11,5,16,0,1,0,0,1,0,1,2,4,15,6,8,0,2,0,0,10,0,2707
 2025-08-25,Kansas City Roos,Missouri St.,Home,Win,2,1,NA,1,2,3,5,2,15,0,2,0,0,8,1,1,1,1,15,5,9,0,0,0,0,5,0,2707
 2025-08-29,Kansas City Roos,Saint Mary's (CA),Home,Draw,1,1,NA,1,1,2,22,5,7,1,1,0,0,15,0,1,1,2,6,3,11,1,3,0,0,1,0,2707
@@ -990,6 +1033,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Kansas City Roos,Omaha,Home,Win,1,0,NA,1,1,1,16,4,10,0,2,0,0,12,1,1,0,0,9,4,13,0,0,0,0,4,0,2707
 2025-10-11,Kansas City Roos,Oral Roberts,Away,Win,1,0,NA,1,1,2,12,3,4,0,2,0,0,6,1,1,0,0,4,2,13,0,1,0,0,6,0,2707
 2025-10-18,Kansas City Roos,St. Thomas (MN),Home,Win,3,1,NA,1,3,3,5,3,12,0,2,0,0,4,1,1,1,1,8,3,10,0,1,0,0,4,0,2707
+2025-10-22,Kansas City Roos,Tulsa,Away,Win,2,0,NA,1,2,2,5,2,8,0,0,0,0,6,1,1,0,0,7,2,6,0,1,0,0,10,0,2707
 2025-08-21,Kentucky Wildcats,Western Mich.,Away,Win,2,1,NA,1,2,1,8,7,8,0,3,0,0,6,1,1,1,1,5,2,12,0,1,0,0,2,0,334
 2025-08-25,Kentucky Wildcats,Bellarmine,Home,Win,1,0,NA,1,1,0,13,6,13,0,1,1,1,11,1,1,0,0,2,1,7,0,1,0,0,2,0,334
 2025-09-01,Kentucky Wildcats,UCLA,Home,Draw,0,0,NA,1,0,0,10,3,5,0,1,0,0,5,0,1,0,0,10,4,7,0,0,0,0,4,0,334
@@ -1002,6 +1046,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Kentucky Wildcats,Marshall,Away,Loss,1,4,NA,1,1,1,5,1,10,1,3,0,0,4,0,1,4,5,13,9,15,0,2,0,0,7,1,334
 2025-10-14,Kentucky Wildcats,Indiana,Home,Loss,1,2,NA,1,1,1,12,5,13,0,3,0,0,5,0,1,2,1,13,5,5,0,2,1,1,6,1,334
 2025-10-19,Kentucky Wildcats,South Carolina,Home,Win,2,1,NA,1,2,1,21,11,9,0,3,1,1,14,1,1,1,0,5,3,9,0,2,1,1,2,0,334
+2025-10-22,Kentucky Wildcats,Ga. Southern,Away,Win,2,1,NA,1,2,2,12,5,13,0,1,0,0,5,1,1,1,0,11,5,11,0,1,0,1,6,0,334
 2025-08-21,La Salle Explorers,Lehigh,Home,Draw,1,1,NA,1,1,1,7,4,13,0,2,0,0,5,0,1,1,2,10,5,13,1,3,0,0,8,0,340
 2025-08-25,La Salle Explorers,West Virginia,Away,Loss,0,4,NA,1,0,0,4,2,7,1,2,0,0,1,0,1,4,4,26,14,9,0,5,0,0,10,1,340
 2025-08-29,La Salle Explorers,Rider,Away,Draw,2,2,NA,1,2,2,17,5,21,0,5,1,1,8,0,1,2,2,10,6,18,1,5,0,0,3,0,340
@@ -1015,7 +1060,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-08,La Salle Explorers,Davidson,Home,Loss,0,1,NA,1,0,0,9,4,10,0,2,0,0,4,0,1,1,0,22,7,16,0,4,0,0,9,1,340
 2025-10-11,La Salle Explorers,Loyola Chicago,Home,Draw,1,1,NA,1,1,2,21,10,15,0,1,0,0,12,0,1,1,2,14,5,13,0,2,0,0,9,0,340
 2025-10-14,La Salle Explorers,Arcadia,Home,Win,4,0,NA,1,4,4,32,12,8,0,1,0,0,14,1,1,0,0,7,2,9,0,1,0,0,3,0,340
-2025-10-18,La Salle Explorers,George Mason,Away,Win,2,1,NA,1,2,1,14,5,12,0,5,0,0,6,1,1,1,1,17,5,8,0,4,0,0,7,0,340
+2025-10-18,La Salle Explorers,George Mason,Away,Win,2,1,NA,1,2,2,14,5,12,0,5,0,0,6,1,1,1,1,17,5,8,0,4,0,0,7,0,340
 2025-08-21,Lafayette Leopards,Seton Hall,Away,Loss,0,2,NA,1,0,0,6,1,14,0,3,0,0,0,0,1,2,2,12,7,16,0,1,1,1,6,1,342
 2025-08-27,Lafayette Leopards,Le Moyne,Home,Win,1,0,NA,1,1,0,11,7,15,0,2,1,1,3,1,1,0,0,8,2,17,0,4,0,1,3,0,342
 2025-08-30,Lafayette Leopards,Bryant,Away,Loss,0,1,NA,1,0,0,8,4,11,0,3,0,0,3,0,1,1,1,23,7,7,0,0,0,0,7,1,342
@@ -1030,6 +1075,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Lafayette Leopards,American,Home,Win,1,0,NA,1,1,1,12,3,18,0,3,0,0,1,1,1,0,0,8,2,6,0,3,0,0,5,0,342
 2025-10-11,Lafayette Leopards,Loyola Maryland,Away,Win,1,0,NA,1,1,0,9,3,10,0,0,0,0,1,1,1,0,0,11,2,10,0,3,0,0,4,0,342
 2025-10-18,Lafayette Leopards,Navy,Away,Draw,3,3,NA,1,3,2,18,11,11,0,3,0,0,6,0,1,3,3,19,7,12,0,1,0,0,9,0,342
+2025-10-21,Lafayette Leopards,Drexel,Away,Draw,0,0,NA,1,0,0,8,3,14,0,3,0,0,3,0,1,0,0,9,4,7,0,1,0,0,5,0,342
 2025-08-21,Le Moyne Dolphins,Delaware,Away,Loss,0,2,NA,1,0,0,5,2,15,0,5,0,0,1,0,1,2,2,16,5,13,0,2,0,0,5,1,349
 2025-08-27,Le Moyne Dolphins,Lafayette,Away,Loss,0,1,NA,1,0,0,8,2,17,0,4,0,1,3,0,1,1,0,11,7,15,0,2,1,1,3,1,349
 2025-08-30,Le Moyne Dolphins,Cornell,Home,Loss,0,3,NA,1,0,0,3,1,18,0,1,0,0,2,0,1,3,2,17,6,10,0,0,0,0,5,1,349
@@ -1041,6 +1087,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-02,Le Moyne Dolphins,Howard,Away,Win,2,0,NA,1,2,1,16,8,11,0,1,1,1,4,1,1,0,0,10,4,5,0,4,0,0,10,0,349
 2025-10-09,Le Moyne Dolphins,LIU,Away,Loss,1,2,NA,1,1,1,14,8,10,0,4,0,0,5,0,1,2,2,9,4,7,0,2,0,0,4,1,349
 2025-10-16,Le Moyne Dolphins,Mercyhurst,Home,Win,1,0,NA,1,1,1,9,2,14,0,1,0,0,2,1,1,0,0,10,3,21,0,2,0,0,5,0,349
+2025-10-23,Le Moyne Dolphins,New Haven,Away,Draw,3,3,NA,1,3,3,16,10,15,0,0,0,0,2,0,1,3,3,12,3,13,0,2,0,0,11,0,349
 2025-08-21,Lehigh Mountain Hawks,La Salle,Away,Draw,1,1,NA,1,1,2,10,5,13,1,3,0,0,8,0,1,1,1,7,4,13,0,2,0,0,5,0,352
 2025-08-25,Lehigh Mountain Hawks,Rider,Away,Win,2,1,NA,1,2,3,6,4,8,0,2,0,0,4,1,1,1,1,16,7,20,0,1,0,0,5,0,352
 2025-08-29,Lehigh Mountain Hawks,Columbia,Home,Win,2,1,NA,1,2,3,13,6,11,1,5,0,0,5,1,1,1,1,18,4,14,0,3,0,0,8,0,352
@@ -1055,6 +1102,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Lehigh Mountain Hawks,American,Away,Loss,1,3,NA,1,1,1,14,6,7,0,3,0,0,4,0,1,3,3,10,5,10,0,0,0,0,2,1,352
 2025-10-14,Lehigh Mountain Hawks,Saint Joseph's,Home,Win,3,2,NA,1,3,4,10,8,6,0,0,1,1,6,1,1,2,1,11,8,13,0,0,0,0,4,0,352
 2025-10-18,Lehigh Mountain Hawks,Bucknell,Home,Win,2,1,NA,1,2,3,7,5,6,0,1,0,0,3,1,1,1,0,14,5,5,0,0,0,0,4,0,352
+2025-10-21,Lehigh Mountain Hawks,Seton Hall,Home,Loss,1,5,NA,1,1,1,15,6,4,0,0,0,0,3,0,1,5,5,20,9,6,0,0,0,0,3,1,352
 2025-08-21,Liberty Flames,Regent,Home,Win,9,0,NA,1,9,6,26,13,6,0,1,1,1,11,1,1,0,0,2,2,5,0,2,0,0,0,0,355
 2025-08-24,Liberty Flames,USC Upstate,Home,Win,3,1,NA,1,3,2,17,6,8,0,1,0,0,3,1,1,1,1,6,4,8,0,1,0,0,9,0,355
 2025-08-28,Liberty Flames,Radford,Away,Draw,1,1,NA,1,1,1,10,2,3,0,1,0,0,5,0,1,1,1,8,3,8,0,0,0,0,3,0,355
@@ -1098,6 +1146,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Lipscomb Bisons,North Carolina,Home,Loss,0,3,NA,1,0,0,4,0,10,0,3,0,0,0,0,1,3,3,20,8,9,0,0,0,0,6,1,28600
 2025-10-11,Lipscomb Bisons,Central Ark.,Away,Loss,2,5,NA,1,2,1,13,7,13,0,3,0,0,4,0,1,5,7,12,8,12,0,2,0,0,4,1,28600
 2025-10-18,Lipscomb Bisons,Queens (NC),Away,Draw,1,1,NA,1,1,0,8,3,9,0,4,0,0,6,0,1,1,0,9,2,12,0,0,0,0,4,0,28600
+2025-10-21,Lipscomb Bisons,Louisville,Home,Draw,1,1,NA,1,1,1,15,3,12,0,3,0,0,8,0,1,1,1,18,6,7,0,2,0,0,7,0,28600
 2025-08-21,LIU Sharks,Bryant,Away,Draw,1,1,NA,1,1,2,3,1,7,0,2,0,0,1,0,1,1,0,14,3,8,0,1,0,0,11,0,361
 2025-08-24,LIU Sharks,UMass Lowell,Away,Win,1,0,NA,1,1,0,8,2,7,0,1,0,0,4,1,1,0,0,11,3,15,0,0,0,0,4,0,361
 2025-08-31,LIU Sharks,UAlbany,Home,Win,2,1,NA,1,2,1,7,2,13,0,1,0,0,0,1,1,1,1,9,3,11,0,2,0,0,5,0,361
@@ -1138,6 +1187,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Longwood Lancers,Virginia Tech,Away,Loss,0,3,NA,1,0,0,5,2,9,0,1,0,0,3,0,1,3,4,16,10,16,0,0,0,0,5,1,363
 2025-10-12,Longwood Lancers,UNC Asheville,Home,Loss,0,3,NA,1,0,0,6,3,12,0,0,0,0,5,0,1,3,3,11,7,7,0,0,0,0,5,1,363
 2025-10-17,Longwood Lancers,Winthrop,Home,Draw,2,2,NA,1,2,1,37,15,13,0,2,0,0,10,0,1,2,1,7,2,14,0,2,0,0,2,0,363
+2025-10-21,Longwood Lancers,Navy,Away,Draw,2,2,NA,1,2,3,12,5,13,0,3,0,0,6,0,1,2,4,14,7,9,0,0,0,0,4,0,363
 2025-08-21,Louisville Cardinals,Southern Ind.,Home,Win,6,0,NA,1,6,9,36,19,12,0,0,0,0,13,1,1,0,0,0,0,11,1,2,0,0,0,0,367
 2025-08-25,Louisville Cardinals,UAB,Away,Win,1,0,NA,1,1,1,11,5,11,0,2,0,0,7,1,1,0,0,8,1,7,0,0,0,0,4,0,367
 2025-08-29,Louisville Cardinals,IU Indy,Home,Win,4,0,NA,1,4,5,25,9,14,0,0,0,0,13,1,1,0,0,2,0,10,1,2,0,0,2,0,367
@@ -1151,6 +1201,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Louisville Cardinals,Belmont,Home,Draw,0,0,NA,1,0,0,11,4,15,0,1,0,0,6,0,1,0,0,4,3,8,1,2,0,0,4,0,367
 2025-10-11,Louisville Cardinals,Virginia Tech,Away,Loss,0,2,NA,1,0,0,6,1,9,0,1,0,0,1,0,1,2,2,18,6,9,0,1,0,0,12,1,367
 2025-10-17,Louisville Cardinals,Wake Forest,Away,Draw,1,1,NA,1,1,0,12,2,17,0,2,0,0,5,0,1,1,1,16,5,8,0,0,0,0,4,0,367
+2025-10-21,Louisville Cardinals,Lipscomb,Away,Draw,1,1,NA,1,1,1,18,6,7,0,2,0,0,7,0,1,1,1,15,3,12,0,3,0,0,8,0,367
 2025-08-21,Loyola Chicago Ramblers,Oakland,Home,Win,3,2,NA,1,3,3,13,6,13,0,2,0,0,5,1,1,2,2,7,4,11,0,0,1,1,2,0,371
 2025-08-24,Loyola Chicago Ramblers,Purdue Fort Wayne,Home,Draw,0,0,NA,1,0,0,17,6,20,0,2,0,1,5,0,1,0,0,2,2,13,0,3,0,0,3,0,371
 2025-08-29,Loyola Chicago Ramblers,Northwestern,Away,Draw,1,1,NA,1,1,1,11,3,6,0,2,0,0,3,0,1,1,1,15,5,17,0,1,0,0,6,0,371
@@ -1201,7 +1252,8 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-01,Marist Red Foxes,Fairfield,Home,Loss,1,5,NA,1,1,0,17,9,6,0,2,0,0,6,0,1,5,4,15,6,11,0,2,0,0,2,1,386
 2025-10-04,Marist Red Foxes,Niagara,Away,Loss,1,2,NA,1,1,0,21,13,15,0,4,0,0,6,0,1,2,2,16,11,15,0,4,0,1,5,1,386
 2025-10-15,Marist Red Foxes,Sacred Heart,Home,Loss,0,3,NA,1,0,0,9,3,6,1,3,0,0,13,0,1,3,3,11,4,8,0,5,0,0,1,1,386
-2025-10-18,Marist Red Foxes,Merrimack,Away,Draw,1,1,NA,1,1,0,12,6,17,0,3,0,0,4,0,1,1,0,7,2,17,0,3,0,0,6,0,386
+2025-10-18,Marist Red Foxes,Merrimack,Away,Draw,1,1,NA,1,1,0,12,6,17,0,3,0,0,4,0,1,1,2,7,2,17,0,3,0,0,6,0,386
+2025-10-24,Marist Red Foxes,Rider,Home,Win,3,1,NA,1,3,3,21,10,15,0,0,0,0,2,1,1,1,1,6,3,17,0,2,0,0,4,0,386
 2025-08-21,Marquette Golden Eagles,Bradley,Home,Draw,0,0,NA,1,0,0,6,1,13,1,1,0,0,8,0,1,0,0,11,4,19,0,3,0,0,5,0,387
 2025-08-24,Marquette Golden Eagles,North Florida,Home,Win,2,1,NA,1,2,0,20,8,12,0,0,1,1,8,1,1,1,1,5,3,15,0,1,0,0,2,0,387
 2025-08-28,Marquette Golden Eagles,Drake,Home,Draw,3,3,NA,1,3,4,6,4,16,1,2,0,0,6,0,1,3,3,10,5,16,0,0,0,0,0,0,387
@@ -1214,6 +1266,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Marquette Golden Eagles,UIC,Home,Win,5,4,NA,1,5,3,11,6,11,0,2,1,1,6,1,1,4,4,17,10,13,1,3,0,2,8,0,387
 2025-10-11,Marquette Golden Eagles,Butler,Away,Loss,1,2,NA,1,1,2,26,11,13,0,0,0,0,11,0,1,2,0,10,4,9,0,0,0,0,3,1,387
 2025-10-17,Marquette Golden Eagles,Providence,Away,Loss,0,1,NA,1,0,0,7,2,8,0,2,0,0,6,0,1,1,1,12,6,15,0,0,0,0,7,1,387
+2025-10-21,Marquette Golden Eagles,Edgewood,Home,Win,2,0,NA,1,2,2,24,15,12,0,1,0,0,6,1,1,0,0,10,3,10,0,2,0,0,4,0,387
 2025-08-22,Marshall Thundering Herd,George Mason,Home,Win,2,1,NA,1,2,3,14,6,16,0,2,0,0,7,1,1,1,0,4,1,13,0,2,0,0,3,0,388
 2025-08-29,Marshall Thundering Herd,Virginia Tech,Home,Draw,2,2,NA,1,2,0,19,5,7,0,4,2,2,8,0,1,2,2,4,3,11,0,3,0,0,1,0,388
 2025-09-05,Marshall Thundering Herd,St. John's (NY),Away,Draw,1,1,NA,1,1,0,7,3,17,1,5,0,0,2,0,1,1,1,11,4,20,0,5,0,0,9,0,388
@@ -1226,6 +1279,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Marshall Thundering Herd,Kentucky,Home,Win,4,1,NA,1,4,5,13,9,15,0,2,0,0,7,1,1,1,1,5,1,10,1,3,0,0,4,0,388
 2025-10-14,Marshall Thundering Herd,Oakland,Home,Win,1,0,NA,1,1,1,19,8,7,0,0,0,0,4,1,1,0,0,2,0,3,0,1,0,0,0,0,388
 2025-10-18,Marshall Thundering Herd,James Madison,Away,Win,2,0,NA,1,2,1,14,7,10,1,0,0,0,9,1,1,0,0,5,2,4,0,2,0,0,2,0,388
+2025-10-22,Marshall Thundering Herd,South Carolina,Home,Win,4,0,NA,1,4,2,14,5,13,0,4,0,0,8,1,1,0,0,2,1,11,0,1,0,0,4,0,388
 2025-08-25,"Maryland Terrapins, Terps",Georgetown,Away,Win,1,0,NA,1,1,2,15,5,13,0,2,0,0,8,1,1,0,0,18,6,14,0,2,0,0,7,0,392
 2025-08-29,"Maryland Terrapins, Terps",Bucknell,Home,Draw,2,2,NA,1,2,2,16,9,7,0,1,0,1,6,0,1,2,1,6,5,15,0,0,1,1,2,0,392
 2025-09-01,"Maryland Terrapins, Terps",Saint Francis,Home,Win,6,0,NA,1,6,11,30,14,11,0,0,0,0,6,1,1,0,0,2,2,7,0,1,0,0,1,0,392
@@ -1238,6 +1292,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,"Maryland Terrapins, Terps",Michigan,Home,Win,2,0,NA,1,2,2,12,9,10,0,2,1,1,5,1,1,0,0,7,3,10,0,5,0,0,3,0,392
 2025-10-14,"Maryland Terrapins, Terps",Rutgers,Home,Win,2,0,NA,1,2,4,14,6,6,0,2,0,0,4,1,1,0,0,12,5,8,0,1,0,0,3,0,392
 2025-10-18,"Maryland Terrapins, Terps",Ohio St.,Away,Win,4,0,NA,1,4,4,13,8,8,0,2,1,1,3,1,1,0,0,11,3,11,0,6,0,0,5,0,392
+2025-10-24,"Maryland Terrapins, Terps",Indiana,Home,Win,3,2,NA,1,3,5,17,8,9,0,1,0,0,5,1,1,2,1,15,4,4,0,3,0,0,3,0,392
 2025-08-21,Massachusetts Minutemen,Siena,Home,Win,3,2,NA,1,3,4,17,11,12,0,0,0,0,7,1,1,2,2,6,3,10,0,0,0,0,5,0,400
 2025-08-24,Massachusetts Minutemen,UConn,Away,Draw,1,1,NA,1,1,0,9,5,7,0,2,0,0,4,0,1,1,0,10,6,11,0,0,1,1,7,0,400
 2025-08-28,Massachusetts Minutemen,Quinnipiac,Home,Win,5,2,NA,1,5,4,18,10,26,0,3,1,1,5,1,1,2,1,8,4,15,0,2,1,1,3,0,400
@@ -1246,12 +1301,12 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-09-10,Massachusetts Minutemen,UMass Lowell,Away,Win,3,1,NA,1,3,2,9,6,14,0,1,0,0,8,1,1,1,0,11,4,13,0,0,0,0,2,0,400
 2025-09-13,Massachusetts Minutemen,New Hampshire,Away,Draw,0,0,NA,1,0,0,13,8,12,0,0,0,0,4,0,1,0,0,9,5,10,0,1,0,0,4,0,400
 2025-09-16,Massachusetts Minutemen,Princeton,Away,Loss,0,2,NA,1,0,0,7,2,12,0,1,0,0,3,0,1,2,2,13,5,18,0,1,0,0,5,1,400
-2025-09-20,Massachusetts Minutemen,Yale,Home,Draw,2,2,NA,1,2,1,24,12,7,0,2,0,1,12,0,1,2,0,4,2,10,0,2,1,1,3,0,400
+2025-09-20,Massachusetts Minutemen,Yale,Home,Draw,2,2,NA,1,2,1,24,12,7,0,2,0,1,12,0,1,2,2,5,3,10,0,2,1,1,3,0,400
 2025-09-27,Massachusetts Minutemen,Delaware,Away,Loss,1,2,NA,1,1,0,13,4,11,0,1,0,0,1,0,1,2,4,14,4,7,0,2,0,0,7,1,400
 2025-09-30,Massachusetts Minutemen,Holy Cross,Away,Draw,1,1,NA,1,1,2,11,3,14,0,1,0,0,8,0,1,1,2,6,3,6,0,2,0,0,1,0,400
 2025-10-04,Massachusetts Minutemen,Denver,Home,Win,2,1,NA,1,2,1,7,2,12,1,1,0,0,2,1,1,1,0,27,10,5,1,0,0,0,9,0,400
 2025-10-11,Massachusetts Minutemen,Omaha,Away,Draw,1,1,NA,1,1,1,11,5,8,0,1,0,0,10,0,1,1,1,10,5,13,0,0,0,0,8,0,400
-2025-10-18,Massachusetts Minutemen,Oral Roberts,Home,Loss,0,2,NA,1,0,0,24,9,10,0,2,0,0,7,0,1,2,1,13,6,10,0,2,0,0,5,1,400
+2025-10-18,Massachusetts Minutemen,Oral Roberts,Home,Loss,0,2,NA,1,0,0,24,9,10,0,2,0,0,7,0,1,2,2,13,6,10,0,2,0,0,5,1,400
 2025-10-21,Massachusetts Minutemen,Dartmouth,Home,Win,2,0,NA,1,2,1,18,12,9,0,3,0,0,8,1,1,0,0,8,3,7,0,2,0,0,3,0,400
 2025-08-21,Memphis Tigers,Lipscomb,Away,Draw,1,1,NA,1,1,1,10,7,12,0,2,0,0,5,0,1,1,1,13,7,4,0,2,0,0,6,0,404
 2025-08-24,Memphis Tigers,Belmont,Home,Loss,0,2,NA,1,0,0,14,3,15,0,2,0,0,11,0,1,2,0,7,5,10,0,1,1,1,3,1,404
@@ -1280,6 +1335,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Mercer Bears,Wofford,Away,Win,5,4,NA,1,5,8,10,6,14,0,1,0,0,2,1,1,4,2,18,6,16,0,2,1,1,8,0,406
 2025-10-14,Mercer Bears,Ga. Southern,Home,Loss,0,3,NA,1,0,0,4,2,12,0,3,0,0,3,0,1,3,5,15,6,10,0,3,0,0,5,1,406
 2025-10-18,Mercer Bears,ETSU,Away,Win,3,2,NA,1,3,4,15,10,8,0,2,0,0,7,1,1,2,2,17,6,3,0,3,0,0,5,0,406
+2025-10-21,Mercer Bears,Jacksonville,Home,Draw,1,1,NA,1,1,1,8,2,13,0,1,0,0,4,0,1,1,1,13,2,4,0,2,0,0,6,0,406
 2025-08-21,Mercyhurst Lakers,Robert Morris,Home,Draw,0,0,NA,1,0,0,9,3,11,0,2,0,0,2,0,1,0,0,7,3,18,0,1,0,0,5,0,408
 2025-08-24,Mercyhurst Lakers,Detroit Mercy,Away,Loss,0,2,NA,1,0,0,2,2,20,0,1,0,0,3,0,1,2,2,6,3,14,0,2,0,0,1,1,408
 2025-08-31,Mercyhurst Lakers,St. Bonaventure,Away,Draw,0,0,NA,1,0,0,1,0,3,3,4,0,0,1,0,1,0,0,17,7,8,0,3,0,0,9,0,408
@@ -1292,6 +1348,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-05,Mercyhurst Lakers,Howard,Home,Win,3,0,NA,1,3,1,18,12,10,0,0,2,2,7,1,1,0,0,8,5,11,0,2,0,0,1,0,408
 2025-10-12,Mercyhurst Lakers,Stonehill,Home,Loss,2,3,NA,1,2,2,11,2,9,0,2,0,0,5,0,1,3,3,9,6,17,0,4,0,0,2,1,408
 2025-10-16,Mercyhurst Lakers,Le Moyne,Away,Loss,0,1,NA,1,0,0,10,3,21,0,2,0,0,5,0,1,1,1,9,2,14,0,1,0,0,2,1,408
+2025-10-21,Mercyhurst Lakers,Cleveland St.,Home,Draw,2,2,NA,1,2,1,8,5,15,0,5,0,0,2,0,1,2,2,12,8,8,0,0,0,0,4,0,408
 2025-08-21,Merrimack Warriors,Saint Joseph's,Home,Loss,0,1,NA,1,0,0,5,1,14,0,1,0,0,8,0,1,1,1,11,5,16,0,3,0,0,4,1,410
 2025-08-24,Merrimack Warriors,Holy Cross,Home,Win,1,0,NA,1,1,1,8,7,16,0,1,0,0,6,1,1,0,0,10,3,11,0,2,0,0,4,0,410
 2025-08-28,Merrimack Warriors,Stonehill,Home,Loss,2,3,NA,1,2,1,12,4,14,1,4,0,0,4,0,1,3,0,15,9,10,0,7,1,1,2,1,410
@@ -1304,7 +1361,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Merrimack Warriors,Manhattan,Away,Loss,0,1,NA,1,0,0,13,4,12,1,4,0,0,17,0,1,1,2,7,5,16,0,3,0,0,3,1,410
 2025-10-11,Merrimack Warriors,Saint Peter's,Home,Win,4,3,NA,1,4,3,13,7,18,0,1,1,1,7,1,1,3,1,9,6,13,0,2,1,1,2,0,410
 2025-10-15,Merrimack Warriors,Fairfield,Away,Draw,1,1,NA,1,1,0,11,2,10,0,3,0,0,4,0,1,1,1,13,3,21,0,4,0,0,3,0,410
-2025-10-18,Merrimack Warriors,Marist,Home,Draw,1,1,NA,1,1,0,7,2,17,0,3,0,0,6,0,1,1,0,12,6,17,0,3,0,0,4,0,410
+2025-10-18,Merrimack Warriors,Marist,Home,Draw,1,1,NA,1,1,2,7,2,17,0,3,0,0,6,0,1,1,0,12,6,17,0,3,0,0,4,0,410
 2025-08-21,Michigan Wolverines,Notre Dame,Home,Draw,1,1,NA,1,1,1,13,4,15,0,3,0,0,6,0,1,1,1,4,2,11,0,4,0,0,3,0,418
 2025-08-24,Michigan Wolverines,UC Riverside,Home,Win,2,0,NA,1,2,2,16,8,15,0,4,1,1,4,1,1,0,0,7,1,10,0,5,0,0,3,0,418
 2025-08-29,Michigan Wolverines,Creighton,Home,Win,3,1,NA,1,3,3,8,5,16,0,3,1,1,3,1,1,1,0,5,2,16,0,3,1,1,7,0,418
@@ -1318,6 +1375,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Michigan Wolverines,Maryland,Away,Loss,0,2,NA,1,0,0,7,3,10,0,5,0,0,3,0,1,2,2,12,9,10,0,2,1,1,5,1,418
 2025-10-14,Michigan Wolverines,Ohio St.,Away,Win,3,1,NA,1,3,5,12,7,15,0,1,0,0,3,1,1,1,2,15,3,14,0,2,0,0,1,0,418
 2025-10-17,Michigan Wolverines,UCLA,Home,Win,3,0,NA,1,3,3,11,5,11,0,2,1,1,1,1,1,0,0,5,2,17,0,1,0,0,5,0,418
+2025-10-24,Michigan Wolverines,Northwestern,Home,Win,2,1,NA,1,2,2,16,5,11,0,3,1,1,10,1,1,1,1,12,7,8,0,1,0,0,1,0,418
 2025-08-21,Michigan St. Spartans,UC Riverside,Home,Win,2,0,NA,1,2,0,12,6,9,0,1,0,0,8,1,1,0,0,7,2,10,0,3,0,0,3,0,416
 2025-08-25,Michigan St. Spartans,Pittsburgh,Away,Loss,2,3,NA,1,2,1,13,7,16,0,1,1,1,4,0,1,3,3,12,5,18,0,4,0,0,5,1,416
 2025-09-01,Michigan St. Spartans,Detroit Mercy,Home,Win,1,0,NA,1,1,2,20,4,11,0,3,0,0,7,1,1,0,0,2,1,14,1,6,0,0,1,0,416
@@ -1357,6 +1415,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-03,Missouri St. Bears,Fla. Atlantic,Home,Loss,1,2,NA,1,1,2,7,3,11,1,3,0,0,3,0,1,2,0,10,6,11,0,2,0,0,5,1,669
 2025-10-08,Missouri St. Bears,"Creighton Kansas City, MO",Away,Loss,0,1,NA,1,0,0,12,6,8,0,3,0,0,6,0,1,1,2,10,5,13,0,3,0,0,6,1,669
 2025-10-17,Missouri St. Bears,South Fla.,Away,Win,3,1,NA,1,3,3,9,5,8,0,1,0,0,3,1,1,1,0,11,2,15,0,2,1,1,7,0,669
+2025-10-21,Missouri St. Bears,Drake,Home,Win,1,0,NA,1,1,0,8,4,3,0,4,0,0,2,1,1,0,0,6,2,5,1,2,0,0,0,0,669
 2025-08-21,Monmouth Hawks,New Haven,Home,Loss,1,2,NA,1,1,1,17,6,5,0,1,0,0,7,0,1,2,2,8,5,6,0,2,0,0,2,1,439
 2025-08-25,Monmouth Hawks,Fairfield,Away,Loss,0,3,NA,1,0,0,17,7,9,0,1,0,0,5,0,1,3,3,10,6,14,0,2,0,0,3,1,439
 2025-08-30,Monmouth Hawks,Stony Brook,Home,Draw,2,2,NA,1,2,4,16,5,13,0,1,0,0,7,0,1,2,3,8,5,15,0,2,0,0,2,0,439
@@ -1370,6 +1429,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Monmouth Hawks,Drexel,Home,Draw,1,1,NA,1,1,1,9,3,13,0,2,0,0,5,0,1,1,2,12,5,13,0,4,0,0,2,0,439
 2025-10-11,Monmouth Hawks,Northeastern,Away,Draw,1,1,NA,1,1,1,14,9,11,0,0,0,0,1,0,1,1,2,19,9,14,0,3,0,0,4,0,439
 2025-10-18,Monmouth Hawks,Stony Brook,Away,Loss,1,2,NA,1,1,2,7,2,9,1,3,0,0,3,0,1,2,4,17,10,16,1,3,0,1,9,1,439
+2025-10-21,Monmouth Hawks,St. John's (NY),Home,Loss,0,1,NA,1,0,0,3,0,3,0,2,0,0,1,0,1,1,0,17,5,14,0,1,0,0,4,1,439
 2025-08-21,Mount St. Mary's Mountaineers,Navy,Away,Draw,2,2,NA,1,2,2,13,6,6,0,1,0,0,2,0,1,2,1,12,4,10,0,0,1,1,6,0,450
 2025-08-28,Mount St. Mary's Mountaineers,Binghamton,Away,Loss,1,2,NA,1,1,1,13,7,9,0,4,0,0,1,0,1,2,2,7,3,4,1,2,0,0,3,1,450
 2025-09-01,Mount St. Mary's Mountaineers,Robert Morris,Away,Loss,0,1,NA,1,0,0,10,3,11,0,2,0,0,2,0,1,1,2,21,13,15,0,4,0,0,9,1,450
@@ -1397,6 +1457,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Navy Midshipmen,Colgate,Away,Loss,0,2,NA,1,0,0,10,3,4,0,2,0,0,7,0,1,2,1,17,8,5,0,1,0,0,5,1,726
 2025-10-10,Navy Midshipmen,"Army West Point Chester, PA",Away,Loss,0,4,NA,1,0,0,10,1,14,0,1,0,0,1,0,1,4,3,24,13,15,0,3,0,0,9,1,726
 2025-10-18,Navy Midshipmen,Lafayette,Home,Draw,3,3,NA,1,3,3,19,7,12,0,1,0,0,9,0,1,3,2,18,11,11,0,3,0,0,6,0,726
+2025-10-21,Navy Midshipmen,Longwood,Home,Draw,2,2,NA,1,2,4,14,7,9,0,0,0,0,4,0,1,2,3,12,5,13,0,3,0,0,6,0,726
 2025-08-21,NIU Huskies,Milwaukee,Away,Draw,2,2,NA,1,2,3,16,6,14,0,3,0,0,4,0,1,2,2,17,9,25,0,2,1,1,5,0,503
 2025-08-25,NIU Huskies,Green Bay,Away,Win,1,0,NA,1,1,2,14,6,17,0,1,0,0,2,1,1,0,0,10,2,15,0,3,0,0,4,0,503
 2025-08-28,NIU Huskies,Western Ill.,Home,Win,5,0,NA,1,5,2,20,10,21,0,2,1,1,7,1,1,0,0,5,1,22,0,3,0,0,3,0,503
@@ -1409,6 +1470,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,NIU Huskies,Bradley,Home,Win,2,1,NA,1,2,2,20,10,13,0,0,0,0,9,1,1,1,1,4,4,14,0,3,0,0,1,0,503
 2025-10-11,NIU Huskies,Western Mich.,Away,Draw,0,0,NA,1,0,0,10,5,15,0,1,0,0,6,0,1,0,0,15,4,19,0,1,0,0,9,0,503
 2025-10-17,NIU Huskies,Belmont,Home,Draw,2,2,NA,1,2,2,15,6,24,0,3,0,0,4,0,1,2,2,9,3,14,0,4,0,0,5,0,503
+2025-10-21,NIU Huskies,Notre Dame,Home,Win,2,1,NA,1,2,2,8,4,13,1,1,0,0,6,1,1,1,2,17,4,17,1,1,0,0,6,0,503
 2025-08-21,New Hampshire Wildcats,Boston U.,Home,Loss,0,1,NA,1,0,0,9,2,13,0,3,0,0,7,0,1,1,1,5,3,11,0,3,0,0,1,1,469
 2025-08-24,New Hampshire Wildcats,Colgate,Home,Draw,0,0,NA,1,0,0,12,7,13,0,1,0,0,1,0,1,0,0,8,4,19,0,2,0,0,1,0,469
 2025-08-28,New Hampshire Wildcats,St. John's (NY),Away,Loss,0,5,NA,1,0,0,3,2,15,0,1,0,0,1,0,1,5,4,19,11,18,0,0,1,1,4,1,469
@@ -1434,6 +1496,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,New Haven Chargers,Yale,Away,Loss,1,2,NA,1,1,0,14,2,7,0,1,0,0,2,0,1,2,3,13,6,10,0,3,0,0,2,1,470
 2025-10-09,New Haven Chargers,Stonehill,Away,Loss,0,1,NA,1,0,0,16,5,4,0,3,0,0,4,0,1,1,1,20,5,12,0,2,0,0,5,1,470
 2025-10-16,New Haven Chargers,Saint Francis,Away,Loss,1,5,NA,1,1,0,11,8,11,0,1,0,0,6,0,1,5,3,10,7,11,0,0,1,1,6,1,470
+2025-10-23,New Haven Chargers,Le Moyne,Home,Draw,3,3,NA,1,3,3,12,3,13,0,2,0,0,11,0,1,3,3,16,10,15,0,0,0,0,2,0,470
 2025-08-21,Niagara Purple Eagles,St. Bonaventure,Away,Win,3,2,NA,1,3,2,9,6,7,0,1,0,0,4,1,1,2,1,12,8,6,0,2,1,1,11,0,482
 2025-08-29,Niagara Purple Eagles,UMBC,Away,Loss,1,3,NA,1,1,2,12,8,10,1,5,0,0,3,0,1,3,1,11,4,14,0,3,2,2,3,1,482
 2025-09-01,Niagara Purple Eagles,Navy,Away,Loss,0,2,NA,1,0,0,5,1,11,0,2,0,0,3,0,1,2,2,19,8,12,0,2,1,1,8,1,482
@@ -1501,6 +1564,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Northeastern Huskies,Monmouth,Home,Draw,1,1,NA,1,1,2,19,9,14,0,3,0,0,4,0,1,1,1,14,9,11,0,0,0,0,1,0,500
 2025-10-14,Northeastern Huskies,Boston U.,Away,Win,3,2,NA,1,3,3,6,5,15,0,0,0,0,4,1,1,2,3,20,8,11,0,1,0,0,8,0,500
 2025-10-18,Northeastern Huskies,Drexel,Home,Win,1,0,NA,1,1,1,10,3,22,0,2,0,0,2,1,1,0,0,5,1,11,0,0,0,0,3,0,500
+2025-10-21,Northeastern Huskies,UAlbany,Home,Draw,1,1,NA,1,1,1,10,6,9,0,2,0,0,2,0,1,1,1,11,5,11,0,1,0,0,2,0,500
 2025-08-21,Northern Ky. Norse,Union Commonwealth,Home,Win,2,1,NA,1,2,2,22,9,12,0,2,1,1,8,1,1,1,1,6,3,9,0,5,0,0,0,0,505
 2025-08-24,Northern Ky. Norse,Akron,Away,Loss,0,1,NA,1,0,0,4,1,10,1,4,0,0,3,0,1,1,2,14,4,11,0,1,0,0,5,1,505
 2025-08-31,Northern Ky. Norse,Western Ill.,Away,Win,1,0,NA,1,1,0,13,9,14,0,4,0,0,4,1,1,0,0,8,4,9,0,1,0,1,9,0,505
@@ -1514,6 +1578,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Northern Ky. Norse,Detroit Mercy,Away,Loss,1,2,NA,1,1,0,17,5,11,0,0,1,1,5,0,1,2,0,14,9,10,1,3,1,1,3,1,505
 2025-10-11,Northern Ky. Norse,Wright St.,Away,Win,2,1,NA,1,2,2,12,5,10,0,2,0,0,8,1,1,1,1,15,8,8,1,4,0,0,5,0,505
 2025-10-18,Northern Ky. Norse,IU Indy,Home,Win,2,0,NA,1,2,1,8,2,21,0,4,0,0,4,1,1,0,0,8,5,11,0,2,0,0,4,0,505
+2025-10-21,Northern Ky. Norse,Duquesne,Home,Loss,0,1,NA,1,0,0,6,3,10,0,3,0,0,3,0,1,1,2,10,3,7,0,2,0,0,4,1,505
 2025-08-21,Northwestern Wildcats,Eastern Ill.,Home,Win,2,0,NA,1,2,4,24,11,10,0,3,0,0,13,1,1,0,0,2,0,11,1,3,0,0,0,0,509
 2025-08-24,Northwestern Wildcats,Air Force,Home,Win,2,1,NA,1,2,3,22,7,10,0,0,0,0,8,1,1,1,1,5,2,6,0,0,0,0,6,0,509
 2025-08-29,Northwestern Wildcats,Loyola Chicago,Home,Draw,1,1,NA,1,1,1,15,5,17,0,1,0,0,6,0,1,1,1,11,3,6,0,2,0,0,3,0,509
@@ -1527,6 +1592,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Northwestern Wildcats,Evansville,Home,Win,1,0,NA,1,1,1,5,2,8,0,1,0,0,3,1,1,0,0,10,1,19,0,1,0,0,5,0,509
 2025-10-11,Northwestern Wildcats,Michigan St.,Home,Draw,0,0,NA,1,0,0,14,5,10,0,0,0,0,3,0,1,0,0,8,0,13,0,0,0,0,5,0,509
 2025-10-17,Northwestern Wildcats,Penn St.,Away,Draw,2,2,NA,1,2,2,9,5,8,0,1,0,0,4,0,1,2,1,19,8,11,0,1,0,0,6,0,509
+2025-10-24,Northwestern Wildcats,Michigan,Away,Loss,1,2,NA,1,1,1,12,7,8,0,1,0,0,1,0,1,2,2,16,5,11,0,3,1,1,10,1,509
 2025-08-21,Notre Dame Fighting Irish,Michigan,Away,Draw,1,1,NA,1,1,1,4,2,11,0,4,0,0,3,0,1,1,1,13,4,15,0,3,0,0,6,0,513
 2025-08-24,Notre Dame Fighting Irish,IU Indy,Home,Draw,0,0,NA,1,0,0,15,5,9,0,1,0,0,10,0,1,0,0,4,4,14,0,3,0,0,1,0,513
 2025-08-28,Notre Dame Fighting Irish,Oregon St.,Home,Win,1,0,NA,1,1,1,3,2,17,0,2,0,0,0,1,1,0,0,16,7,16,0,2,0,0,7,0,513
@@ -1541,6 +1607,8 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Notre Dame Fighting Irish,Green Bay,Home,Win,4,2,NA,1,4,4,20,8,6,0,0,0,0,4,1,1,2,1,12,9,14,0,1,0,0,5,0,513
 2025-10-10,Notre Dame Fighting Irish,Virginia,Away,Draw,1,1,NA,1,1,1,6,2,18,0,1,0,0,5,0,1,1,2,14,4,12,0,0,0,0,7,0,513
 2025-10-17,Notre Dame Fighting Irish,NC State,Home,Loss,0,3,NA,1,0,0,5,1,11,1,2,0,0,1,0,1,3,2,28,10,13,0,1,0,0,5,1,513
+2025-10-21,Notre Dame Fighting Irish,NIU,Away,Loss,1,2,NA,1,1,2,17,4,17,1,1,0,0,6,0,1,2,2,8,4,13,1,1,0,0,6,1,513
+2025-10-24,Notre Dame Fighting Irish,Boston College,Away,Win,1,0,NA,1,1,0,8,3,7,0,0,0,0,2,1,1,0,0,14,2,12,0,1,0,0,16,0,513
 2025-08-21,Oakland Golden Grizzlies,Loyola Chicago,Away,Loss,2,3,NA,1,2,2,7,4,11,0,0,1,1,2,0,1,3,3,13,6,13,0,2,0,0,5,1,514
 2025-08-24,Oakland Golden Grizzlies,DePaul,Away,Draw,1,1,NA,1,1,2,15,4,7,0,0,0,0,2,0,1,1,2,16,5,15,0,0,0,0,10,0,514
 2025-08-28,Oakland Golden Grizzlies,Ohio St.,Away,Loss,0,1,NA,1,0,0,5,2,10,0,0,0,0,3,0,1,1,1,19,5,12,0,1,0,0,9,1,514
@@ -1568,6 +1636,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Ohio St. Buckeyes,Indiana,Away,Loss,2,4,NA,1,2,3,17,6,15,0,3,0,0,4,0,1,4,5,20,10,6,0,0,0,0,6,1,518
 2025-10-14,Ohio St. Buckeyes,Michigan,Home,Loss,1,3,NA,1,1,2,15,3,14,0,2,0,0,1,0,1,3,5,12,7,15,0,1,0,0,3,1,518
 2025-10-18,Ohio St. Buckeyes,Maryland,Home,Loss,0,4,NA,1,0,0,11,3,11,0,6,0,0,5,0,1,4,4,13,8,8,0,2,1,1,3,1,518
+2025-10-24,Ohio St. Buckeyes,Washington,Away,Loss,0,5,NA,1,0,0,15,7,12,0,2,0,0,6,0,1,5,6,22,12,7,0,0,0,1,7,1,518
 2025-08-21,Old Dominion Monarchs,George Washington,Home,Win,2,0,NA,1,2,3,13,6,9,0,2,0,0,5,1,1,0,0,6,4,11,0,4,0,0,3,0,523
 2025-08-25,Old Dominion Monarchs,Elon,Away,Draw,0,0,NA,1,0,0,9,1,16,0,2,0,0,3,0,1,0,0,8,3,14,0,2,0,0,4,0,523
 2025-08-29,Old Dominion Monarchs,VCU,Home,Loss,1,2,NA,1,1,2,7,2,8,0,2,0,0,3,0,1,2,2,17,7,5,0,1,0,0,6,1,523
@@ -1581,6 +1650,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Old Dominion Monarchs,South Carolina,Away,Draw,1,1,NA,1,1,1,11,5,11,0,3,0,0,8,0,1,1,0,9,4,9,0,2,0,0,7,0,523
 2025-10-14,Old Dominion Monarchs,Regent,Home,Win,10,0,NA,1,10,10,38,22,5,0,0,0,0,14,1,1,0,0,1,0,7,0,0,0,0,1,0,523
 2025-10-18,Old Dominion Monarchs,UCF,Home,Draw,1,1,NA,1,1,1,13,6,17,0,1,0,0,5,0,1,1,1,13,4,7,0,0,0,0,2,0,523
+2025-10-22,Old Dominion Monarchs,West Virginia,Away,Loss,0,1,NA,1,0,0,3,2,16,1,3,0,0,2,0,1,1,2,14,9,6,0,1,0,0,15,1,523
 2025-08-21,Omaha Mavericks,FIU,Away,Loss,1,4,NA,1,1,0,6,3,16,0,2,1,1,7,0,1,4,6,19,8,19,0,8,0,0,8,1,464
 2025-08-24,Omaha Mavericks,Fla. Atlantic,Away,Loss,0,2,NA,1,0,0,4,2,3,0,3,0,0,1,0,1,2,4,16,5,15,0,5,0,0,6,1,464
 2025-08-31,Omaha Mavericks,Utah Valley,Home,Loss,0,3,NA,1,0,0,7,2,16,0,4,0,0,4,0,1,3,2,14,6,17,0,3,1,1,8,1,464
@@ -1606,7 +1676,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Oral Roberts Golden Eagles,St. Thomas (MN),Away,Loss,1,2,NA,1,1,0,11,6,14,0,0,0,0,7,0,1,2,1,6,4,10,0,0,0,0,3,1,527
 2025-10-07,Oral Roberts Golden Eagles,Tulsa,Home,Win,1,0,NA,1,1,1,5,1,16,0,0,0,0,3,1,1,0,0,4,2,11,0,2,0,0,2,0,527
 2025-10-11,Oral Roberts Golden Eagles,Kansas City,Home,Loss,0,1,NA,1,0,0,4,2,13,0,1,0,0,6,0,1,1,2,12,3,4,0,2,0,0,6,1,527
-2025-10-18,Oral Roberts Golden Eagles,Massachusetts,Away,Win,2,0,NA,1,2,1,13,6,10,0,2,0,0,5,1,1,0,0,24,9,10,0,2,0,0,7,0,527
+2025-10-18,Oral Roberts Golden Eagles,Massachusetts,Away,Win,2,0,NA,1,2,2,13,6,10,0,2,0,0,5,1,1,0,0,24,9,10,0,2,0,0,7,0,527
 2025-08-21,Oregon St. Beavers,UC Santa Barbara,Home,Win,3,0,NA,1,3,6,13,5,7,0,2,0,0,6,1,1,0,0,8,1,17,0,2,0,0,5,0,528
 2025-08-24,Oregon St. Beavers,Washington,Home,Win,2,1,NA,1,2,4,11,6,18,0,5,0,0,2,1,1,1,0,12,4,13,1,1,0,0,6,0,528
 2025-08-28,Oregon St. Beavers,Notre Dame,Away,Loss,0,1,NA,1,0,0,16,7,16,0,2,0,0,7,0,1,1,1,3,2,17,0,2,0,0,0,1,528
@@ -1631,7 +1701,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Pacific Tigers,Seattle U,Away,Loss,2,5,NA,1,2,2,14,5,12,0,2,1,1,3,0,1,5,3,15,6,12,0,4,0,0,3,1,534
 2025-10-11,Pacific Tigers,Saint Mary's (CA),Away,Win,1,0,NA,1,1,0,7,3,9,0,5,1,1,1,1,1,0,0,16,6,18,0,3,0,0,8,0,534
 2025-10-15,Pacific Tigers,San Francisco,Home,Loss,2,3,NA,1,2,2,6,3,14,0,1,0,0,4,0,1,3,3,13,7,11,0,2,0,0,2,1,534
-2025-10-18,Pacific Tigers,Portland,Away,Loss,1,4,NA,1,1,1,9,4,10,0,0,0,0,1,0,1,4,5,17,6,10,0,1,0,0,7,1,534
+2025-10-18,Pacific Tigers,Portland,Away,Loss,1,4,NA,1,1,2,9,4,10,0,0,0,0,1,0,1,4,6,17,6,10,0,1,0,0,7,1,534
 2025-08-29,Penn Quakers,Loyola Maryland,Home,Win,4,0,NA,1,4,4,18,10,7,0,1,0,0,4,1,1,0,0,6,3,11,0,1,0,0,2,0,540
 2025-09-05,Penn Quakers,Seton Hall,Away,Draw,0,0,NA,1,0,0,7,2,6,0,0,0,0,7,0,1,0,0,12,5,5,0,0,0,1,2,0,540
 2025-09-09,Penn Quakers,Delaware,Away,Loss,0,1,NA,1,0,0,10,5,5,0,0,0,0,2,0,1,1,0,11,3,7,0,0,0,0,6,1,540
@@ -1673,6 +1743,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Pittsburgh Panthers,Stanford,Away,Loss,0,2,NA,1,0,0,1,1,6,1,0,0,0,0,0,1,2,2,14,7,19,0,0,0,0,9,1,545
 2025-10-14,Pittsburgh Panthers,Denver,Home,Draw,0,0,NA,1,0,0,9,0,7,0,1,0,0,3,0,1,0,0,6,2,8,0,1,0,0,1,0,545
 2025-10-18,Pittsburgh Panthers,Syracuse,Home,Win,4,2,NA,1,4,5,21,10,10,0,1,1,1,6,1,1,2,3,11,5,15,0,1,0,0,5,0,545
+2025-10-24,Pittsburgh Panthers,Wake Forest,Home,Draw,1,1,NA,1,1,0,15,7,12,1,2,0,1,3,0,1,1,1,9,3,15,0,1,0,0,4,0,545
 2025-08-22,Portland Pilots,Central Ark.,Home,Win,3,0,NA,1,3,1,20,10,18,0,3,0,0,8,1,1,0,0,1,1,10,0,2,0,0,1,0,551
 2025-08-25,Portland Pilots,Lewis & Clark,Home,Win,9,0,NA,1,9,13,30,15,6,0,0,0,0,8,1,1,0,0,0,0,7,0,1,0,0,0,0,551
 2025-08-29,Portland Pilots,Siena,Home,Win,4,0,NA,1,4,5,16,7,12,0,2,0,0,7,1,1,0,0,8,2,11,0,1,0,0,4,0,551
@@ -1685,7 +1756,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Portland Pilots,LMU (CA),Away,Draw,1,1,NA,1,1,2,11,6,14,0,1,0,0,7,0,1,1,1,13,4,10,0,2,0,0,6,0,551
 2025-10-10,Portland Pilots,San Diego,Home,Win,2,1,NA,1,2,2,8,5,18,0,3,0,0,0,1,1,1,1,15,2,12,0,4,0,0,9,0,551
 2025-10-15,Portland Pilots,Oregon St.,Away,Draw,1,1,NA,1,1,2,8,4,17,0,2,0,0,5,0,1,1,2,14,5,14,0,2,0,0,6,0,551
-2025-10-18,Portland Pilots,Pacific,Home,Win,4,1,NA,1,4,5,17,6,10,0,1,0,0,7,1,1,1,1,9,4,10,0,0,0,0,1,0,551
+2025-10-18,Portland Pilots,Pacific,Home,Win,4,1,NA,1,4,6,17,6,10,0,1,0,0,7,1,1,1,2,9,4,10,0,0,0,0,1,0,551
 2025-08-21,Presbyterian Blue Hose,St. Thomas (MN),Away,Draw,0,0,NA,1,0,0,6,4,11,0,1,0,0,6,0,1,0,0,12,4,15,0,4,0,0,3,0,1320
 2025-08-24,Presbyterian Blue Hose,Mount Olive,Home,Win,1,0,NA,1,1,0,19,7,10,0,0,1,1,8,1,1,0,0,1,1,7,0,0,0,0,2,0,1320
 2025-08-28,Presbyterian Blue Hose,Stetson,Away,Loss,0,3,NA,1,0,0,5,2,11,0,1,0,0,4,0,1,3,4,15,6,7,0,1,0,0,5,1,1320
@@ -1701,6 +1772,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Presbyterian Blue Hose,Winthrop,Home,Win,1,0,NA,1,1,0,10,5,10,0,2,1,1,3,1,1,0,0,9,5,12,0,2,0,0,6,0,1320
 2025-10-14,Presbyterian Blue Hose,Queens (NC),Home,Draw,1,1,NA,1,1,1,12,4,10,0,2,0,0,5,0,1,1,0,5,5,6,0,0,0,0,3,0,1320
 2025-10-18,Presbyterian Blue Hose,UNC Asheville,Away,Draw,0,0,NA,1,0,0,7,1,7,0,0,0,0,2,0,1,0,0,8,4,9,0,2,0,0,8,0,1320
+2025-10-21,Presbyterian Blue Hose,Davidson,Away,Loss,0,2,NA,1,0,0,7,1,6,0,0,0,0,4,0,1,2,1,17,5,12,0,0,0,0,6,1,1320
 2025-09-05,Princeton Tigers,Rutgers,Home,Win,3,1,NA,1,3,3,13,7,14,0,3,0,0,7,1,1,1,1,12,5,7,0,2,0,0,6,0,554
 2025-09-10,Princeton Tigers,Hofstra,Home,Loss,0,1,NA,1,0,0,7,0,17,0,2,0,0,4,0,1,1,0,5,3,16,0,5,1,1,8,1,554
 2025-09-13,Princeton Tigers,Villanova,Away,Win,3,0,NA,1,3,4,24,7,16,0,2,0,0,6,1,1,0,0,6,2,8,0,0,0,1,5,0,554
@@ -1713,6 +1785,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Princeton Tigers,Cornell,Away,Win,2,0,NA,1,2,2,19,3,15,0,2,0,0,5,1,1,0,0,13,7,10,0,3,0,0,4,0,554
 2025-10-14,Princeton Tigers,James Madison,Away,Draw,1,1,NA,1,1,1,23,9,12,0,1,0,0,17,0,1,1,2,9,6,12,1,2,0,0,3,0,554
 2025-10-18,Princeton Tigers,Columbia,Home,Win,2,0,NA,1,2,1,22,10,14,0,0,1,1,13,1,1,0,0,7,0,10,1,1,0,0,4,0,554
+2025-10-21,Princeton Tigers,Bryant,Home,Draw,0,0,NA,1,0,0,14,2,12,0,1,0,0,4,0,1,0,0,4,3,15,0,0,0,0,5,0,554
 2025-08-21,Providence Friars,Rutgers,Away,Loss,0,1,NA,1,0,0,5,1,14,0,6,0,0,2,0,1,1,0,15,7,18,0,3,1,1,7,1,556
 2025-08-25,Providence Friars,New Haven,Home,Loss,0,1,NA,1,0,0,21,6,4,0,1,0,0,9,0,1,1,2,5,4,15,0,3,0,0,1,1,556
 2025-08-29,Providence Friars,Boston College,Home,Win,2,0,NA,1,2,2,16,5,10,0,4,0,0,4,1,1,0,0,7,1,13,0,3,0,0,0,0,556
@@ -1751,6 +1824,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Queens (NC) Royals,Bellarmine,Away,Loss,1,2,NA,1,1,0,10,4,13,0,3,0,0,1,0,1,2,1,16,6,12,0,2,0,0,4,1,11504
 2025-10-14,Queens (NC) Royals,Presbyterian,Away,Draw,1,1,NA,1,1,0,5,5,6,0,0,0,0,3,0,1,1,1,12,4,10,0,2,0,0,5,0,11504
 2025-10-18,Queens (NC) Royals,Lipscomb,Home,Draw,1,1,NA,1,1,0,9,2,12,0,0,0,0,4,0,1,1,0,8,3,9,0,4,0,0,6,0,11504
+2025-10-21,Queens (NC) Royals,Duke,Away,Draw,0,0,NA,1,0,0,4,1,15,0,2,0,0,2,0,1,0,0,31,10,13,0,1,0,0,22,0,11504
 2025-08-21,Quinnipiac Bobcats,Pittsburgh,Away,Loss,0,1,NA,1,0,0,5,2,12,0,0,0,0,4,0,1,1,2,11,3,16,0,0,0,0,9,1,562
 2025-08-28,Quinnipiac Bobcats,Massachusetts,Away,Loss,2,5,NA,1,2,1,8,4,15,0,2,1,1,3,0,1,5,4,18,10,26,0,3,1,1,5,1,562
 2025-09-02,Quinnipiac Bobcats,Stony Brook,Away,Loss,0,3,NA,1,0,0,9,1,12,0,2,0,0,2,0,1,3,5,23,10,21,0,1,0,0,9,1,562
@@ -1777,6 +1851,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Radford Highlanders,Winthrop,Away,Loss,1,3,NA,1,1,0,14,4,11,0,3,0,0,11,0,1,3,3,10,5,15,0,1,0,0,6,1,563
 2025-10-11,Radford Highlanders,Gardner-Webb,Home,Draw,0,0,NA,1,0,0,2,1,8,0,1,0,0,3,0,1,0,0,17,8,8,0,0,0,0,8,0,563
 2025-10-18,Radford Highlanders,High Point,Home,Loss,0,2,NA,1,0,0,7,2,11,0,2,0,0,2,0,1,2,4,18,9,5,0,0,0,0,6,1,563
+2025-10-22,Radford Highlanders,California,Home,Loss,1,6,NA,1,1,1,6,4,14,0,1,0,0,4,0,1,6,5,28,18,7,0,1,0,0,8,1,563
 2025-08-21,Rhode Island Rams,Iona,Home,Draw,2,2,NA,1,2,2,14,6,14,0,2,0,0,5,0,1,2,1,10,4,13,0,1,0,0,2,0,572
 2025-08-26,Rhode Island Rams,Bryant,Away,Loss,1,2,NA,1,1,1,5,1,18,0,2,0,0,2,0,1,2,1,13,6,7,0,1,0,0,4,1,572
 2025-09-01,Rhode Island Rams,Providence,Home,Loss,1,3,NA,1,1,1,9,3,17,0,4,0,0,0,0,1,3,2,20,9,11,0,1,0,0,9,1,572
@@ -1806,6 +1881,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Rider Broncs,Fairfield,Home,Draw,1,1,NA,1,1,1,8,5,10,0,2,0,0,4,0,1,1,1,19,5,15,0,0,0,0,8,0,576
 2025-10-15,Rider Broncs,Saint Peter's,Away,Loss,0,1,NA,1,0,0,11,4,12,0,1,0,0,0,0,1,1,1,17,10,15,0,2,0,0,10,1,576
 2025-10-18,Rider Broncs,Iona,Home,Loss,0,3,NA,1,0,0,13,4,11,0,2,0,0,3,0,1,3,3,12,5,14,0,3,0,0,6,1,576
+2025-10-24,Rider Broncs,Marist,Away,Loss,1,3,NA,1,1,1,6,3,17,0,2,0,0,4,0,1,3,3,21,10,15,0,0,0,0,2,1,576
 2025-08-21,Robert Morris Colonials,Mercyhurst,Away,Draw,0,0,NA,1,0,0,7,3,18,0,1,0,0,5,0,1,0,0,9,3,11,0,2,0,0,2,0,579
 2025-08-24,Robert Morris Colonials,Duquesne,Away,Draw,2,2,NA,1,2,2,8,3,17,0,2,0,0,1,0,1,2,2,20,7,8,0,1,0,0,5,0,579
 2025-09-01,Robert Morris Colonials,Mount St. Mary's,Home,Win,1,0,NA,1,1,2,21,13,15,0,4,0,0,9,1,1,0,0,10,3,11,0,2,0,0,2,0,579
@@ -1832,6 +1908,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,Rutgers Scarlet Knights,Wisconsin,Home,Win,4,2,NA,1,4,3,9,4,9,0,1,0,0,5,1,1,2,4,11,6,12,1,0,0,0,6,0,587
 2025-10-14,Rutgers Scarlet Knights,Maryland,Away,Loss,0,2,NA,1,0,0,12,5,8,0,1,0,0,3,0,1,2,4,14,6,6,0,2,0,0,4,1,587
 2025-10-17,Rutgers Scarlet Knights,Washington,Home,Loss,0,2,NA,1,0,0,13,5,13,0,0,0,1,6,0,1,2,4,13,5,10,0,3,0,0,3,1,587
+2025-10-24,Rutgers Scarlet Knights,UCLA,Away,Loss,2,5,NA,1,2,1,19,6,7,0,0,0,0,10,0,1,5,8,15,6,14,0,0,0,0,5,1,587
 2025-08-21,Sacramento St. Hornets,Stanford,Away,Loss,1,5,NA,1,1,0,6,2,10,0,2,1,1,4,0,1,5,5,25,9,15,0,2,0,0,5,1,102
 2025-08-24,Sacramento St. Hornets,Utah Tech,Home,Draw,1,1,NA,1,1,1,12,6,6,0,2,0,0,4,0,1,1,2,15,4,9,0,3,0,0,2,0,102
 2025-08-28,Sacramento St. Hornets,Grand Canyon,Away,Loss,1,2,NA,1,1,1,12,5,12,0,1,0,0,1,0,1,2,1,19,7,10,1,4,1,1,6,1,102
@@ -1847,6 +1924,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Sacramento St. Hornets,UC Riverside,Away,Loss,0,3,NA,1,0,0,8,4,8,0,2,0,0,2,0,1,3,5,13,8,15,0,3,0,0,4,1,102
 2025-10-15,Sacramento St. Hornets,Cal Poly,Home,Draw,1,1,NA,1,1,1,6,5,14,0,5,0,0,3,0,1,1,2,12,5,8,0,2,0,0,0,0,102
 2025-10-18,Sacramento St. Hornets,UC Irvine,Home,Loss,0,3,NA,1,0,0,12,1,12,0,0,0,0,6,0,1,3,3,11,3,14,0,1,1,1,2,1,102
+2025-10-22,Sacramento St. Hornets,UC Santa Barbara,Away,Loss,0,2,NA,1,0,0,14,4,7,0,0,0,0,3,0,1,2,1,25,11,16,0,0,0,0,6,1,102
 2025-08-21,Sacred Heart Pioneers,Vermont,Away,Loss,0,2,NA,1,0,0,5,4,14,0,0,0,0,6,0,1,2,1,10,3,10,0,2,0,0,8,1,590
 2025-08-25,Sacred Heart Pioneers,Stony Brook,Away,Loss,1,2,NA,1,1,2,16,5,19,0,5,0,0,7,0,1,2,3,15,5,10,0,4,0,0,9,1,590
 2025-08-29,Sacred Heart Pioneers,Yale,Home,Win,3,1,NA,1,3,1,12,7,11,0,0,0,0,9,1,1,1,1,8,4,9,0,3,0,0,1,0,590
@@ -1860,19 +1938,19 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Sacred Heart Pioneers,Siena,Away,Draw,1,1,NA,1,1,0,12,5,7,0,2,0,0,8,0,1,1,2,14,4,13,0,1,0,0,6,0,590
 2025-10-15,Sacred Heart Pioneers,Marist,Away,Win,3,0,NA,1,3,3,11,4,8,0,5,0,0,1,1,1,0,0,9,3,6,1,3,0,0,13,0,590
 2025-10-18,Sacred Heart Pioneers,Canisius,Home,Win,4,1,NA,1,4,4,23,10,10,0,9,0,0,4,1,1,1,1,7,4,15,0,1,0,0,1,0,590
-2025-08-21,RPI Ranking - 170,Xavier,Away,Loss,0,3,NA,1,0,0,7,4,12,0,4,0,0,5,0,1,3,1,18,9,19,0,1,2,3,3,1,600
-2025-08-28,RPI Ranking - 170,St. Bonaventure,Home,Loss,0,1,NA,1,0,0,8,3,10,0,2,0,0,4,0,1,1,2,6,3,15,1,3,0,0,5,1,600
-2025-09-01,RPI Ranking - 170,Maryland,Away,Loss,0,6,NA,1,0,0,2,2,7,0,1,0,0,1,0,1,6,11,30,14,11,0,0,0,0,6,1,600
-2025-09-04,RPI Ranking - 170,Robert Morris,Home,Loss,0,2,NA,1,0,0,4,2,10,0,4,0,0,4,0,1,2,3,8,4,16,0,1,0,0,4,1,600
-2025-09-09,RPI Ranking - 170,Loyola Maryland,Away,Draw,3,3,NA,1,3,4,10,6,11,0,3,0,1,4,0,1,3,4,8,4,14,1,2,0,0,6,0,600
-2025-09-17,RPI Ranking - 170,Duquesne,Away,Loss,0,2,NA,1,0,0,2,0,12,0,2,0,0,0,0,1,2,3,11,4,14,0,1,0,0,5,1,600
-2025-09-23,RPI Ranking - 170,Bucknell,Home,Loss,2,4,NA,1,2,1,6,3,5,0,3,0,0,3,0,1,4,6,13,10,6,0,2,0,0,7,1,600
-2025-09-28,RPI Ranking - 170,Le Moyne,Away,Win,2,1,NA,1,2,3,12,7,17,0,1,0,0,4,1,1,1,1,10,3,10,0,3,0,0,1,0,600
-2025-10-02,RPI Ranking - 170,Mercyhurst,Home,Win,1,0,NA,1,1,2,5,4,12,0,4,0,0,3,1,1,0,0,6,4,12,0,1,0,0,3,0,600
-2025-10-05,RPI Ranking - 170,LIU,Home,Win,4,3,NA,1,4,3,11,6,12,0,6,0,0,3,1,1,3,2,6,5,9,0,1,0,0,7,0,600
-2025-10-09,RPI Ranking - 170,Chicago St.,Away,Win,2,0,NA,1,2,1,15,6,13,0,2,1,1,5,1,1,0,0,2,1,12,1,3,0,0,2,0,600
-2025-10-16,RPI Ranking - 170,New Haven,Home,Win,5,1,NA,1,5,3,10,7,11,0,0,1,1,6,1,1,1,0,11,8,11,0,1,0,0,6,0,600
-2025-10-19,RPI Ranking - 170,Howard,Away,Loss,0,1,NA,1,0,0,17,5,7,0,2,0,0,4,0,1,1,1,7,3,9,0,1,0,0,1,1,600
+2025-08-21,RPI Ranking - 165,Xavier,Away,Loss,0,3,NA,1,0,0,7,4,12,0,4,0,0,5,0,1,3,1,18,9,19,0,1,2,3,3,1,600
+2025-08-28,RPI Ranking - 165,St. Bonaventure,Home,Loss,0,1,NA,1,0,0,8,3,10,0,2,0,0,4,0,1,1,2,6,3,15,1,3,0,0,5,1,600
+2025-09-01,RPI Ranking - 165,Maryland,Away,Loss,0,6,NA,1,0,0,2,2,7,0,1,0,0,1,0,1,6,11,30,14,11,0,0,0,0,6,1,600
+2025-09-04,RPI Ranking - 165,Robert Morris,Home,Loss,0,2,NA,1,0,0,4,2,10,0,4,0,0,4,0,1,2,3,8,4,16,0,1,0,0,4,1,600
+2025-09-09,RPI Ranking - 165,Loyola Maryland,Away,Draw,3,3,NA,1,3,4,10,6,11,0,3,0,1,4,0,1,3,4,8,4,14,1,2,0,0,6,0,600
+2025-09-17,RPI Ranking - 165,Duquesne,Away,Loss,0,2,NA,1,0,0,2,0,12,0,2,0,0,0,0,1,2,3,11,4,14,0,1,0,0,5,1,600
+2025-09-23,RPI Ranking - 165,Bucknell,Home,Loss,2,4,NA,1,2,1,6,3,5,0,3,0,0,3,0,1,4,6,13,10,6,0,2,0,0,7,1,600
+2025-09-28,RPI Ranking - 165,Le Moyne,Away,Win,2,1,NA,1,2,3,12,7,17,0,1,0,0,4,1,1,1,1,10,3,10,0,3,0,0,1,0,600
+2025-10-02,RPI Ranking - 165,Mercyhurst,Home,Win,1,0,NA,1,1,2,5,4,12,0,4,0,0,3,1,1,0,0,6,4,12,0,1,0,0,3,0,600
+2025-10-05,RPI Ranking - 165,LIU,Home,Win,4,3,NA,1,4,3,11,6,12,0,6,0,0,3,1,1,3,2,6,5,9,0,1,0,0,7,0,600
+2025-10-09,RPI Ranking - 165,Chicago St.,Away,Win,2,0,NA,1,2,1,15,6,13,0,2,1,1,5,1,1,0,0,2,1,12,1,3,0,0,2,0,600
+2025-10-16,RPI Ranking - 165,New Haven,Home,Win,5,1,NA,1,5,3,10,7,11,0,0,1,1,6,1,1,1,0,11,8,11,0,1,0,0,6,0,600
+2025-10-19,RPI Ranking - 165,Howard,Away,Loss,0,1,NA,1,0,0,17,5,7,0,2,0,0,4,0,1,1,1,7,3,9,0,1,0,0,1,1,600
 2025-08-21,Saint Joseph's Hawks,Merrimack,Away,Win,1,0,NA,1,1,1,11,5,16,0,3,0,0,4,1,1,0,0,5,1,14,0,1,0,0,8,0,606
 2025-08-23,Saint Joseph's Hawks,VMI,Home,Draw,2,2,NA,1,2,2,13,4,12,0,1,1,1,3,0,1,2,1,5,2,17,0,3,0,0,4,0,606
 2025-09-01,Saint Joseph's Hawks,Villanova,Away,Loss,0,1,NA,1,0,0,9,3,14,0,2,0,0,2,0,1,1,2,16,3,15,0,2,0,0,3,1,606
@@ -1887,6 +1965,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Saint Joseph's Hawks,George Washington,Home,Win,1,0,NA,1,1,1,16,7,12,0,1,0,0,5,1,1,0,0,8,4,20,0,0,0,0,3,0,606
 2025-10-14,Saint Joseph's Hawks,Lehigh,Away,Loss,2,3,NA,1,2,1,11,8,13,0,0,0,0,4,0,1,3,4,10,8,6,0,0,1,1,6,1,606
 2025-10-18,Saint Joseph's Hawks,Rhode Island,Home,Win,2,1,NA,1,2,3,10,4,18,0,3,0,0,5,1,1,1,1,17,7,20,1,2,0,0,4,0,606
+2025-10-21,Saint Joseph's Hawks,Bucknell,Home,Loss,0,2,NA,1,0,0,9,4,7,0,0,0,0,4,0,1,2,3,8,4,13,0,3,0,0,4,1,606
 2025-08-21,Saint Louis Billikens,South Fla.,Home,Draw,0,0,NA,1,0,0,9,4,10,0,2,0,0,8,0,1,0,0,3,1,17,0,0,0,0,2,0,609
 2025-08-24,Saint Louis Billikens,SMU,Home,Win,1,0,NA,1,1,0,7,2,10,0,2,0,0,5,1,1,0,0,14,5,19,0,2,0,0,5,0,609
 2025-08-30,Saint Louis Billikens,Seton Hall,Home,Win,1,0,NA,1,1,2,10,3,12,0,1,0,0,5,1,1,0,0,4,1,17,1,3,0,0,4,0,609
@@ -1953,6 +2032,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,San Diego St. Aztecs,Grand Canyon,Home,Loss,0,1,NA,1,0,0,11,2,20,0,2,0,1,4,0,1,1,2,8,3,11,0,3,0,0,3,1,626
 2025-10-12,San Diego St. Aztecs,UNLV,Home,Draw,1,1,NA,1,1,0,15,9,8,0,5,1,1,2,0,1,1,1,9,1,18,0,4,0,0,5,0,626
 2025-10-18,San Diego St. Aztecs,Utah Tech,Home,Win,2,1,NA,1,2,4,12,3,18,0,1,0,0,5,1,1,1,1,16,6,17,0,3,0,0,4,0,626
+2025-10-23,San Diego St. Aztecs,San Jose St.,Away,Draw,2,2,NA,1,2,1,4,2,19,0,3,1,1,3,0,1,2,0,16,5,11,2,4,0,0,3,0,626
 2025-08-21,San Francisco Dons,UC Davis,Home,Win,1,0,NA,1,1,2,12,6,10,0,2,0,0,8,1,1,0,0,7,2,15,0,1,0,0,5,0,629
 2025-08-24,San Francisco Dons,Indiana,Away,Loss,2,3,NA,1,2,2,10,4,16,0,3,1,1,6,0,1,3,3,11,6,7,0,1,0,0,10,1,629
 2025-08-28,San Francisco Dons,California,Away,Win,2,1,NA,1,2,2,7,3,24,0,2,0,0,0,1,1,1,0,8,3,12,0,1,1,1,6,0,629
@@ -1965,6 +2045,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,San Francisco Dons,Gonzaga,Home,Win,1,0,NA,1,1,1,16,8,14,0,3,0,0,5,1,1,0,0,10,3,12,0,2,0,0,5,0,629
 2025-10-15,San Francisco Dons,Pacific,Away,Win,3,2,NA,1,3,3,13,7,11,0,2,0,0,2,1,1,2,2,6,3,14,0,1,0,0,4,0,629
 2025-10-19,San Francisco Dons,Santa Clara,Away,Win,2,0,NA,1,2,1,13,6,11,0,1,0,0,9,1,1,0,0,9,3,11,0,3,0,0,0,0,629
+2025-10-22,San Francisco Dons,Stanford,Away,Loss,0,1,NA,1,0,0,5,1,15,0,1,0,0,4,0,1,1,1,21,8,13,0,2,0,0,5,1,629
 2025-08-21,San Jose St. Spartans,Cal Poly,Home,Win,2,0,NA,1,2,3,6,2,8,0,3,0,0,3,1,1,0,0,6,5,15,0,2,0,0,5,0,630
 2025-08-24,San Jose St. Spartans,Saint Mary's (CA),Away,Win,2,1,NA,1,2,3,17,4,8,0,3,0,0,6,1,1,1,1,11,4,14,0,2,0,0,3,0,630
 2025-08-29,San Jose St. Spartans,CSU Bakersfield,Away,Win,2,0,NA,1,2,3,14,6,11,0,1,0,0,3,1,1,0,0,13,3,15,0,1,0,0,5,0,630
@@ -1979,6 +2060,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,San Jose St. Spartans,Utah Tech,Away,Loss,1,3,NA,1,1,0,18,7,6,0,0,0,0,3,0,1,3,4,6,4,11,0,0,0,0,3,1,630
 2025-10-11,San Jose St. Spartans,Utah Valley,Away,Loss,1,2,NA,1,1,1,13,2,14,1,2,0,0,1,0,1,2,2,8,3,18,1,4,0,0,6,1,630
 2025-10-18,San Jose St. Spartans,Grand Canyon,Away,Draw,1,1,NA,1,1,1,13,4,11,0,2,0,0,5,0,1,1,1,10,4,9,0,4,0,0,1,0,630
+2025-10-23,San Jose St. Spartans,San Diego St.,Home,Draw,2,2,NA,1,2,0,16,5,11,2,4,0,0,3,0,1,2,1,4,2,19,0,3,1,1,3,0,630
 2025-08-21,Santa Clara Broncos,Cleveland St.,Away,Draw,1,1,NA,1,1,1,13,2,15,0,2,0,0,3,0,1,1,1,6,2,7,0,4,0,0,3,0,631
 2025-08-24,Santa Clara Broncos,UC Davis,Home,Draw,1,1,NA,1,1,2,9,4,6,0,2,0,0,9,0,1,1,0,5,4,17,0,0,0,0,7,0,631
 2025-08-28,Santa Clara Broncos,Stanford,Home,Loss,1,2,NA,1,1,2,9,5,12,0,0,0,0,3,0,1,2,2,17,7,12,0,1,0,0,6,1,631
@@ -2019,6 +2101,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Seton Hall Pirates,FIU,Home,Win,5,0,NA,1,5,6,10,7,9,0,1,0,0,3,1,1,0,0,8,6,14,0,2,0,0,5,0,635
 2025-10-11,Seton Hall Pirates,Villanova,Away,Draw,1,1,NA,1,1,1,13,4,12,0,4,0,0,11,0,1,1,2,10,3,8,0,3,0,0,5,0,635
 2025-10-17,Seton Hall Pirates,Akron,Home,Draw,1,1,NA,1,1,0,8,2,7,0,2,0,0,3,0,1,1,2,11,3,15,0,1,0,0,7,0,635
+2025-10-21,Seton Hall Pirates,Lehigh,Away,Win,5,1,NA,1,5,5,20,9,6,0,0,0,0,3,1,1,1,1,15,6,4,0,0,0,0,3,0,635
 2025-08-21,Siena Saints,Massachusetts,Away,Loss,2,3,NA,1,2,2,6,3,10,0,0,0,0,5,0,1,3,4,17,11,12,0,0,0,0,7,1,639
 2025-08-25,Siena Saints,Boston College,Away,Win,3,1,NA,1,3,3,17,7,5,0,1,0,0,2,1,1,1,1,12,3,8,0,0,0,0,4,0,639
 2025-08-29,Siena Saints,Portland,Away,Loss,0,4,NA,1,0,0,8,2,11,0,1,0,0,4,0,1,4,5,16,7,12,0,2,0,0,7,1,639
@@ -2073,6 +2156,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,South Carolina Gamecocks,UCF,Home,Loss,0,2,NA,1,0,0,9,5,9,0,0,0,0,2,0,1,2,2,15,5,6,0,0,0,0,5,1,648
 2025-10-10,South Carolina Gamecocks,Old Dominion,Home,Draw,1,1,NA,1,1,0,9,4,9,0,2,0,0,7,0,1,1,1,11,5,11,0,3,0,0,8,0,648
 2025-10-19,South Carolina Gamecocks,Kentucky,Away,Loss,1,2,NA,1,1,0,5,3,9,0,2,1,1,2,0,1,2,1,21,11,9,0,3,1,1,14,1,648
+2025-10-22,South Carolina Gamecocks,Marshall,Away,Loss,0,4,NA,1,0,0,2,1,11,0,1,0,0,4,0,1,4,2,14,5,13,0,4,0,0,8,1,648
 2025-08-21,South Fla. Bulls,Saint Louis,Away,Draw,0,0,NA,1,0,0,3,1,17,0,0,0,0,2,0,1,0,0,9,4,10,0,2,0,0,8,0,651
 2025-08-24,South Fla. Bulls,Lipscomb,Away,Win,4,1,NA,1,4,3,20,9,12,0,3,0,0,4,1,1,1,0,4,2,6,1,1,0,0,1,0,651
 2025-08-28,South Fla. Bulls,UNC Greensboro,Home,Draw,1,1,NA,1,1,1,7,3,10,0,1,0,0,3,0,1,1,1,9,5,9,0,2,0,0,3,0,651
@@ -2086,6 +2170,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,South Fla. Bulls,Stetson,Home,Win,3,2,NA,1,3,3,8,6,13,0,2,0,0,4,1,1,2,1,6,3,17,0,4,0,0,6,0,651
 2025-10-12,South Fla. Bulls,FIU,Away,Win,2,1,NA,1,2,2,15,5,14,0,5,0,0,7,1,1,1,1,16,7,15,0,3,0,0,2,0,651
 2025-10-17,South Fla. Bulls,Missouri St.,Home,Loss,1,3,NA,1,1,0,11,2,15,0,2,1,1,7,0,1,3,3,9,5,8,0,1,0,0,3,1,651
+2025-10-24,South Fla. Bulls,Temple,Away,Win,2,1,NA,1,2,1,14,7,5,0,2,1,1,4,1,1,1,1,6,3,10,0,3,0,0,2,0,651
 2025-08-21,Southern Ind. Screaming Eagles,Louisville,Away,Loss,0,6,NA,1,0,0,0,0,11,1,2,0,0,0,0,1,6,9,36,19,12,0,0,0,0,13,1,661
 2025-08-26,Southern Ind. Screaming Eagles,Rose-Hulman,Home,Win,1,0,NA,1,1,2,10,6,12,0,0,0,0,9,1,1,0,0,5,2,11,0,1,0,0,3,0,661
 2025-09-01,Southern Ind. Screaming Eagles,Green Bay,Home,Loss,0,1,NA,1,0,0,10,5,11,0,4,0,1,2,0,1,1,1,10,3,6,0,2,0,0,4,1,661
@@ -2126,6 +2211,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-03,St. John's (NY) Red Storm,Akron,Away,Win,2,1,NA,1,2,3,10,5,9,0,1,0,0,4,1,1,1,2,11,3,16,0,2,0,0,6,0,603
 2025-10-11,St. John's (NY) Red Storm,Providence,Home,Win,3,2,NA,1,3,3,10,4,14,0,1,0,0,5,1,1,2,2,9,5,16,0,1,0,0,7,0,603
 2025-10-17,St. John's (NY) Red Storm,UConn,Away,Loss,0,1,NA,1,0,0,10,5,12,0,0,0,0,2,0,1,1,1,8,3,13,0,1,0,0,3,1,603
+2025-10-21,St. John's (NY) Red Storm,Monmouth,Away,Win,1,0,NA,1,1,0,17,5,14,0,1,0,0,4,1,1,0,0,3,0,3,0,2,0,0,1,0,603
 2025-08-21,St. Thomas (MN) Tommies,Presbyterian,Home,Draw,0,0,NA,1,0,0,12,4,15,0,4,0,0,3,0,1,0,0,6,4,11,0,1,0,0,6,0,620
 2025-08-24,St. Thomas (MN) Tommies,Chicago St.,Away,Win,4,0,NA,1,4,3,15,9,14,0,1,1,1,4,1,1,0,0,8,2,8,0,2,0,0,2,0,620
 2025-08-28,St. Thomas (MN) Tommies,Utah Tech,Home,Win,2,1,NA,1,2,1,12,6,9,0,1,0,0,6,1,1,1,1,6,3,17,1,2,0,0,3,0,620
@@ -2139,6 +2225,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,St. Thomas (MN) Tommies,Oral Roberts,Home,Win,2,1,NA,1,2,1,6,4,10,0,0,0,0,3,1,1,1,0,11,6,14,0,0,0,0,7,0,620
 2025-10-11,St. Thomas (MN) Tommies,North Carolina,Away,Loss,0,4,NA,1,0,0,4,2,6,0,2,0,0,0,0,1,4,7,17,8,10,0,0,0,0,6,1,620
 2025-10-18,St. Thomas (MN) Tommies,Kansas City,Away,Loss,1,3,NA,1,1,1,8,3,10,0,1,0,0,4,0,1,3,3,5,3,12,0,2,0,0,4,1,620
+2025-10-21,St. Thomas (MN) Tommies,Green Bay,Away,Win,2,1,NA,1,2,1,9,6,13,1,3,0,0,3,1,1,1,2,12,3,13,1,0,0,0,5,0,620
 2025-08-21,Stanford Cardinal,Sacramento St.,Home,Win,5,1,NA,1,5,5,25,9,15,0,2,0,0,5,1,1,1,0,6,2,10,0,2,1,1,4,0,674
 2025-08-24,Stanford Cardinal,Denver,Home,Win,2,1,NA,1,2,1,23,7,15,0,2,0,0,5,1,1,1,1,7,3,6,0,1,0,1,2,0,674
 2025-08-28,Stanford Cardinal,Santa Clara,Away,Win,2,1,NA,1,2,2,17,7,12,0,1,0,0,6,1,1,1,2,9,5,12,0,0,0,0,3,0,674
@@ -2152,6 +2239,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-09-28,Stanford Cardinal,Boston College,Home,Win,3,0,NA,1,3,3,24,12,15,0,1,0,0,8,1,1,0,0,4,1,12,0,3,0,0,0,0,674
 2025-10-04,Stanford Cardinal,Wake Forest,Away,Win,2,0,NA,1,2,2,21,8,9,0,2,0,0,2,1,1,0,0,10,2,13,0,5,0,0,8,0,674
 2025-10-11,Stanford Cardinal,Pittsburgh,Home,Win,2,0,NA,1,2,2,14,7,19,0,0,0,0,9,1,1,0,0,1,1,6,1,0,0,0,0,0,674
+2025-10-22,Stanford Cardinal,San Francisco,Home,Win,1,0,NA,1,1,1,21,8,13,0,2,0,0,5,1,1,0,0,5,1,15,0,1,0,0,4,0,674
 2025-08-21,Stetson Hatters,Penn St.,Away,Loss,0,2,NA,1,0,0,4,0,21,0,4,0,0,4,0,1,2,1,17,7,11,0,1,0,0,8,1,678
 2025-08-24,Stetson Hatters,Virginia,Away,Loss,0,1,NA,1,0,0,8,1,12,0,0,0,0,3,0,1,1,2,10,4,9,0,0,0,0,8,1,678
 2025-08-28,Stetson Hatters,Presbyterian,Home,Win,3,0,NA,1,3,4,15,6,7,0,1,0,0,5,1,1,0,0,5,2,11,0,1,0,0,4,0,678
@@ -2177,6 +2265,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,Stonehill Skyhawks,New Haven,Home,Win,1,0,NA,1,1,1,20,5,12,0,2,0,0,5,1,1,0,0,16,5,4,0,3,0,0,4,0,682
 2025-10-12,Stonehill Skyhawks,Mercyhurst,Away,Win,3,2,NA,1,3,3,9,6,17,0,4,0,0,2,1,1,2,2,11,2,9,0,2,0,0,5,0,682
 2025-10-19,Stonehill Skyhawks,FDU,Home,Loss,0,5,NA,1,0,0,9,3,6,0,2,0,0,3,0,1,5,4,15,7,8,0,3,0,0,3,1,682
+2025-10-22,Stonehill Skyhawks,Harvard,Home,Loss,2,4,NA,1,2,1,19,9,8,0,0,0,0,2,0,1,4,4,9,6,12,0,1,0,0,5,1,682
 2025-08-21,Stony Brook Seawolves,Marist,Home,Loss,0,1,NA,1,0,0,16,5,14,0,2,0,0,3,0,1,1,2,18,7,13,0,1,0,0,6,1,683
 2025-08-25,Stony Brook Seawolves,Sacred Heart,Home,Win,2,1,NA,1,2,3,15,5,10,0,4,0,0,9,1,1,1,2,16,5,19,0,5,0,0,7,0,683
 2025-08-30,Stony Brook Seawolves,Monmouth,Away,Draw,2,2,NA,1,2,3,8,5,15,0,2,0,0,2,0,1,2,4,16,5,13,0,1,0,0,7,0,683
@@ -2204,6 +2293,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-03,Syracuse Orange,Boston College,Home,Win,1,0,NA,1,1,2,15,6,22,0,0,0,0,6,1,1,0,0,18,5,17,0,1,0,0,7,0,688
 2025-10-11,Syracuse Orange,SMU,Home,Win,2,0,NA,1,2,2,6,2,17,0,4,0,0,5,1,1,0,0,10,1,15,0,2,0,0,2,0,688
 2025-10-18,Syracuse Orange,Pittsburgh,Away,Loss,2,4,NA,1,2,3,11,5,15,0,1,0,0,5,0,1,4,5,21,10,10,0,1,1,1,6,1,688
+2025-10-21,Syracuse Orange,Cornell,Away,Loss,1,2,NA,1,1,1,8,2,17,0,2,0,0,6,0,1,2,1,20,7,12,0,5,1,1,4,1,688
 2025-08-21,Temple Owls,St. John's (NY),Home,Loss,0,1,NA,1,0,0,6,1,13,0,1,0,0,6,0,1,1,0,14,5,17,0,1,0,0,2,1,690
 2025-08-24,Temple Owls,Delaware,Home,Loss,0,4,NA,1,0,0,9,5,4,0,1,0,0,6,0,1,4,2,13,10,8,0,0,0,0,5,1,690
 2025-08-28,Temple Owls,"Dayton Columbus, OH",Away,Draw,0,0,NA,1,0,0,2,0,18,0,1,0,0,3,0,1,0,0,15,6,11,0,1,0,0,9,0,690
@@ -2217,6 +2307,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Temple Owls,Penn,Home,Loss,0,1,NA,1,0,0,5,1,6,0,2,0,0,5,0,1,1,0,21,11,7,0,1,0,0,7,1,690
 2025-10-12,Temple Owls,Tulsa,Home,Loss,0,1,NA,1,0,0,12,3,12,0,2,0,0,9,0,1,1,1,20,7,5,0,3,0,1,12,1,690
 2025-10-18,Temple Owls,Memphis,Away,Loss,2,4,NA,1,2,2,7,4,15,0,5,1,1,3,0,1,4,3,17,9,17,0,2,1,1,3,1,690
+2025-10-24,Temple Owls,South Fla.,Home,Loss,1,2,NA,1,1,1,6,3,10,0,3,0,0,2,0,1,2,1,14,7,5,0,2,1,1,4,1,690
 2025-08-21,Tulsa Golden Hurricane,CSUN,Home,Draw,0,0,NA,1,0,0,11,7,13,0,0,0,0,5,0,1,0,0,4,2,8,0,2,0,0,3,0,719
 2025-08-24,Tulsa Golden Hurricane,Cal St. Fullerton,Home,Loss,0,1,NA,1,0,0,11,5,4,0,0,0,0,10,0,1,1,1,12,3,6,1,5,0,0,1,1,719
 2025-08-29,Tulsa Golden Hurricane,Central Ark.,Home,Win,1,0,NA,1,1,1,19,4,8,0,1,0,0,8,1,1,0,0,8,2,11,1,2,0,0,3,0,719
@@ -2230,6 +2321,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Tulsa Golden Hurricane,Oral Roberts,Away,Loss,0,1,NA,1,0,0,4,2,11,0,2,0,0,2,0,1,1,1,5,1,16,0,0,0,0,3,1,719
 2025-10-12,Tulsa Golden Hurricane,Temple,Away,Win,1,0,NA,1,1,1,20,7,5,0,3,0,1,12,1,1,0,0,12,3,12,0,2,0,0,9,0,719
 2025-10-18,Tulsa Golden Hurricane,FIU,Home,Win,3,2,NA,1,3,2,8,7,12,0,2,0,0,4,1,1,2,4,8,4,10,0,2,0,0,7,0,719
+2025-10-22,Tulsa Golden Hurricane,Kansas City,Home,Loss,0,2,NA,1,0,0,7,2,6,0,1,0,0,10,0,1,2,2,5,2,8,0,0,0,0,6,1,719
 2025-08-25,UAB Blazers,Louisville,Home,Loss,0,1,NA,1,0,0,8,1,7,0,0,0,0,4,0,1,1,1,11,5,11,0,2,0,0,7,1,9
 2025-08-29,UAB Blazers,Clemson,Away,Loss,0,6,NA,1,0,0,8,2,17,0,4,0,0,3,0,1,6,4,16,9,8,0,3,0,0,9,1,9
 2025-09-01,UAB Blazers,USC Upstate,Away,Win,3,1,NA,1,3,3,17,8,9,0,0,0,1,7,1,1,1,1,10,2,15,0,3,0,0,3,0,9
@@ -2242,6 +2334,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,UAB Blazers,Jacksonville,Home,Win,3,2,NA,1,3,6,10,6,10,0,1,0,0,6,1,1,2,1,17,6,13,0,3,0,0,5,0,9
 2025-10-12,UAB Blazers,Charlotte,Home,Loss,0,5,NA,1,0,0,8,4,16,0,3,0,0,3,0,1,5,4,14,8,11,0,3,0,0,6,1,9
 2025-10-15,UAB Blazers,North Carolina,Away,Win,2,1,NA,1,2,1,10,5,14,0,1,0,0,3,1,1,1,2,22,11,9,0,0,0,0,7,0,9
+2025-10-24,UAB Blazers,Fla. Atlantic,Away,Draw,3,3,NA,1,3,4,5,3,10,0,1,1,1,2,0,1,3,5,15,8,13,1,2,0,0,5,0,9
 2025-08-21,UAlbany Great Danes,FDU,Away,Draw,1,1,NA,1,1,1,10,5,16,0,1,0,0,6,0,1,1,1,8,5,9,0,2,0,0,0,0,14
 2025-08-28,UAlbany Great Danes,Central Conn. St.,Home,Win,1,0,NA,1,1,1,23,10,17,0,5,0,0,9,1,1,0,0,2,0,10,0,4,0,0,2,0,14
 2025-08-31,UAlbany Great Danes,LIU,Away,Loss,1,2,NA,1,1,1,9,3,11,0,2,0,0,5,0,1,2,1,7,2,13,0,1,0,0,0,1,14
@@ -2254,6 +2347,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,UAlbany Great Danes,New Hampshire,Away,Win,3,1,NA,1,3,4,7,5,15,0,3,0,0,1,1,1,1,2,13,4,4,0,1,0,0,4,0,14
 2025-10-10,UAlbany Great Danes,Bryant,Away,Loss,0,5,NA,1,0,0,3,2,12,0,0,0,0,2,0,1,5,5,16,7,5,0,1,0,0,7,1,14
 2025-10-17,UAlbany Great Danes,UMBC,Home,Win,2,0,NA,1,2,1,9,4,13,0,3,0,0,4,1,1,0,0,6,3,10,0,2,0,0,3,0,14
+2025-10-21,UAlbany Great Danes,Northeastern,Away,Draw,1,1,NA,1,1,1,11,5,11,0,1,0,0,2,0,1,1,1,10,6,9,0,2,0,0,2,0,14
 2025-08-21,UC Davis Aggies,San Francisco,Away,Loss,0,1,NA,1,0,0,7,2,15,0,1,0,0,5,0,1,1,2,12,6,10,0,2,0,0,8,1,108
 2025-08-24,UC Davis Aggies,Santa Clara,Away,Draw,1,1,NA,1,1,0,5,4,17,0,0,0,0,7,0,1,1,2,9,4,6,0,2,0,0,9,0,108
 2025-08-28,UC Davis Aggies,Washington,Away,Draw,1,1,NA,1,1,1,8,3,13,0,3,0,0,1,0,1,1,2,10,2,11,0,0,0,0,15,0,108
@@ -2268,6 +2362,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,UC Davis Aggies,CSUN,Home,Win,1,0,NA,1,1,2,19,7,13,0,1,0,0,8,1,1,0,0,17,2,7,0,1,0,0,4,0,108
 2025-10-15,UC Davis Aggies,CSU Bakersfield,Away,Loss,2,3,NA,1,2,0,23,11,7,0,1,2,2,5,0,1,3,2,13,3,14,0,4,1,1,6,1,108
 2025-10-18,UC Davis Aggies,UC Riverside,Home,Win,3,2,NA,1,3,3,13,4,12,0,2,0,0,6,1,1,2,2,20,7,5,0,3,0,0,8,0,108
+2025-10-22,UC Davis Aggies,UC Irvine,Away,Loss,1,2,NA,1,1,0,12,2,19,0,2,0,0,6,0,1,2,2,8,2,7,0,2,0,0,0,1,108
 2025-08-21,UC Irvine Anteaters,UCLA,Home,Win,2,0,NA,1,2,0,12,4,13,0,0,0,0,3,1,1,0,0,6,2,11,0,0,0,0,2,0,109
 2025-08-28,UC Irvine Anteaters,Cal State LA,Home,Win,4,0,NA,1,4,4,14,7,12,0,1,1,1,6,1,1,0,0,9,2,16,0,2,0,0,5,0,109
 2025-08-31,UC Irvine Anteaters,North Florida,Home,Win,3,0,NA,1,3,2,14,7,5,0,0,1,1,4,1,1,0,0,8,4,15,0,2,0,0,3,0,109
@@ -2283,6 +2378,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,UC Irvine Anteaters,Cal St. Fullerton,Away,Draw,1,1,NA,1,1,0,13,4,12,0,1,0,0,9,0,1,1,2,12,4,9,0,4,0,0,2,0,109
 2025-10-15,UC Irvine Anteaters,CSUN,Home,Win,1,0,NA,1,1,2,10,3,13,0,3,0,0,2,1,1,0,0,7,1,6,0,3,0,0,9,0,109
 2025-10-18,UC Irvine Anteaters,Sacramento St.,Away,Win,3,0,NA,1,3,3,11,3,14,0,1,1,1,2,1,1,0,0,12,1,12,0,0,0,0,6,0,109
+2025-10-22,UC Irvine Anteaters,UC Davis,Home,Win,2,1,NA,1,2,2,8,2,7,0,2,0,0,0,1,1,1,0,12,2,19,0,2,0,0,6,0,109
 2025-08-21,UC Riverside Highlanders,Michigan St.,Away,Loss,0,2,NA,1,0,0,7,2,10,0,3,0,0,3,0,1,2,0,12,6,9,0,1,0,0,8,1,111
 2025-08-24,UC Riverside Highlanders,Michigan,Away,Loss,0,2,NA,1,0,0,7,1,10,0,5,0,0,3,0,1,2,2,16,8,15,0,4,1,1,4,1,111
 2025-09-01,UC Riverside Highlanders,Air Force,Home,Draw,2,2,NA,1,2,3,21,4,9,0,2,0,0,5,0,1,2,1,8,4,9,0,1,0,0,2,0,111
@@ -2297,6 +2393,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,UC Riverside Highlanders,Sacramento St.,Home,Win,3,0,NA,1,3,5,13,8,15,0,3,0,0,4,1,1,0,0,8,4,8,0,2,0,0,2,0,111
 2025-10-15,UC Riverside Highlanders,Cal St. Fullerton,Away,Loss,1,2,NA,1,1,1,15,5,13,0,0,0,0,9,0,1,2,2,20,7,16,0,3,0,0,5,1,111
 2025-10-18,UC Riverside Highlanders,UC Davis,Away,Loss,2,3,NA,1,2,2,20,7,5,0,3,0,0,8,0,1,3,3,13,4,12,0,2,0,0,6,1,111
+2025-10-22,UC Riverside Highlanders,Cal Poly,Home,Loss,0,1,NA,1,0,0,10,4,10,0,2,0,0,2,0,1,1,0,11,3,9,0,2,0,0,5,1,111
 2025-08-21,UC San Diego Tritons,"Furman Durham, NC",Away,Loss,0,3,NA,1,0,0,5,1,4,0,0,0,0,4,0,1,3,4,23,8,16,0,2,0,0,7,1,112
 2025-08-24,UC San Diego Tritons,Duke,Away,Loss,0,1,NA,1,0,0,7,2,15,1,4,0,0,2,0,1,1,2,22,5,6,0,2,0,1,12,1,112
 2025-08-31,UC San Diego Tritons,California,Away,Draw,1,1,NA,1,1,1,4,1,16,0,1,0,0,4,0,1,1,1,15,9,9,0,1,0,0,8,0,112
@@ -2311,6 +2408,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,UC San Diego Tritons,Cal Poly,Away,Loss,0,4,NA,1,0,0,7,0,10,0,0,0,0,1,0,1,4,5,10,4,26,0,2,0,0,5,1,112
 2025-10-15,UC San Diego Tritons,UC Santa Barbara,Home,Draw,1,1,NA,1,1,1,17,4,9,0,0,0,0,5,0,1,1,0,11,3,8,1,1,0,0,1,0,112
 2025-10-18,UC San Diego Tritons,CSUN,Away,Draw,0,0,NA,1,0,0,13,4,17,0,3,0,0,4,0,1,0,0,15,6,13,0,2,0,0,4,0,112
+2025-10-22,UC San Diego Tritons,CSU Bakersfield,Home,Win,2,1,NA,1,2,0,10,7,16,0,3,0,0,4,1,1,1,1,9,5,15,0,1,0,0,7,0,112
 2025-08-21,UC Santa Barbara Gauchos,Oregon St.,Away,Loss,0,3,NA,1,0,0,8,1,17,0,2,0,0,5,0,1,3,6,13,5,7,0,2,0,0,6,1,104
 2025-08-25,UC Santa Barbara Gauchos,Central Ark.,Home,Win,2,1,NA,1,2,2,28,11,16,0,1,0,0,6,1,1,1,1,18,6,15,0,2,0,0,7,0,104
 2025-08-28,UC Santa Barbara Gauchos,North Florida,Home,Win,3,0,NA,1,3,4,17,8,18,0,3,0,0,5,1,1,0,0,10,2,13,1,3,0,0,2,0,104
@@ -2326,6 +2424,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,UC Santa Barbara Gauchos,CSU Bakersfield,Home,Draw,1,1,NA,1,1,0,8,3,12,0,1,0,0,5,0,1,1,1,10,5,14,0,1,0,0,4,0,104
 2025-10-15,UC Santa Barbara Gauchos,UC San Diego,Away,Draw,1,1,NA,1,1,0,11,3,8,1,1,0,0,1,0,1,1,1,17,4,9,0,0,0,0,5,0,104
 2025-10-18,UC Santa Barbara Gauchos,Cal Poly,Away,Win,1,0,NA,1,1,2,9,4,14,0,1,0,0,2,1,1,0,0,14,2,12,0,0,0,0,5,0,104
+2025-10-22,UC Santa Barbara Gauchos,Sacramento St.,Home,Win,2,0,NA,1,2,1,25,11,16,0,0,0,0,6,1,1,0,0,14,4,7,0,0,0,0,3,0,104
 2025-08-21,UCF Knights,North Carolina,Away,Loss,1,3,NA,1,1,1,8,3,10,0,2,0,0,4,0,1,3,3,17,6,7,0,2,0,0,2,1,128
 2025-08-24,UCF Knights,Wake Forest,Away,Loss,1,2,NA,1,1,0,14,7,9,0,0,0,0,4,0,1,2,1,16,7,9,0,0,0,0,3,1,128
 2025-08-27,UCF Knights,UTRGV,Home,Win,4,0,NA,1,4,5,17,8,15,0,1,0,1,6,1,1,0,0,6,2,17,0,2,0,0,3,0,128
@@ -2338,6 +2437,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,UCF Knights,Ga. Southern,Home,Win,3,0,NA,1,3,3,16,6,9,0,1,0,0,3,1,1,0,0,5,2,8,0,1,0,0,6,0,128
 2025-10-14,UCF Knights,Bradley,Home,Win,5,1,NA,1,5,5,27,12,11,0,0,0,0,6,1,1,1,1,3,2,10,0,1,0,0,2,0,128
 2025-10-18,UCF Knights,Old Dominion,Away,Draw,1,1,NA,1,1,1,13,4,7,0,0,0,0,2,0,1,1,1,13,6,17,0,1,0,0,5,0,128
+2025-10-22,UCF Knights,James Madison,Home,Win,3,2,NA,1,3,5,21,9,8,0,0,0,0,7,1,1,2,1,8,3,13,0,1,0,0,7,0,128
 2025-08-21,UCLA Bruins,UC Irvine,Away,Loss,0,2,NA,1,0,0,6,2,11,0,0,0,0,2,0,1,2,0,12,4,13,0,0,0,0,3,1,110
 2025-08-24,UCLA Bruins,California,Home,Loss,0,1,NA,1,0,0,4,1,18,0,0,0,0,4,0,1,1,1,14,3,13,0,1,0,0,5,1,110
 2025-08-28,UCLA Bruins,Cal St. Fullerton,Home,Draw,1,1,NA,1,1,1,12,4,11,0,1,0,0,4,0,1,1,1,10,4,18,0,2,0,0,4,0,110
@@ -2351,6 +2451,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,UCLA Bruins,Penn St.,Home,Win,2,0,NA,1,2,4,12,5,11,0,0,0,0,6,1,1,0,0,10,5,6,0,0,0,0,3,0,110
 2025-10-17,UCLA Bruins,Michigan,Away,Loss,0,3,NA,1,0,0,5,2,17,0,1,0,0,5,0,1,3,3,11,5,11,0,2,1,1,1,1,110
 2025-10-20,UCLA Bruins,Michigan St.,Away,Draw,0,0,NA,1,0,0,8,0,9,0,2,0,0,4,0,1,0,0,10,4,6,0,1,0,0,5,0,110
+2025-10-24,UCLA Bruins,Rutgers,Home,Win,5,2,NA,1,5,8,15,6,14,0,0,0,0,5,1,1,2,1,19,6,7,0,0,0,0,10,0,110
 2025-08-21,UConn Huskies,Syracuse,Away,Win,1,0,NA,1,1,2,5,2,9,0,2,0,0,1,1,1,0,0,14,4,9,0,2,0,0,9,0,164
 2025-08-24,UConn Huskies,Massachusetts,Home,Draw,1,1,NA,1,1,0,10,6,11,0,0,1,1,7,0,1,1,0,9,5,7,0,2,0,0,4,0,164
 2025-08-28,UConn Huskies,NJIT,Away,Draw,0,0,NA,1,0,0,13,4,22,0,1,0,0,5,0,1,0,0,14,5,19,0,3,0,0,5,0,164
@@ -2393,6 +2494,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-12,UIW Cardinals,Eastern Ill.,Home,Loss,0,2,NA,1,0,0,4,2,10,0,2,0,0,4,0,1,2,2,16,9,11,0,1,0,0,5,1,2743
 2025-10-16,UIW Cardinals,Lindenwood,Away,Loss,0,2,NA,1,0,0,11,4,17,0,4,0,0,1,0,1,2,2,18,8,10,0,1,0,0,8,1,2743
 2025-10-19,UIW Cardinals,SIUE,Away,Loss,0,2,NA,1,0,0,14,3,12,1,5,0,0,4,0,1,2,2,8,4,12,0,2,0,1,2,1,2743
+2025-10-24,UIW Cardinals,Houston Christian,Away,Loss,1,2,NA,1,1,0,11,6,9,0,1,0,0,3,0,1,2,3,14,8,11,0,1,0,0,6,1,2743
 2025-08-21,UMBC Retrievers,UNCW,Away,Win,2,1,NA,1,2,1,4,3,14,0,3,0,0,2,1,1,1,0,20,5,14,0,2,1,1,4,0,391
 2025-08-25,UMBC Retrievers,Saint Peter's,Home,Win,1,0,NA,1,1,2,13,5,5,0,1,0,0,10,1,1,0,0,6,3,11,0,4,0,0,6,0,391
 2025-08-29,UMBC Retrievers,Niagara,Home,Win,3,1,NA,1,3,1,11,4,14,0,3,2,2,3,1,1,1,2,12,8,10,1,5,0,0,3,0,391
@@ -2405,7 +2507,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,UMBC Retrievers,Bryant,Home,Loss,1,2,NA,1,1,2,14,3,14,0,1,0,0,5,0,1,2,3,13,5,7,0,3,0,0,6,1,391
 2025-10-11,UMBC Retrievers,New Hampshire,Home,Draw,1,1,NA,1,1,1,13,6,11,0,0,0,0,12,0,1,1,0,10,3,8,0,2,0,0,3,0,391
 2025-10-17,UMBC Retrievers,UAlbany,Away,Loss,0,2,NA,1,0,0,6,3,10,0,2,0,0,3,0,1,2,1,9,4,13,0,3,0,0,4,1,391
-2025-10-21,UMBC Retrievers,George Washington,Away,Draw,3,3,NA,1,3,3,12,6,15,0,1,0,0,8,0,1,3,3,11,4,11,0,1,0,0,4,0,391
+2025-10-21,UMBC Retrievers,George Washington,Away,Draw,3,3,NA,1,3,4,12,6,15,0,1,0,0,8,0,1,3,3,11,4,11,0,1,0,0,4,0,391
 2025-08-21,UMass Lowell River Hawks,Saint Peter's,Home,Win,2,1,NA,1,2,1,14,7,21,0,3,0,0,7,1,1,1,1,14,7,11,0,4,0,0,7,0,368
 2025-08-24,UMass Lowell River Hawks,LIU,Home,Loss,0,1,NA,1,0,0,11,3,15,0,0,0,0,4,0,1,1,0,8,2,7,0,1,0,0,4,1,368
 2025-08-28,UMass Lowell River Hawks,Houston Christian,Away,Win,1,0,NA,1,1,1,11,4,14,0,1,0,0,6,1,1,0,0,22,9,12,0,1,0,0,8,0,368
@@ -2431,6 +2533,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,UNC Asheville Bulldogs,High Point,Home,Loss,0,4,NA,1,0,0,3,0,12,0,2,0,0,5,0,1,4,4,7,5,8,0,0,1,1,3,1,456
 2025-10-12,UNC Asheville Bulldogs,Longwood,Away,Win,3,0,NA,1,3,3,11,7,7,0,0,0,0,5,1,1,0,0,6,3,12,0,0,0,0,5,0,456
 2025-10-18,UNC Asheville Bulldogs,Presbyterian,Home,Draw,0,0,NA,1,0,0,8,4,9,0,2,0,0,8,0,1,0,0,7,1,7,0,0,0,0,2,0,456
+2025-10-21,UNC Asheville Bulldogs,Furman,Home,Loss,1,2,NA,1,1,1,11,5,13,0,5,0,0,3,0,1,2,2,15,6,13,0,2,0,0,7,1,456
 2025-08-21,UNC Greensboro Spartans,Radford,Home,Win,6,2,NA,1,6,5,19,13,11,0,1,0,0,6,1,1,2,2,11,3,6,0,0,0,0,6,0,459
 2025-08-24,UNC Greensboro Spartans,VCU,Home,Win,3,2,NA,1,3,2,8,5,8,0,1,0,0,1,1,1,2,1,12,4,11,1,2,0,0,3,0,459
 2025-08-28,UNC Greensboro Spartans,South Fla.,Away,Draw,1,1,NA,1,1,1,9,5,9,0,2,0,0,3,0,1,1,1,7,3,10,0,1,0,0,3,0,459
@@ -2445,6 +2548,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,UNC Greensboro Spartans,VMI,Home,Win,2,0,NA,1,2,1,21,5,9,0,0,0,0,7,1,1,0,0,2,0,10,0,0,0,0,0,0,459
 2025-10-14,UNC Greensboro Spartans,Virginia,Away,Draw,1,1,NA,1,1,1,14,3,11,1,0,0,0,4,0,1,1,2,15,7,8,0,2,0,0,7,0,459
 2025-10-18,UNC Greensboro Spartans,Wofford,Home,Win,3,0,NA,1,3,2,15,6,10,0,1,1,1,6,1,1,0,0,1,0,8,0,1,0,0,2,0,459
+2025-10-21,UNC Greensboro Spartans,NC State,Away,Draw,1,1,NA,1,1,0,4,2,11,0,4,0,0,1,0,1,1,0,25,12,6,0,1,1,1,13,0,459
 2025-08-21,UNCW Seahawks,UMBC,Home,Loss,1,2,NA,1,1,0,20,5,14,0,2,1,1,4,0,1,2,1,4,3,14,0,3,0,0,2,1,460
 2025-08-24,UNCW Seahawks,Ga. Southern,Away,Draw,0,0,NA,1,0,0,17,4,9,0,3,0,0,9,0,1,0,0,8,3,11,0,4,0,0,3,0,460
 2025-08-30,UNCW Seahawks,Elon,Home,Loss,1,2,NA,1,1,2,16,7,12,0,3,0,0,9,0,1,2,3,12,8,10,0,3,0,0,2,1,460
@@ -2457,6 +2561,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,UNCW Seahawks,William & Mary,Away,Loss,0,2,NA,1,0,0,16,4,10,0,3,0,0,7,0,1,2,2,12,9,12,0,4,0,0,3,1,460
 2025-10-11,UNCW Seahawks,Elon,Away,Loss,0,1,NA,1,0,0,7,0,13,1,3,0,0,2,0,1,1,1,12,4,14,0,2,0,0,5,1,460
 2025-10-18,UNCW Seahawks,Campbell,Home,Win,3,2,NA,1,3,4,16,9,15,0,9,0,0,9,1,1,2,1,9,8,16,0,3,0,0,0,0,460
+2025-10-21,UNCW Seahawks,Clemson,Away,Loss,0,6,NA,1,0,0,9,2,10,0,3,0,0,0,0,1,6,7,16,10,14,0,1,0,0,4,1,460
 2025-08-21,UNLV Rebels,LMU (CA),Home,Win,2,1,NA,1,2,1,9,4,4,0,1,0,1,5,1,1,1,0,10,4,13,0,1,0,1,3,0,465
 2025-08-28,UNLV Rebels,Seattle U,Away,Draw,0,0,NA,1,0,0,3,2,13,0,2,0,0,2,0,1,0,0,12,2,13,0,3,0,0,11,0,465
 2025-08-31,UNLV Rebels,Washington,Away,Loss,0,4,NA,1,0,0,6,2,14,0,2,0,0,4,0,1,4,6,18,6,8,0,1,0,0,9,1,465
@@ -2470,6 +2575,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,UNLV Rebels,California Baptist,Away,Draw,1,1,NA,1,1,1,10,4,8,0,1,0,0,3,0,1,1,1,16,4,12,0,3,0,0,11,0,465
 2025-10-12,UNLV Rebels,San Diego St.,Away,Draw,1,1,NA,1,1,1,9,1,18,0,4,0,0,5,0,1,1,0,15,9,8,0,5,1,1,2,0,465
 2025-10-18,UNLV Rebels,Air Force,Home,Win,2,0,NA,1,2,3,7,4,11,0,1,0,0,4,1,1,0,0,12,2,10,0,1,0,0,11,0,465
+2025-10-23,UNLV Rebels,Utah Valley,Home,Draw,3,3,NA,1,3,6,8,5,13,0,1,0,0,2,0,1,3,4,16,5,11,0,1,0,0,6,0,465
 2025-08-21,USC Upstate Spartans,Georgia St.,Home,Draw,2,2,NA,1,2,1,10,4,15,0,3,0,0,3,0,1,2,2,18,7,9,0,2,0,0,4,0,10411
 2025-08-24,USC Upstate Spartans,Liberty,Away,Loss,1,3,NA,1,1,1,6,4,8,0,1,0,0,9,0,1,3,2,17,6,8,0,1,0,0,3,1,10411
 2025-08-29,USC Upstate Spartans,South Carolina,Away,Win,2,1,NA,1,2,0,14,3,18,0,4,1,1,2,1,1,1,1,23,4,10,0,1,0,0,13,0,10411
@@ -2484,6 +2590,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,USC Upstate Spartans,Queens (NC),Away,Loss,1,2,NA,1,1,1,21,8,12,0,2,0,0,3,0,1,2,2,12,5,12,0,1,0,0,1,1,10411
 2025-10-12,USC Upstate Spartans,High Point,Away,Loss,0,2,NA,1,0,0,8,4,12,0,4,0,0,2,0,1,2,3,19,5,12,0,1,0,0,4,1,10411
 2025-10-18,USC Upstate Spartans,Gardner-Webb,Home,Loss,1,2,NA,1,1,1,12,6,17,0,5,0,0,7,0,1,2,1,21,7,10,0,4,0,0,6,1,10411
+2025-10-21,USC Upstate Spartans,Campbell,Away,Loss,2,3,NA,1,2,2,22,4,13,0,3,0,0,2,0,1,3,3,15,5,13,0,3,1,1,5,1,10411
 2025-08-21,Utah Tech Trailblazers ,Gonzaga,Home,Draw,1,1,NA,1,1,1,7,2,8,1,1,0,0,2,0,1,1,0,22,6,14,0,2,1,1,2,0,30095
 2025-08-24,Utah Tech Trailblazers ,Sacramento St.,Away,Draw,1,1,NA,1,1,2,15,4,9,0,3,0,0,2,0,1,1,1,12,6,6,0,2,0,0,4,0,30095
 2025-08-28,Utah Tech Trailblazers ,St. Thomas (MN),Away,Loss,1,2,NA,1,1,1,6,3,17,1,2,0,0,3,0,1,2,1,12,6,9,0,1,0,0,6,1,30095
@@ -2497,6 +2604,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-09,Utah Tech Trailblazers ,San Jose St.,Home,Win,3,1,NA,1,3,4,6,4,11,0,0,0,0,3,1,1,1,0,18,7,6,0,0,0,0,3,0,30095
 2025-10-12,Utah Tech Trailblazers ,Air Force,Home,Win,4,0,NA,1,4,2,18,12,18,0,3,1,1,5,1,1,0,0,16,4,17,0,3,0,0,6,0,30095
 2025-10-18,Utah Tech Trailblazers ,San Diego St.,Away,Loss,1,2,NA,1,1,1,16,6,17,0,3,0,0,4,0,1,2,4,12,3,18,0,1,0,0,5,1,30095
+2025-10-23,Utah Tech Trailblazers ,Grand Canyon,Away,Draw,2,2,NA,1,2,1,9,6,14,0,1,1,1,2,0,1,2,1,15,6,15,0,0,1,1,5,0,30095
 2025-08-27,UTRGV Vaqueros,UCF,Away,Loss,0,4,NA,1,0,0,6,2,17,0,2,0,0,3,0,1,4,5,17,8,15,0,1,0,1,6,1,536
 2025-08-31,UTRGV Vaqueros,Jacksonville,Away,Loss,0,2,NA,1,0,0,6,2,11,0,2,0,0,1,0,1,2,2,10,8,9,0,1,0,0,8,1,536
 2025-09-04,UTRGV Vaqueros,Oral Roberts,Home,Loss,1,2,NA,1,1,1,7,4,6,1,3,0,0,1,0,1,2,3,10,3,14,0,3,0,0,11,1,536
@@ -2573,6 +2681,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Virginia Tech Hokies,Longwood,Home,Win,3,0,NA,1,3,4,16,10,16,0,0,0,0,5,1,1,0,0,5,2,9,0,1,0,0,3,0,742
 2025-10-11,Virginia Tech Hokies,Louisville,Home,Win,2,0,NA,1,2,2,18,6,9,0,1,0,0,12,1,1,0,0,6,1,9,0,1,0,0,1,0,742
 2025-10-19,Virginia Tech Hokies,North Carolina,Away,Loss,0,3,NA,1,0,0,4,2,15,0,1,0,0,2,0,1,3,4,11,5,8,0,2,0,0,3,1,742
+2025-10-22,Virginia Tech Hokies,Winthrop,Home,Win,2,0,NA,1,2,2,28,11,14,0,0,0,0,12,1,1,0,0,4,2,5,0,0,0,0,1,0,742
 2025-08-21,VMI Keydets,Canisius,Home,Loss,0,3,NA,1,0,0,10,2,9,0,1,0,0,6,0,1,3,3,10,4,8,0,1,0,0,4,1,741
 2025-08-23,VMI Keydets,Saint Joseph's,Away,Draw,2,2,NA,1,2,1,5,2,17,0,3,0,0,4,0,1,2,2,13,4,12,0,1,1,1,3,0,741
 2025-08-26,VMI Keydets,Warren Wilson,Home,Win,6,0,NA,1,6,6,23,10,18,0,2,2,2,11,1,1,0,0,6,2,20,0,3,0,1,1,0,741
@@ -2601,6 +2710,8 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,Wake Forest Demon Deacons,Stanford,Home,Loss,0,2,NA,1,0,0,10,2,13,0,5,0,0,8,0,1,2,2,21,8,9,0,2,0,0,2,1,749
 2025-10-11,Wake Forest Demon Deacons,California,Away,Win,2,1,NA,1,2,1,8,5,11,0,4,1,1,5,1,1,1,1,19,7,15,0,2,0,1,9,0,749
 2025-10-17,Wake Forest Demon Deacons,Louisville,Home,Draw,1,1,NA,1,1,1,16,5,8,0,0,0,0,4,0,1,1,0,12,2,17,0,2,0,0,5,0,749
+2025-10-21,Wake Forest Demon Deacons,Wofford,Home,Draw,2,2,NA,1,2,3,12,2,11,0,1,0,0,10,0,1,2,3,7,3,16,0,4,0,0,2,0,749
+2025-10-24,Wake Forest Demon Deacons,Pittsburgh,Away,Draw,1,1,NA,1,1,1,9,3,15,0,1,0,0,4,0,1,1,0,15,7,12,1,2,0,1,3,0,749
 2025-08-21,Washington Huskies,Denver,Away,Loss,0,2,NA,1,0,0,10,3,13,0,2,0,0,5,0,1,2,4,7,3,5,0,0,0,0,6,1,756
 2025-08-24,Washington Huskies,Oregon St.,Away,Loss,1,2,NA,1,1,0,12,4,13,1,1,0,0,6,0,1,2,4,11,6,18,0,5,0,0,2,1,756
 2025-08-28,Washington Huskies,UC Davis,Home,Draw,1,1,NA,1,1,2,10,2,11,0,0,0,0,15,0,1,1,1,8,3,13,0,3,0,0,1,0,756
@@ -2615,6 +2726,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-03,Washington Huskies,Indiana,Home,Win,3,0,NA,1,3,4,26,13,13,0,2,0,0,9,1,1,0,0,14,3,8,0,1,0,0,8,0,756
 2025-10-17,Washington Huskies,Rutgers,Away,Win,2,0,NA,1,2,4,13,5,10,0,3,0,0,3,1,1,0,0,13,5,13,0,0,0,1,6,0,756
 2025-10-20,Washington Huskies,Penn St.,Away,Win,2,1,NA,1,2,3,22,10,13,0,3,0,1,6,1,1,1,0,12,2,11,0,1,1,1,10,0,756
+2025-10-24,Washington Huskies,Ohio St.,Home,Win,5,0,NA,1,5,6,22,12,7,0,0,0,1,7,1,1,0,0,15,7,12,0,2,0,0,6,0,756
 2025-08-21,West Virginia Mountaineers,Manhattan,Home,Win,5,2,NA,1,5,9,14,10,6,0,0,0,0,8,1,1,2,1,5,3,13,0,1,0,0,4,0,768
 2025-08-25,West Virginia Mountaineers,La Salle,Home,Win,4,0,NA,1,4,4,26,14,9,0,5,0,0,10,1,1,0,0,4,2,7,1,2,0,0,1,0,768
 2025-08-29,West Virginia Mountaineers,Akron,Away,Draw,0,0,NA,1,0,0,6,1,7,0,0,0,0,2,0,1,0,0,9,3,12,0,1,0,0,2,0,768
@@ -2628,6 +2740,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-10,West Virginia Mountaineers,Coastal Carolina,Away,Win,2,1,NA,1,2,2,19,8,15,0,0,1,1,17,1,1,1,1,4,1,12,0,3,0,0,2,0,768
 2025-10-14,West Virginia Mountaineers,American,Home,Win,2,0,NA,1,2,3,12,6,4,0,0,0,0,9,1,1,0,0,6,2,7,0,2,0,1,3,0,768
 2025-10-18,West Virginia Mountaineers,Georgia St.,Away,Loss,1,2,NA,1,1,0,19,10,8,0,2,0,0,9,0,1,2,2,6,5,9,0,0,0,0,4,1,768
+2025-10-22,West Virginia Mountaineers,Old Dominion,Home,Win,1,0,NA,1,1,2,14,9,6,0,1,0,0,15,1,1,0,0,3,2,16,1,3,0,0,2,0,768
 2025-08-21,Western Ill. Leathernecks,Butler,Away,Win,1,0,NA,1,1,1,10,3,12,0,3,0,0,3,1,1,0,0,15,5,14,0,2,0,0,6,0,771
 2025-08-24,Western Ill. Leathernecks,Quincy,Home,Loss,0,1,NA,1,0,0,17,9,4,0,1,0,0,3,0,1,1,0,14,10,5,0,4,0,0,4,1,771
 2025-08-28,Western Ill. Leathernecks,NIU,Away,Loss,0,5,NA,1,0,0,5,1,22,0,3,0,0,3,0,1,5,2,20,10,21,0,2,1,1,7,1,771
@@ -2671,6 +2784,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-04,William & Mary Tribe,UNCW,Home,Win,2,0,NA,1,2,2,12,9,12,0,4,0,0,3,1,1,0,0,16,4,10,0,3,0,0,7,0,786
 2025-10-11,William & Mary Tribe,Campbell,Home,Loss,0,4,NA,1,0,0,7,2,9,0,3,0,0,5,0,1,4,3,21,16,10,0,1,0,0,8,1,786
 2025-10-14,William & Mary Tribe,Penn,Away,Loss,1,6,NA,1,1,2,11,7,10,0,1,0,0,3,0,1,6,3,18,10,6,0,0,2,2,3,1,786
+2025-10-21,William & Mary Tribe,George Mason,Home,Draw,0,0,NA,1,0,0,11,3,10,0,1,0,0,0,0,1,0,0,8,1,7,0,1,0,0,8,0,786
 2025-08-21,Winthrop Eagles,Coastal Carolina,Home,Loss,0,3,NA,1,0,0,10,5,11,0,1,0,0,2,0,1,3,4,17,5,11,0,0,0,0,3,1,792
 2025-08-24,Winthrop Eagles,Campbell,Home,Loss,0,2,NA,1,0,0,7,1,13,0,2,0,0,2,0,1,2,2,22,9,15,0,1,0,0,7,1,792
 2025-08-30,Winthrop Eagles,Georgia St.,Home,Loss,1,3,NA,1,1,0,11,7,17,0,1,0,0,4,0,1,3,4,20,9,7,0,1,0,0,8,1,792
@@ -2684,6 +2798,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-11,Winthrop Eagles,Presbyterian,Away,Loss,0,1,NA,1,0,0,9,5,12,0,2,0,0,6,0,1,1,0,10,5,10,0,2,1,1,3,1,792
 2025-10-14,Winthrop Eagles,Col. of Charleston,Home,Draw,1,1,NA,1,1,1,6,3,9,0,1,0,0,6,0,1,1,1,12,6,13,0,0,0,0,7,0,792
 2025-10-17,Winthrop Eagles,Longwood,Away,Draw,2,2,NA,1,2,1,7,2,14,0,2,0,0,2,0,1,2,1,37,15,13,0,2,0,0,10,0,792
+2025-10-22,Winthrop Eagles,Virginia Tech,Away,Loss,0,2,NA,1,0,0,4,2,5,0,0,0,0,1,0,1,2,2,28,11,14,0,0,0,0,12,1,792
 2025-08-21,Wisconsin Badgers,North Florida,Home,Loss,0,1,NA,1,0,0,11,5,12,0,5,0,0,17,0,1,1,1,5,4,14,0,1,0,0,2,1,796
 2025-08-24,Wisconsin Badgers,Bradley,Home,Win,4,1,NA,1,4,2,12,6,12,0,0,1,1,3,1,1,1,0,4,1,8,0,0,1,1,1,0,796
 2025-08-29,Wisconsin Badgers,Western Mich.,Home,Win,1,0,NA,1,1,2,7,3,15,0,2,0,0,3,1,1,0,0,10,5,10,0,2,0,0,5,0,796
@@ -2695,6 +2810,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Wisconsin Badgers,Milwaukee,Home,Win,2,1,NA,1,2,3,5,3,13,0,1,0,0,4,1,1,1,1,4,2,6,0,0,0,0,2,0,796
 2025-10-10,Wisconsin Badgers,Rutgers,Away,Loss,2,4,NA,1,2,4,11,6,12,1,0,0,0,6,0,1,4,3,9,4,9,0,1,0,0,5,1,796
 2025-10-17,Wisconsin Badgers,Michigan St.,Home,Win,2,0,NA,1,2,3,12,5,11,0,3,0,0,4,1,1,0,0,9,5,11,0,0,0,0,6,0,796
+2025-10-21,Wisconsin Badgers,Indiana,Away,Loss,1,4,NA,1,1,2,7,3,6,0,1,0,0,3,0,1,4,5,16,9,7,0,1,0,0,5,1,796
 2025-08-24,Wofford Terriers,NC State,Away,Loss,0,6,NA,1,0,0,1,0,5,0,2,0,0,0,0,1,6,5,26,7,8,0,0,0,0,14,1,2915
 2025-08-28,Wofford Terriers,Ga. Southern,Home,Loss,0,1,NA,1,0,0,8,1,11,0,2,0,0,4,0,1,1,2,16,5,12,0,2,0,1,7,1,2915
 2025-08-31,Wofford Terriers,Coastal Carolina,Away,Win,5,2,NA,1,5,6,7,6,13,0,3,0,0,6,1,1,2,3,11,5,13,0,3,0,0,3,0,2915
@@ -2709,6 +2825,8 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-10-07,Wofford Terriers,Gardner-Webb,Home,Loss,1,2,NA,1,1,2,5,3,13,0,4,0,0,0,0,1,2,1,20,4,12,0,2,0,0,6,1,2915
 2025-10-11,Wofford Terriers,Mercer,Home,Loss,4,5,NA,1,4,2,18,6,16,0,2,1,1,8,0,1,5,8,10,6,14,0,1,0,0,2,1,2915
 2025-10-18,Wofford Terriers,UNC Greensboro,Away,Loss,0,3,NA,1,0,0,1,0,8,0,1,0,0,2,0,1,3,2,15,6,10,0,1,1,1,6,1,2915
+2025-10-21,Wofford Terriers,Wake Forest,Away,Draw,2,2,NA,1,2,3,7,3,16,0,4,0,0,2,0,1,2,3,12,2,11,0,1,0,0,10,0,2915
+2025-10-24,Wofford Terriers,ETSU,Away,Loss,2,4,NA,1,2,0,22,11,11,0,0,0,0,13,0,1,4,2,9,4,12,0,1,0,0,1,1,2915
 2025-08-21,Wright St. Raiders,Belmont,Away,Loss,1,2,NA,1,1,1,7,5,12,0,2,0,0,2,0,1,2,1,8,3,7,0,1,1,1,4,1,810
 2025-08-28,Wright St. Raiders,Bowling Green,Home,Loss,0,3,NA,1,0,0,12,6,8,0,2,0,0,7,0,1,3,3,11,8,8,0,3,0,0,3,1,810
 2025-08-31,Wright St. Raiders,Lindenwood,Away,Loss,0,3,NA,1,0,0,10,4,8,0,3,0,0,5,0,1,3,4,12,5,8,0,1,0,0,2,1,810
@@ -2739,7 +2857,7 @@ date,team,opponent,home_away,outcome,team_score,opponent_score,overtime,games,go
 2025-09-07,"Yale Elis, Bulldogs",Quinnipiac,Home,Draw,2,2,NA,1,2,2,8,3,16,0,2,0,0,7,0,1,2,2,13,4,8,0,6,0,0,2,0,813
 2025-09-12,"Yale Elis, Bulldogs",UC Irvine,Away,Loss,0,1,NA,1,0,0,9,1,14,0,2,0,0,1,0,1,1,2,14,7,7,0,1,0,0,6,1,813
 2025-09-15,"Yale Elis, Bulldogs",San Diego St.,Away,Loss,0,2,NA,1,0,0,6,3,10,0,0,0,0,2,0,1,2,2,14,6,15,0,2,0,0,8,1,813
-2025-09-20,"Yale Elis, Bulldogs",Massachusetts,Away,Draw,2,2,NA,1,2,0,4,2,10,0,2,1,1,3,0,1,2,1,24,12,7,0,2,0,1,12,0,813
+2025-09-20,"Yale Elis, Bulldogs",Massachusetts,Away,Draw,2,2,NA,1,2,2,5,3,10,0,2,1,1,3,0,1,2,1,24,12,7,0,2,0,1,12,0,813
 2025-09-23,"Yale Elis, Bulldogs",New Hampshire,Home,Loss,0,2,NA,1,0,0,4,3,20,0,4,0,0,1,0,1,2,2,15,6,11,0,0,0,0,5,1,813
 2025-09-27,"Yale Elis, Bulldogs",Cornell,Away,Loss,1,3,NA,1,1,1,11,4,12,0,0,0,0,3,0,1,3,3,26,10,8,0,0,0,1,7,1,813
 2025-10-04,"Yale Elis, Bulldogs",Columbia,Home,Win,1,0,NA,1,1,2,19,9,8,0,0,0,0,5,1,1,0,0,18,3,8,0,0,0,0,1,0,813
