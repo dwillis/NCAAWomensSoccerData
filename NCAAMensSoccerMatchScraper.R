@@ -31,7 +31,40 @@ for (i in urls){
       schoolfull <- character(0)
     }
   }
-  
+
+  # Find and scrape goalkeeper stats
+  goalkeeper_link <- schoolpage %>%
+    html_nodes("li a") %>%
+    keep(~html_text(.x) == "Goalkeepers") %>%
+    html_attr("href")
+
+  goalkeeper_stats <- tibble()
+
+  if(length(goalkeeper_link) > 0) {
+    goalkeeper_url <- paste0(root_url, goalkeeper_link[1])
+
+    tryCatch({
+      goalkeeper_page <- goalkeeper_url %>% read_html()
+
+      goalkeeper_table <- goalkeeper_page %>%
+        html_nodes("table") %>%
+        html_table(fill=TRUE)
+
+      if(length(goalkeeper_table) > 0) {
+        goalkeeper_stats <- goalkeeper_table[[1]] %>%
+          row_to_names(row_number = 1) %>%
+          clean_names() %>%
+          filter(if("goalie" %in% names(.)) !is.na(goalie) & goalie != "" else TRUE) %>%
+          filter(if("player" %in% names(.)) !is.na(player) & player != "" else TRUE) %>%
+          select(-matches("^(goalie|player|yr|pos)$")) %>%  # Remove player-specific columns
+          summarise(across(everything(), ~sum(as.numeric(gsub(",", "", as.character(.x))), na.rm = TRUE))) %>%
+          rename_with(~paste0("goalie_", .))  # Add goalie_ prefix to all columns
+      }
+    }, error = function(e) {
+      message(paste0("Could not fetch goalkeeper stats for ", schoolfull))
+    })
+  }
+
   matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table(fill=TRUE)
   
   matches <- matches[[1]] %>% slice(3:n()) %>%
@@ -53,12 +86,31 @@ for (i in urls){
     mutate_at(vars(-date, -team, -opponent, -home_away, -outcome), as.numeric)
   
   teamside <- matches %>% filter(opponent != "Defensive Totals")
-  
-  opponentside <- matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away, -overtime) %>% rename_with(.cols = 6:17, function(x){paste0("defensive_", x)})
-  
+
+  opponentside <- matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away, -overtime, -gp) %>% rename_with(.cols = 6:18, function(x){paste0("defensive_", x)})
+
   joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "outcome", "team_score", "opponent_score"))
-  
+
   joinedmatches <- joinedmatches %>% add_column(team_id = team_id)
+
+  # Add goalkeeper stats to each match
+  if(nrow(goalkeeper_stats) > 0) {
+    joinedmatches <- bind_cols(joinedmatches, goalkeeper_stats)
+  } else {
+    # Add empty goalkeeper columns if no stats available
+    joinedmatches <- joinedmatches %>%
+      mutate(
+        goalie_min_plyd = NA,
+        goalie_ga = NA,
+        goalie_gaa = NA,
+        goalie_saves = NA,
+        goalie_sv_pct = NA,
+        goalie_shutouts = NA,
+        goalie_g_wins = NA,
+        goalie_g_loss = NA,
+        goalie_g_ties = NA
+      )
+  }
   
   # grab opponent IDs - the one issue here is that if a team plays an opponent that isn't linked, this won't work and the team's matches will not have any opponent_id values
   #opponent_ids <- schoolpage %>% html_nodes("a") %>% html_attr("href") %>% as_tibble() %>% filter(str_detect(value, "/teams/")) %>% filter(!str_detect(value, paste0("/", team_id, "/"))) %>% separate(value, into=c('blank', 'team', 'opponent_id', 'season_id'), sep = '/') %>% select(opponent_id)
