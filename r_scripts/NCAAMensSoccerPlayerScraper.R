@@ -100,21 +100,13 @@ for (i in urls){
       # Select and reorder columns to match expected CSV structure
       select(
         season, team, team_id, full_name, roster_name, first_name, last_name,
-        yr, pos, number, ht, gp, gs, minutes, goals, assists, points,
+        yr, pos, number, ht, gp, gs, goals, assists,
         sh_att, so_g, fouls, red_cards, yellow_cards, corners, pk, pk_att, gwg
       ) %>%
       # Clean numeric columns - handle time format properly
       mutate(
-        # Convert time format (MM:SS) to decimal minutes
-        minutes = case_when(
-          str_detect(as.character(minutes), ":") ~ {
-            time_parts <- str_split(as.character(minutes), ":")
-            map_dbl(time_parts, ~as.numeric(.x[1]) + as.numeric(.x[2])/60)
-          },
-          TRUE ~ as.numeric(str_replace_all(as.character(minutes), "[,]", ""))
-        ),
         # Convert other numeric columns normally
-        across(c(number, ht, gp, gs, goals, assists, points,
+        across(c(number, ht, gp, gs, goals, assists,
                  sh_att, so_g, fouls, red_cards, yellow_cards, corners,
                  pk, pk_att, gwg), ~as.numeric(str_replace_all(as.character(.), "[,-]", "")))
       )

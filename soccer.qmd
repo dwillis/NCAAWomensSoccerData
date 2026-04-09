@@ -1,0 +1,30 @@
+```{r}
+library(tidyverse)
+```
+
+```{r}
+players <- read_csv("data/ncaa_womens_soccer_playerstats_2023.csv")
+```
+
+```{r}
+keepers <- players |> 
+  filter(pos == 'GK') |> 
+  mutate(
+    gaa_z = as.numeric(scale(gaa, center = TRUE, scale = TRUE)),
+    saves_z = as.numeric(scale(saves, center = TRUE, scale = TRUE)),
+    sv_pct_z = as.numeric(scale(sv_pct, center = TRUE, scale = TRUE)),
+    total_z_score = gaa_z + saves_z + sv_pct_z
+  )  
+```
+
+```{r}
+
+big_ten = c('Wisconsin Badgers', 'Maryland Terrapins, Terps', 'Michigan Wolverines', 'Rutgers Scarlet Knights', 'Indiana Hoosiers', 'Iowa Hawkeyes', 'Penn St. Nittany Lions', 'Minnesota Golden Gophers', 'Illinois Fighting Illini', 'Ohio St. Buckeyes', 'Northwestern Wildcats', 'Michigan St. Spartans', 'Purdue Boilermakers', 'Nebraska Cornhuskers')
+
+keepers |> 
+  filter(team %in% big_ten) |> 
+  select(team, full_name, total_z_score) |> 
+  arrange(desc(total_z_score))
+```
+
+

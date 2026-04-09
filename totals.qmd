@@ -1,0 +1,19 @@
+```{r}
+library(tidyverse)
+```
+
+```{r}
+totals <- read_csv("url_csvs/totals_2023.csv")
+totals_g <- read_csv("url_csvs/totalsg_2023.csv")
+
+combined_totals <- totals |> inner_join(totals_g, join_by(Institution, Conference))
+
+attend <- read_csv("url_csvs/attendance_2023.csv")
+
+totals_2023 <- combined_totals |> inner_join(attend, join_by(Institution, Conference))
+
+write_csv(totals_2023, "~/code/SportsDataTextbook/data/ncaa_womens_soccer_totals_2023.csv")
+write_csv(totals_2023, "~/code/dwillis.github.io/docs/sports-data-files/ncaa_womens_soccer_totals_2023.csv")
+```
+
+

@@ -1,0 +1,21 @@
+```{r}
+library(nflfastR)
+library(dplyr, warn.conflicts = FALSE)
+```
+
+```{r}
+ids <- nflfastR::fast_scraper_schedules(2024:2024) %>%
+  dplyr::pull(game_id)
+
+future::plan("multisession")
+pbp <- nflfastR::build_nflfastR_pbp(ids)
+
+colnames(pbp)
+```
+```{r}
+pbp |> filter(replay_or_challenge == TRUE)
+```
+```{r}
+pbp |> filter(replay_or_challenge == TRUE) |> select(game_id, home_team, away_team, season_type, week, game_date, game_half, replay_or_challenge_result, desc) |> filter(str_detect(desc, "challenge"))
+```
+

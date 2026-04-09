@@ -5,6 +5,8 @@
 # Session Data files
 .RData
 
+__pycache__/
+
 # User-specific files
 .Ruserdata
 
@@ -41,3 +43,4 @@ vignettes/*.pdf
 *.Rproj
 
 .DS_Store
+.positai
