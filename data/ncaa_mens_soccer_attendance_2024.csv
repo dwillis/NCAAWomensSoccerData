@@ -1,0 +1,215 @@
+rank,institution,conference,accum_attendance,avg_attendance,stadium_capacity,pct_capacity,games
+1,South Carolina,Sun Belt,"49,407","4,492","5,700",78.80,11
+2,Clemson,ACC,"40,350","3,104","6,000",51.73,13
+3,Indiana,Big Ten,"32,183","2,682","6,100",43.97,12
+4,UC Santa Barbara,Big West,"28,733","2,394","17,000",14.08,12
+5,Marshall,Sun Belt,"28,358","2,026","1,006",201.35,14
+6,Maryland,Big Ten,"26,650","2,221","7,000",31.73,12
+7,Ohio St.,Big Ten,"26,386","1,885","4,518",41.72,14
+8,UConn,Big East,"23,564","2,356","4,500",52.36,10
+9,Creighton,Big East,"21,902","2,190","7,500",29.20,10
+10,Wake Forest,ACC,"20,919","1,609","3,000",53.64,13
+11,West Virginia,Sun Belt,"20,550","1,581","1,650",95.80,13
+12,Virginia,ACC,"20,456","1,574","8,000",19.67,13
+13,North Carolina,ACC,"19,737","1,645","4,200",39.16,12
+14,Washington,Big Ten,"18,557","1,856","2,200",84.35,10
+15,Stanford,ACC,"17,820","1,371","1,900",72.15,13
+16,UMBC,America East,"17,358","1,447","1,500",96.43,12
+17,Cal Poly,Big West,"17,043","2,130","11,075",19.24,8
+18,SMU,ACC,"16,924","1,058","2,577",41.05,16
+19,Michigan St.,Big Ten,"16,246","1,805","2,500",72.20,9
+20,Pittsburgh,ACC,"15,217","1,171",735,159.26,13
+21,NC State,ACC,"15,034","1,253","2,000",62.64,12
+22,Providence,Big East,"14,973","1,361","2,500",54.45,11
+23,Vermont,America East,"14,504","1,209","2,600",46.49,12
+24,Saint Louis,Atlantic 10,"14,399","1,440","6,050",23.80,10
+25,Akron,Big East,"14,280","1,098","5,000",21.97,13
+26,Michigan,Big Ten,"13,737","1,249","2,200",56.76,11
+27,Portland,WCC,"13,599","1,236","4,892",25.27,11
+28,San Diego,WCC,"13,011","1,084","5,792",18.72,12
+29,Denver,Summit League,"12,880","1,171","1,915",61.14,11
+30,UCLA,Big Ten,"12,529","1,044","2,145",48.68,12
+31,Syracuse,ACC,"12,303","1,367","1,500",91.13,9
+32,Notre Dame,ACC,"11,932","1,085","3,500",30.99,11
+33,Penn St.,Big Ten,"11,860","1,318","5,000",26.36,9
+34,Dayton,Atlantic 10,"10,810",832,"2,000",41.58,13
+35,Duke,ACC,"10,735",976,"4,000",24.40,11
+36,Grand Canyon,WAC,"9,887","1,099","6,000",18.31,9
+37,Virginia Tech,ACC,"9,592",959,"2,028",47.30,10
+38,Kentucky,Sun Belt,"9,253","1,028","1,500",68.54,9
+39,Georgetown,Big East,"9,093",827,"1,625",50.87,11
+40,Butler,Big East,"8,690",869,"5,647",15.39,10
+41,Utah Valley,WAC,"8,665",963,"1,050",91.69,9
+42,Rhode Island,Atlantic 10,"8,604",956,"2,000",47.80,9
+43,George Mason,Atlantic 10,"8,039",804,"5,000",16.08,10
+44,California Baptist,WAC,"7,901",790,"1,000",79.01,10
+45,High Point,Big South,"7,729",859,"1,100",78.07,9
+46,New Hampshire,America East,"7,608",951,"11,015",8.63,8
+47,Dartmouth,Ivy League,"7,595",760,"2,100",36.17,10
+48,UNC Greensboro,SoCon,"7,593",759,"3,270",23.22,10
+49,St. John's (NY),Big East,"7,515",626,"2,168",28.89,12
+50,Oregon St.,WCC,"7,435",744,"1,500",49.57,10
+51,Oral Roberts,Summit League,"7,398",925,"1,000",92.48,8
+52,Wisconsin,Big Ten,"7,291",810,0,Inf,9
+52,Wisconsin,Big Ten,"7,291",810,"4,500",18.00,9
+54,San Diego St.,WAC,"7,093",887,"1,250",70.93,8
+55,South Fla.,American,"6,870",687,"3,000",22.90,10
+56,UC Irvine,Big West,"6,850",685,"2,500",27.40,10
+57,Bowling Green,MVC,"6,801",756,"1,000",75.57,9
+58,UAlbany,America East,"6,714",839,"8,500",9.87,8
+59,Louisville,ACC,"6,676",668,"5,300",12.60,10
+60,Elon,CAA,"6,654",605,625,96.79,11
+61,Hofstra,CAA,"6,479",648,"1,600",40.49,10
+62,Boston College,ACC,"6,444",644,"2,000",32.22,10
+63,Rutgers,Big Ten,"6,159",684,"5,000",13.69,9
+64,UNCW,CAA,"6,035",754,"1,500",50.29,8
+65,UCF,Sun Belt,"5,931",593,"2,475",23.96,10
+66,Coastal Carolina,Sun Belt,"5,808",528,"1,000",52.80,11
+67,SIUE,OVC,"5,760",576,"4,000",14.40,10
+68,Missouri St.,MVC,"5,722",572,"1,000",57.22,10
+69,Western Mich.,MVC,"5,710",439,500,87.85,13
+70,Omaha,Summit League,"5,599",560,"3,097",18.08,10
+71,Navy,Patriot,"5,581",620,"1,500",41.34,9
+72,Gonzaga,WCC,"5,451",496,"1,500",33.04,11
+73,Northwestern,Big Ten,"5,435",544,"1,702",31.93,10
+74,CSU Bakersfield,Big West,"5,314",759,"2,500",30.37,7
+75,UIC,MVC,"5,264",585,"1,200",48.74,9
+76,Holy Cross,Patriot,"5,170",574,"1,320",43.52,9
+77,Princeton,Ivy League,"5,124",569,"2,356",24.17,9
+78,Cornell,Ivy League,"4,980",553,"1,000",55.33,9
+79,Charlotte,American,"4,953",708,"4,000",17.69,7
+80,Cal St. Fullerton,Big West,"4,892",612,"10,000",6.12,8
+81,Bucknell,Patriot,"4,852",485,"1,250",38.82,10
+82,Duquesne,Atlantic 10,"4,683",468,"2,200",21.29,10
+83,ETSU,SoCon,"4,618",577,"2,000",28.86,8
+84,Marquette,Big East,"4,587",510,"1,750",29.12,9
+85,Penn,Ivy League,"4,565",415,650,63.85,11
+86,San Jose St.,WAC,"4,516",452,"1,000",45.16,10
+87,UNLV,WAC,"4,417",552,"2,500",22.09,8
+88,Bradley,MVC,"4,361",545,"1,800",30.28,8
+89,Fla. Atlantic,American,"4,315",539,300,179.79,8
+90,DePaul,Big East,"4,244",531,"1,000",53.05,8
+91,Davidson,Atlantic 10,"4,156",416,"2,000",20.78,10
+92,Massachusetts,Atlantic 10,"4,154",415,"2,000",20.77,10
+93,Old Dominion,Sun Belt,"4,152",519,"4,000",12.98,8
+94,California,ACC,"4,140",518,"22,000",2.35,8
+95,Colgate,Patriot,"4,134",459,"1,300",35.33,9
+96,UC Riverside,Big West,"4,019",670,"1,056",63.43,6
+97,San Francisco,WCC,"3,988",499,"2,500",19.94,8
+98,Army West Point,Patriot,"3,985",498,"2,000",24.91,8
+99,Brown,Ivy League,"3,979",442,"3,500",12.63,9
+100,LMU (CA),WCC,"3,978",442,"2,000",22.10,9
+101,North Florida,ASUN,"3,960",440,"9,300",4.73,9
+102,James Madison,Sun Belt,"3,823",425,"1,500",28.32,9
+103,Seattle U,WAC,"3,790",541,"1,800",30.08,7
+104,Bryant,America East,"3,775",419,"4,400",9.53,9
+105,Xavier,Big East,"3,723",372,"1,000",37.23,10
+106,William & Mary,CAA,"3,715",464,"1,000",46.44,8
+107,Milwaukee,Horizon,"3,697",411,"2,000",20.54,9
+108,Yale,Ivy League,"3,663",458,"1,766",25.93,8
+109,UC Davis,Big West,"3,567",396,"1,000",39.63,9
+110,Marist,MAAC,"3,540",506,"5,000",10.11,7
+111,VCU,Atlantic 10,"3,459",432,"3,000",14.41,8
+112,FDU,NEC,"3,445",345,"1,100",31.32,10
+113,Northern Ky.,Horizon,"3,396",485,"1,000",48.51,7
+114,Evansville,MVC,"3,367",561,"2,500",22.45,6
+115,Loyola Maryland,Patriot,"3,331",476,"6,000",7.93,7
+116,NJIT,America East,"3,293",366,"1,000",36.59,9
+117,Tulsa,American,"3,292",412,"2,000",20.58,8
+118,Binghamton,America East,"3,268",409,"2,534",16.12,8
+119,Santa Clara,WCC,"3,264",466,"6,800",6.86,7
+120,Monmouth,CAA,"3,262",408,"1,500",27.18,8
+121,CSUN,Big West,"3,247",406,"1,500",27.06,8
+122,UC San Diego,Big West,"3,050",305,"1,750",17.43,10
+123,Harvard,Ivy League,"3,034",506,"2,500",20.23,6
+124,Iona,MAAC,"3,032",337,"2,440",13.81,9
+125,Oakland,Horizon,"2,933",267,"1,000",26.66,11
+126,Canisius,MAAC,"2,908",364,"1,000",36.35,8
+127,FIU,American,"2,904",484,"1,500",32.27,6
+128,Pacific,WCC,"2,898",414,"1,500",27.60,7
+129,Drake,MVC,"2,862",409,"4,000",10.22,7
+130,Fairfield,MAAC,"2,857",476,600,79.36,6
+131,Seton Hall,Big East,"2,834",315,"1,800",17.49,9
+132,Furman,SoCon,"2,767",461,"3,000",15.37,6
+133,Jacksonville,ASUN,"2,757",394,500,78.77,7
+134,Drexel,CAA,"2,747",392,"1,000",39.24,7
+135,Villanova,Big East,"2,736",304,"1,500",20.27,9
+136,Temple,American,"2,668",381,"1,000",38.11,7
+137,Kansas City,Summit League,"2,652",332,850,39.00,8
+138,Lehigh,Patriot,"2,644",264,"1,284",20.59,10
+139,Rider,MAAC,"2,618",291,"1,000",29.09,9
+140,Stonehill,NEC,"2,598",325,0,Inf,8
+141,St. Bonaventure,Atlantic 10,"2,581",323,500,64.53,8
+142,Fordham,Atlantic 10,"2,579",322,"7,000",4.61,8
+143,Mercer,SoCon,"2,508",358,500,71.66,7
+144,Liberty,OVC,"2,500",357,"1,000",35.71,7
+145,Merrimack,MAAC,"2,480",354,"2,000",17.71,7
+146,UTRGV,WAC,"2,430",304,"1,250",24.30,8
+147,Wright St.,Horizon,"2,395",299,750,39.92,8
+148,Memphis,American,"2,368",237,"2,042",11.60,10
+149,Central Conn. St.,NEC,"2,339",334,"1,000",33.41,7
+150,Southern Ind.,OVC,"2,330",291,500,58.25,8
+151,Utah Tech,WAC,"2,322",332,"10,000",3.32,7
+152,Mount St. Mary's,MAAC,"2,287",286,"1,000",28.59,8
+153,Green Bay,Horizon,"2,274",253,"1,500",16.84,9
+154,Air Force,WAC,"2,269",284,"3,000",9.45,8
+155,Saint Joseph's,Atlantic 10,"2,222",247,"3,000",8.23,9
+156,Boston U.,Patriot,"2,195",220,"10,412",2.11,10
+157,UNC Asheville,Big South,"2,180",436,"1,000",43.60,5
+158,Lafayette,Patriot,"2,172",272,"1,500",18.10,8
+158,Cleveland St.,Horizon,"2,172",241,"3,000",8.04,9
+160,Quinnipiac,MAAC,"2,161",196,"1,500",13.10,11
+161,Le Moyne,NEC,"2,147",239,"1,500",15.90,9
+162,FGCU,ASUN,"2,129",304,"1,500",20.28,7
+163,St. Thomas (MN),Summit League,"2,125",236,"1,000",23.61,9
+164,Col. of Charleston,CAA,"2,110",264,"1,200",21.98,8
+165,Longwood,Big South,"2,109",301,350,86.08,7
+166,Sacramento St.,Big West,"2,095",299,"1,050",28.50,7
+167,Siena,MAAC,"2,093",262,"1,000",26.16,8
+168,Saint Mary's (CA),WCC,"2,081",260,"3,500",7.43,8
+169,Georgia St.,Sun Belt,"2,055",257,"2,000",12.84,8
+170,Loyola Chicago,Atlantic 10,"2,022",289,0,Inf,7
+170,Loyola Chicago,Atlantic 10,"2,022",289,615,46.97,7
+172,Belmont,MVC,"2,018",224,500,44.84,9
+173,Delaware,CAA,"1,995",249,"1,400",17.81,8
+174,NIU,MVC,"1,899",211,"1,989",10.61,9
+175,Winthrop,Big South,"1,897",237,"1,800",13.17,8
+176,Ga. Southern,Sun Belt,"1,892",189,500,37.84,10
+176,Lipscomb,ASUN,"1,892",315,"2,000",15.77,6
+178,La Salle,Atlantic 10,"1,871",208,"7,500",2.77,9
+179,American,Patriot,"1,859",207,"2,000",10.33,9
+180,IU Indy,Horizon,"1,851",264,"10,000",2.64,7
+181,UMass Lowell,America East,"1,830",203,"1,000",20.33,9
+182,Stony Brook,CAA,"1,794",224,"12,300",1.82,8
+183,Purdue Fort Wayne,Horizon,"1,776",296,"1,000",29.60,6
+184,Campbell,CAA,"1,750",175,"1,000",17.50,10
+185,Niagara,MAAC,"1,744",249,"1,200",20.76,7
+186,Northeastern,CAA,"1,704",189,"3,000",6.31,9
+187,Bellarmine,ASUN,"1,700",213,"1,776",11.97,8
+188,VMI,SoCon,"1,687",187,"1,000",18.74,9
+189,Sacred Heart,MAAC,"1,680",210,"4,000",5.25,8
+190,Wofford,SoCon,"1,679",280,550,50.88,6
+191,UAB,American,"1,657",237,"6,000",3.95,7
+192,Stetson,ASUN,"1,594",177,500,35.42,9
+193,Central Ark.,ASUN,"1,556",222,"1,000",22.23,7
+194,Gardner-Webb,Big South,"1,487",186,"1,000",18.59,8
+195,Houston Christian,OVC,"1,450",161,500,32.22,9
+196,Robert Morris,Horizon,"1,396",140,"1,000",13.96,10
+197,Detroit Mercy,Horizon,"1,379",230,"1,000",22.98,6
+198,Presbyterian,Big South,"1,336",191,500,38.17,7
+199,Lindenwood,OVC,"1,295",162,"6,000",2.70,8
+200,George Washington,Atlantic 10,"1,248",178,"1,000",17.83,7
+201,UIW,OVC,"1,221",153,"6,000",2.54,8
+202,Howard,NEC,"1,149",192,"7,086",2.70,6
+203,Radford,Big South,"1,105",184,"5,000",3.68,6
+204,USC Upstate,Big South,"1,070",134,"3,000",4.46,8
+205,Columbia,Ivy League,"1,018",170,"3,000",5.66,6
+206,Queens (NC),ASUN,"1,000",143,"2,000",7.14,7
+207,Mercyhurst,NEC,957,239,"2,300",10.40,4
+208,LIU,NEC,913,114,300,38.04,8
+209,Manhattan,MAAC,894,149,"2,000",7.45,6
+210,Saint Francis,NEC,810,135,500,27.00,6
+211,Western Ill.,OVC,609,76,"1,000",7.61,8
+212,Saint Peter's,MAAC,500,71,"1,000",7.14,7
+213,Chicago St.,NEC,382,76,0,Inf,5
+214,Eastern Ill.,OVC,288,36,"1,000",3.60,8
