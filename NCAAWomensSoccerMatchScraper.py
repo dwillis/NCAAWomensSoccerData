@@ -249,7 +249,7 @@ def process_team(page, url):
 
 
 def main():
-    season = sys.argv[1] if len(sys.argv) > 1 else "2025"
+    season = sys.argv[1] if len(sys.argv) > 1 else "2026"
     limit = int(sys.argv[2]) if len(sys.argv) > 2 else None
     urls_file = f"url_csvs/ncaa_womens_soccer_teamurls_{season}.csv"
     output_file = f"data/ncaa_womens_soccer_matchstats_{season}.csv"

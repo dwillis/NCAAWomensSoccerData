@@ -310,7 +310,7 @@ REPORT_PARSERS = {
 
 
 def main():
-    season = sys.argv[1] if len(sys.argv) > 1 else "2025"
+    season = sys.argv[1] if len(sys.argv) > 1 else "2026"
     output_prefix = f"data/ncaa_mens_soccer"
 
     print(f"Deriving season_id from team URL CSV for {season}...")

@@ -5,6 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ncaa-stats-py",
     "pandas>=3.0.2",
     "playwright>=1.58.0",
+    "requests>=2.34.2",
 ]
+
+[tool.uv.sources]
+ncaa-stats-py = { git = "https://github.com/Sports-Roster-Data/ncaa_stats_py.git" }
